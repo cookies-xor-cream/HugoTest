@@ -1,0 +1,12 @@
+# config/_default/languages.en.toml
+
+title = "TODO: Replace"
+
+[author]
+name = "cookies-xor-cream"
+image = "img/cookie.png"
+headline = "TODO: Replace"
+bio = "TODO: Replace"
+links = [
+  { github = "https://github.com/cookies-xor-cream" }
+]

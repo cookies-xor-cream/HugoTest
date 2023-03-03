@@ -1,0 +1,19 @@
+[[main]]
+  name = "Example Thingy"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Topics"
+  pageRef = "topics"
+  weight = 20
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 30
+
+[[footer]]
+  name = "Privacy"
+  url = "https://external-link"
