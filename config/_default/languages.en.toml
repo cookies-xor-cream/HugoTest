@@ -1,12 +1,15 @@
 # config/_default/languages.en.toml
 
-title = "TODO: Replace"
+title = "cookies-xor-cream: poetry"
 
 [author]
 name = "cookies-xor-cream"
 image = "img/cookie.png"
 headline = "TODO: Replace"
-bio = "TODO: Replace"
+bio = "A software developer who sometimes jots down a few ways on their daily transit."
 links = [
   { github = "https://github.com/cookies-xor-cream" }
 ]
+
+[permalinks]
+  posts = "poems/:title"
