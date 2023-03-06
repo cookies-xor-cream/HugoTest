@@ -1,19 +1,28 @@
-a.article {
-    padding: 12px;
+#homepage-menu {
+    margin-bottom: 4rem;
+}
+
+@media only screen and (max-width: 421px) {
+    #homepage-menu {
+        margin-bottom: 0;
+    }
+}
+
+#homepage-menu a.article {
     background-color: rgba(var(--color-neutral),var(--tw-bg-opacity));
     border-radius: 8px;
     transition: filter 200ms;
 }
 
-.dark a.article {
+.dark #homepage-menu a.article {
     background-color: rgba(var(--color-neutral-800),var(--tw-bg-opacity))
 }
 
-a.article:hover {
+#homepage-menu a.article:hover {
     filter: brightness(92%);
 }
 
-.dark a.article:hover {
+.dark #homepage-menu a.article:hover {
     filter: brightness(116%);
 }
 
@@ -34,4 +43,12 @@ div[class="min-h-[148px]"] {
     --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
     --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
     box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+}
+
+main {
+    height: max-content;
+}
+
+footer {
+    padding-top: 7.5rem;
 }

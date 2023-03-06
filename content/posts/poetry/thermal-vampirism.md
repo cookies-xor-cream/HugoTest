@@ -1,5 +1,5 @@
 ---  
-tags: ['Daniella']
+tags: ['Redacted'] # Daniella
 title: Love's Thermal Vampirism
 date: 2023-03-03
 ---

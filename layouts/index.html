@@ -6,7 +6,7 @@
     {{ partial "partials/home/profile.html" . }}
   {{ end }}
 
-  <section id="menu">
+  <section id="homepage-menu">
     <ul>
         {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
         <li>
@@ -17,7 +17,9 @@
         <ul>
           <hr/>
           {{ range $taxonomy.Pages }}
-            {{ partial "article-link/simple.html" . }}
+            <li>
+              {{ partial "article-link/simple.html" . }}
+            </li>
           {{ end }}
         </ul>
         {{ end }}
