@@ -1,9 +1,9 @@
 ---  
-tags: ['Myself']  
-title: |  
+tags: ['Myself']
+title: |
     Anxiolytics:  
     Sanity Is A Place Between Stuttering And Forgetting  
-date: 2023-03-03  
+date: 2023-03-03
 ---
 
 They robbed my heartrate and my words  

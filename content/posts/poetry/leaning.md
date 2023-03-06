@@ -1,7 +1,7 @@
 ---  
-tags: ['TODO']  
-title: Leaning  
-date: 2023-03-03  
+tags: ['TODO']
+title: Leaning
+date: 2023-03-03
 ---
 
 Leaning Too Close Wasn't Close Enough

@@ -1,7 +1,7 @@
 ---  
-tags: ['Daniella']  
-title: Anything That Isn't Nothing Isn't Worth Anything Right Now  
-date: 2023-03-03  
+tags: ['Daniella']
+title: Anything That Isn't Nothing Isn't Worth Anything Right Now
+date: 2023-03-03
 ---
 
 You think that thinking's a valid way,  

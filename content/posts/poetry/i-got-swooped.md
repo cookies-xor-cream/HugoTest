@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: I'm Photosensitive And I Got Swooped  
-date: 2023-03-03  
+tags: ['Katherine']
+title: I'm Photosensitive And I Got Swooped
+date: 2023-03-03
 ---
 
 I think that I  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: I Wouldn't Recommend Infidelity, Especially If It's Her Doing It  
-date: 2023-03-03  
+tags: ['Katherine']
+title: I Wouldn't Recommend Infidelity, Especially If It's Her Doing It
+date: 2023-03-03
 ---
 
 "If you kill me I won't call it murder,  

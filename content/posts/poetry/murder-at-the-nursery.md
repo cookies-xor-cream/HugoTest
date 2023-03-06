@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: "Murder At The Nursery: When Death Preempts Living"  
-date: 2023-03-03  
+tags: ['Claudia']
+title: "Murder At The Nursery: When Death Preempts Living"
+date: 2023-03-03
 ---
 
 I said hi to you in passing,  

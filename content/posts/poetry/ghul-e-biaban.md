@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: "Mutilating My Cadaver: Ghūl-e Biābān"  
-date: 2023-03-03  
+tags: ['Claudia']
+title: "Mutilating My Cadaver: Ghūl-e Biābān"
+date: 2023-03-03
 ---
 
 Every breath I took today,  

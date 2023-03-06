@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Terrifying Pescatarian Munchkin  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Terrifying Pescatarian Munchkin
+date: 2023-03-03
 ---
 
 The fish and chips were stale ingested,  

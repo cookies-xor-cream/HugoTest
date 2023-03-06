@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: "Coin Flip Of An Exit Plan: Barbed Wire On A Slamming Door"  
-date: 2023-03-03  
+tags: ['Claudia']
+title: "Coin Flip Of An Exit Plan: Barbed Wire On A Slamming Door"
+date: 2023-03-03
 ---
 
 She's the corpus of a spirit,  

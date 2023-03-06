@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Expired Postcard Glue  
-date: 2023-03-03  
+tags: ['Amber']
+title: Expired Postcard Glue
+date: 2023-03-03
 ---
 
 "So tell me all the things that you can't be,  

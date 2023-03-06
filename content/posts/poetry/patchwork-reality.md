@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: The Seamstress' Patchwork Reality  
-date: 2023-03-03  
+tags: ['Katherine']
+title: The Seamstress' Patchwork Reality
+date: 2023-03-03
 ---
 
 Tethered, ringing,  

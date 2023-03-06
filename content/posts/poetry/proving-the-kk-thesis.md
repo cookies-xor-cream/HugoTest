@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: "The KK Thesis 2: Disproof Of The Disproof. Proof By Denial"  
-date: 2023-03-03  
+tags: ['Katherine']
+title: "The KK Thesis 2: Disproof Of The Disproof. Proof By Denial"
+date: 2023-03-03
 ---
 
 "If I know I know, could I have forgot?"  

@@ -1,9 +1,9 @@
 ---  
-tags: ['Amber']  
-title: |  
+tags: ['Amber']
+title: |
     If It Had To Be Somebody's Fault, Wouldn't It Have Been Circumstance's?  
     Help Was Elusive  
-date: 2023-03-03  
+date: 2023-03-03
 ---
 
 She always muttered winged words,  

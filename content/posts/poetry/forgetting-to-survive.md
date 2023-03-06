@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: I Tried So Hard To Live That I Forgot To Survive  
-date: 2023-03-03  
+tags: ['Katherine']
+title: I Tried So Hard To Live That I Forgot To Survive
+date: 2023-03-03
 ---
 
 Water never meant to freeze,  

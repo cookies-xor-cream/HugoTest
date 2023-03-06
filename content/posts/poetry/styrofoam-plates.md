@@ -1,7 +1,7 @@
 ---  
-tags: ['My Favourite Bands']  
-title: Death Cab For Cutie's Styrofoam Plates  
-date: 2023-03-03  
+tags: ['My Favourite Bands']
+title: Death Cab For Cutie's Styrofoam Plates
+date: 2023-03-03
 ---
 
 I'm par for the course  

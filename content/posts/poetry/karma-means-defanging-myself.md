@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: "Ullapool And Bombard: Karma Means Defanging Myself"  
-date: 2023-03-03  
+tags: ['Claudia']
+title: "Ullapool And Bombard: Karma Means Defanging Myself"
+date: 2023-03-03
 ---
 
 Keep me breathing,  

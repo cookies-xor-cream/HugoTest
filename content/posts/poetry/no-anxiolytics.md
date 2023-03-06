@@ -1,7 +1,7 @@
 ---  
-tags: ['Daniella']  
-title: (No) Anxiolytics  
-date: 2023-03-03  
+tags: ['Daniella']
+title: (No) Anxiolytics
+date: 2023-03-03
 ---
 
 Lain stitched into the faintest beating  

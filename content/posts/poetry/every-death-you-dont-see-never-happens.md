@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Every Death You Don't See Never Happens  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Every Death You Don't See Never Happens
+date: 2023-03-03
 ---
 
 Acuity is now dodging us,  

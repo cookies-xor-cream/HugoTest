@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Life Here Is Like Watching The Desert Floor Try To Sew Itself Up  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Life Here Is Like Watching The Desert Floor Try To Sew Itself Up
+date: 2023-03-03
 ---
 
 It's the subtle cracks in creviced stone  

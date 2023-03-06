@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Red Tape Pollution In Her Time  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Red Tape Pollution In Her Time
+date: 2023-03-03
 ---
 
 So drag me by the wrist,  

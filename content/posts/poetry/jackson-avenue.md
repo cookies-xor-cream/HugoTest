@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: "Jackson Avenue: I Hated Who I Was At 16"  
-date: 2023-03-03  
+tags: ['Claudia']
+title: "Jackson Avenue: I Hated Who I Was At 16"
+date: 2023-03-03
 ---
 
 I always borrow tempered time,  

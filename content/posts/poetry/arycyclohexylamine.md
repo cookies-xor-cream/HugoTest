@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Arycyclohexylamine And Diethylamide Salts  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Arycyclohexylamine And Diethylamide Salts
+date: 2023-03-03
 ---
 
 When I cleaned my drawer's shelves,  

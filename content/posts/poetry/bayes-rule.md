@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: Pending Atomic Transaction During An Application Of Bayes' Rule  
-date: 2023-03-03  
+tags: ['Claudia']
+title: Pending Atomic Transaction During An Application Of Bayes' Rule
+date: 2023-03-03
 ---
 
 Bayes would kill me or hand a trophy  

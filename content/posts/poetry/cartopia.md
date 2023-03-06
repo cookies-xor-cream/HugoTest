@@ -1,7 +1,7 @@
 ---  
-tags: ['Myself']  
-title: "Cartopia: Asphalt In Place Of Birds"  
-date: 2023-03-03  
+tags: ['Myself']
+title: "Cartopia: Asphalt In Place Of Birds"
+date: 2023-03-03
 ---
 
 The dying light of morning stuck,  

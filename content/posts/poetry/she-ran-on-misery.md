@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: She Ran On Misery, Now She Runs On Flowers  
-date: 2023-03-03  
+tags: ['Katherine']
+title: She Ran On Misery, Now She Runs On Flowers
+date: 2023-03-03
 ---
 
 When your words fall short,  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Geochemistry Of The Western States  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Geochemistry Of The Western States
+date: 2023-03-03
 ---
 
 I'm rolled up in their red tape,  

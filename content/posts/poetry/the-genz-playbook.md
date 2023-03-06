@@ -1,7 +1,7 @@
 ---  
-tags: ['Liz']  
-title: "Conviction On A Whim: The GenZ Playbook"  
-date: 2023-03-03  
+tags: ['Liz']
+title: "Conviction On A Whim: The GenZ Playbook"
+date: 2023-03-03
 ---
 
 I'd make you unhand the phone,  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: "Birds Of A Feather: Mise En Quoi"  
-date: 2023-03-03  
+tags: ['Amber']
+title: "Birds Of A Feather: Mise En Quoi"
+date: 2023-03-03
 ---
 
 The blood, and crying,  

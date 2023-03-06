@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Death Is The Cost Of Living  
-date: 2023-03-03  
+tags: ['Amber']
+title: Death Is The Cost Of Living
+date: 2023-03-03
 ---
 
 There was something in her voice  

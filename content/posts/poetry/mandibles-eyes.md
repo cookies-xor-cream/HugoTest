@@ -1,7 +1,7 @@
 ---  
-tags: ['Claudia']  
-title: "Mandibles-Eyes: Stepping Over An Arthropod"  
-date: 2023-03-03  
+tags: ['Claudia']
+title: "Mandibles-Eyes: Stepping Over An Arthropod"
+date: 2023-03-03
 ---
 
 Frosted glass and broken windows,  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Daniella']  
-title: Love's Thermal Vampirism  
-date: 2023-03-03  
+tags: ['Daniella']
+title: Love's Thermal Vampirism
+date: 2023-03-03
 ---
 
 There's an absence in the heat,  

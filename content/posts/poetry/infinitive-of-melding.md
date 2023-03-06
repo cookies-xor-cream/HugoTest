@@ -1,7 +1,7 @@
 ---  
-tags: ['Myself']  
-title: The Infinitive Of Melding  
-date: 2023-03-03  
+tags: ['Myself']
+title: The Infinitive Of Melding
+date: 2023-03-03
 ---
 
 I'm stuttering at every  

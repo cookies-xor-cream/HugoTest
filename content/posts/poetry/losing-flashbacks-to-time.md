@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: "From Every Time I Shut My Eyes, Down To Almost Never: Losing Flashbacks To Time"  
-date: 2023-03-03  
+tags: ['Amber']
+title: "From Every Time I Shut My Eyes, Down To Almost Never: Losing Flashbacks To Time"
+date: 2023-03-03
 ---
 
 I know I never wrote back,  

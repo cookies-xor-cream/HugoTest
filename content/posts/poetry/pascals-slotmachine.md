@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Pascal's Slotmachine  
-date: 2023-03-03  
+tags: ['Amber']
+title: Pascal's Slotmachine
+date: 2023-03-03
 ---
 
 "If you think about it, think enough,  

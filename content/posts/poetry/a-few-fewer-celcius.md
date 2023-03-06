@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Quest For A Few Fewer Celsius  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Quest For A Few Fewer Celsius
+date: 2023-03-03
 ---
 
 The sky was once so cold at night,  

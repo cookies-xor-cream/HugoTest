@@ -1,7 +1,7 @@
 ---  
-tags: ['Daniella']  
-title: Mute By Way Of Birthday Cake (Amongst Other Things)  
-date: 2023-03-03  
+tags: ['Daniella']
+title: Mute By Way Of Birthday Cake (Amongst Other Things)
+date: 2023-03-03
 ---
 
 I threw up all my words last night,  

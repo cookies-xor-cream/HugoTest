@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Crazy Talk From XRay Ribs  
-date: 2023-03-03  
+tags: ['Amber']
+title: Crazy Talk From XRay Ribs
+date: 2023-03-03
 ---
 
 You came back from the doctor's,  

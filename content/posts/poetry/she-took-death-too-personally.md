@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: She Took Death Too Personally  
-date: 2023-03-03  
+tags: ['Amber']
+title: She Took Death Too Personally
+date: 2023-03-03
 ---
 
 "Do you really play just that damn deaf,  

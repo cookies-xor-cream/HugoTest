@@ -1,7 +1,7 @@
 ---  
-tags: ['Myself']  
-title: "Laura And Danish Butter Biscuits Couldn't Animate Fire From A Corpse: آتش، کالی"  
-date: 2023-03-03  
+tags: ['Myself']
+title: "Laura And Danish Butter Biscuits Couldn't Animate Fire From A Corpse: آتش، کالی"
+date: 2023-03-03
 ---
 
 I pick up every sound I hear,  

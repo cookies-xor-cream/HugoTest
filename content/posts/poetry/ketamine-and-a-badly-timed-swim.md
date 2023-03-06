@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Ketamine And A Badly Timed Swim (We Fell Off The Fucking Bridge Apparently)  
-date: 2023-03-03  
+tags: ['Amber']
+title: Ketamine And A Badly Timed Swim (We Fell Off The Fucking Bridge Apparently)
+date: 2023-03-03
 ---
 
 I'm sat by the shore,  

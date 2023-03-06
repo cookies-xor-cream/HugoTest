@@ -1,7 +1,7 @@
 ---  
-tags: ['My Coworker, Whatshername']  
-title: "Casual Racism: Coda For The Winterscape Of Maternity Leave Ending"  
-date: 2023-03-03  
+tags: ['My Coworker, Whatshername']
+title: "Casual Racism: Coda For The Winterscape Of Maternity Leave Ending"
+date: 2023-03-03
 ---
 
 He's out here playing 'conjure slurs',  

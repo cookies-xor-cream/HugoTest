@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: Stuck In The Glass Lake Of A Local Extrema  
-date: 2023-03-03  
+tags: ['Katherine']
+title: Stuck In The Glass Lake Of A Local Extrema
+date: 2023-03-03
 ---
 
 Stick me in this lake of ash,  

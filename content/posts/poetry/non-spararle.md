@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Non Spararle  
-date: 2023-03-03  
+tags: ['Amber']
+title: Non Spararle
+date: 2023-03-03
 ---
 
 "I don't know why all this wait,  

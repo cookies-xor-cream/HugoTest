@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: "Nevermore Fought Dirty Then Played Her Closing Act: The 2010s In A Post 2016 World"  
-date: 2023-03-03  
+tags: ['Katherine']
+title: "Nevermore Fought Dirty Then Played Her Closing Act: The 2010s In A Post 2016 World"
+date: 2023-03-03
 ---
 
 We're a knifefight in a phonebooth  

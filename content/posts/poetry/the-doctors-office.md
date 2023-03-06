@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: The Doctor's Office  
-date: 2023-03-03  
+tags: ['Katherine']
+title: The Doctor's Office
+date: 2023-03-03
 ---
 
 I hate these syllabic ramblings  

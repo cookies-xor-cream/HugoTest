@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: "Memorypoint: Smokey Oneliners In A Flashbulb Pistol"  
-date: 2023-03-03  
+tags: ['Katherine']
+title: "Memorypoint: Smokey Oneliners In A Flashbulb Pistol"
+date: 2023-03-03
 ---
 
 With a shutter snap and full force flash  

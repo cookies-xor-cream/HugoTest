@@ -1,7 +1,7 @@
 ---  
-tags: ['Myself']  
-title: I'm My Own Taylor Series, It's Four Terms Long, Who Am I?  
-date: 2023-03-03  
+tags: ['Myself']
+title: I'm My Own Taylor Series, It's Four Terms Long, Who Am I?
+date: 2023-03-03
 ---
 
 Theres only so much one can know,  

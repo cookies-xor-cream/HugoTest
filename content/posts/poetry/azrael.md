@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Killing Azrael  
-date: 2023-03-03  
+tags: ['Amber']
+title: Killing Azrael
+date: 2023-03-03
 ---
 
 I couldn't stop for Azreal to weather burning wings,  

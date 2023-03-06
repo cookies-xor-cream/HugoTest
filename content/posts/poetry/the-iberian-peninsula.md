@@ -1,9 +1,9 @@
 ---  
-tags: ['Amber']  
-title: |  
+tags: ['Amber']
+title: |
     The Iberian Peninsula: What The Fuck Were You Thinking With That Age Gap  
     (She Normalized It For Me?)  
-date: 2023-03-03  
+date: 2023-03-03
 ---
 
 From Amber's Perspective:  

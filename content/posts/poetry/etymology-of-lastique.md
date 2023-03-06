@@ -1,7 +1,7 @@
 ---  
-tags: ['Katherine']  
-title: "Denial's Inelastic: New Evidence For The Etymology Of Lastique"  
-date: 2023-03-03  
+tags: ['Katherine']
+title: "Denial's Inelastic: New Evidence For The Etymology Of Lastique"
+date: 2023-03-03
 ---
 
 I sleep with my arms crossed  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Amber']  
-title: Resuscitation  
-date: 2023-03-03  
+tags: ['Amber']
+title: Resuscitation
+date: 2023-03-03
 ---
 
 She read notes she shouldn't read,  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Myself']  
-title: "The Four Types Of Nostalgia: Why Did I Try To Preserve The Timeline?"  
-date: 2023-03-03  
+tags: ['Myself']
+title: "The Four Types Of Nostalgia: Why Did I Try To Preserve The Timeline?"
+date: 2023-03-03
 ---
 
 The first is misery, that's found fermented,  

@@ -1,7 +1,7 @@
 ---  
-tags: ['Daniella']  
-title: "Nosebleed: The First Night Is The Easiest"  
-date: 2023-03-03  
+tags: ['Daniella']
+title: "Nosebleed: The First Night Is The Easiest"
+date: 2023-03-03
 ---
 
 It's been a half a dozen hours since,  
