@@ -11,4 +11,4 @@ date: 2023-03-03
 "No, it had already set"  
 *"No, it was golden-red"*  
 "It was ripe but raw"  
-*"And the must've sky bled"*
+*"And the sky must've bled"*

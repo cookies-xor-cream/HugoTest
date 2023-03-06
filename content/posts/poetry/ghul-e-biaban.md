@@ -1,5 +1,5 @@
 ---  
-tags: ['Claudia']
+tags: ['Redacted'] # Claudia
 title: "Mutilating My Cadaver: Ghūl-e Biābān"
 date: 2023-03-03
 ---

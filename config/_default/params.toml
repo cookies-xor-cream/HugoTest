@@ -12,6 +12,9 @@ footer.showAppearanceSwitcher = true
 
 article.showReadingTime = false
 
+[outputs]
+    home = [ "HTML", "JSON", "RSS"]
+
 # Theme Choices #
 # ------------- #
 # Blowfish (default) #

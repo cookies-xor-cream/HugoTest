@@ -1,5 +1,5 @@
 ---  
-tags: ['Claudia']
+tags: ['Redacted'] # Claudia
 title: "Ullapool And Bombard: Karma Means Defanging Myself"
 date: 2023-03-03
 ---
