@@ -1,17 +1,17 @@
----
-tags: ['Claudia']
-title: Pending Atomic Transaction During An Application Of Bayes' Rule
-date: 2023-03-03
+---  
+tags: ['Claudia']  
+title: Pending Atomic Transaction During An Application Of Bayes' Rule  
+date: 2023-03-03  
 ---
 
-Bayes would kill me or hand a trophy
+Bayes would kill me or hand a trophy  
 If he saw how I had used his rule.
 
-The instant I know something new,
+The instant I know something new,  
 Is the instant I don't think it through.
 
-What I'm doing's a discontinuous function,
+What I'm doing's a discontinuous function,  
 Of all the shit that's been done before.
 
-And I've indexed you but weighted time,
+And I've indexed you but weighted time,  
 So much more than I did before.

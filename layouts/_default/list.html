@@ -67,7 +67,7 @@
 					{{ range $key, $taxonomy := .Site.Taxonomies.tags }}
 					<li>
 						<a>
-							<h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ $key | humanize }}</h1>
+							<h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ replace ($key | title) "-" " " }}</h1>
 						</a>
 					</li>
 					<ul>
