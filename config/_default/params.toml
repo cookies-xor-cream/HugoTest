@@ -1,4 +1,4 @@
-enableSearch = true
+enableSearch = false
 
 colorScheme = "fire"
 defaultAppearance = "light"
