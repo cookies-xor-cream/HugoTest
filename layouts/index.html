@@ -1,12 +1,26 @@
-{{ $header := print "partials/header/" .Site.Params.header.layout ".html" }}
-{{ if templates.Exists $header }}
-{{ partial $header . }}
-{{ else }}
-{{ partial "partials/header/basic.html" . }}
-{{ end }}
+{{ define "main" }}
+  {{ $partial := print "partials/home/" .Site.Params.homepage.layout ".html" }}
+  {{ if templates.Exists $partial }}
+    {{ partial $partial . }}
+  {{ else }}
+    {{ partial "partials/home/profile.html" . }}
+  {{ end }}
 
-{{ $partial := print "partials/home/" .Site.Params.homepage.layout ".html" }}
-{{ partial "partials/home/profile.html" . }}
-{{ range .Pages }}
-  {{ .Render "list"}}
+  <section id="menu">
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+        <li>
+          <a>
+            <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ replace ($key | title) "-" " " }}</h1>
+          </a>
+        </li>
+        <ul>
+          <hr/>
+          {{ range $taxonomy.Pages }}
+            {{ partial "article-link/simple.html" . }}
+          {{ end }}
+        </ul>
+        {{ end }}
+    </ul>
+  </section>
 {{ end }}

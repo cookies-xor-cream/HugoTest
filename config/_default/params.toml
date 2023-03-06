@@ -1,5 +1,16 @@
-colorScheme = "congo"
-homepage.layout = "card"
+enableSearch = true
+
+colorScheme = "fire"
+defaultAppearance = "light"
+
+homepage.layout = "profile"
+
+header.layout = "fixed-fill"
+
+footer.showScrollToTop = false
+footer.showAppearanceSwitcher = true
+
+article.showReadingTime = false
 
 # Theme Choices #
 # ------------- #

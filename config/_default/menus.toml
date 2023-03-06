@@ -1,8 +1,0 @@
-[[main]]
-  name = "Posts"
-  pageRef = "poems"
-  weight = 10
-
-[[footer]]
-  name = "Privacy"
-  url = "https://external-link"

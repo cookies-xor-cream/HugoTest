@@ -1,7 +1,37 @@
-.article {
-    margin: 12px;
+a.article {
+    padding: 12px;
+    background-color: rgba(var(--color-neutral),var(--tw-bg-opacity));
+    border-radius: 8px;
+    transition: filter 200ms;
+}
+
+.dark a.article {
+    background-color: rgba(var(--color-neutral-800),var(--tw-bg-opacity))
+}
+
+a.article:hover {
+    filter: brightness(92%);
+}
+
+.dark a.article:hover {
+    filter: brightness(116%);
 }
 
 hr {
     margin: 12px 0;
+}
+
+article.h-full {
+    padding-top: 64px;
+    max-height: 400px;
+}
+
+div[class="min-h-[148px]"] {
+    min-height: 64px;
+}
+
+.fixed {
+    --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+    --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
 }

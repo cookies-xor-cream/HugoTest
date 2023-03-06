@@ -5,7 +5,7 @@ title = "cookies-xor-cream: poetry"
 [author]
 name = "cookies-xor-cream"
 image = "img/cookie.png"
-headline = "TODO: Replace"
+headline = "My ramblings, if anyone would like to indulge."
 bio = "A software developer who sometimes jots down a few ways on their daily transit."
 links = [
   { github = "https://github.com/cookies-xor-cream" }
