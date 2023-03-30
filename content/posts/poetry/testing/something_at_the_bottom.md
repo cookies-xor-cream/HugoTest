@@ -1,4 +1,8 @@
-Something At The Bottom, But It's Not Nuance: A Less Ironic, Less Romantic Recount.
+---  
+tags: ['Amber']
+title: "Something At The Bottom, But It's Not Nuance: A Less Ironic, Less Romantic Recount."
+date: 2023-03-03
+---
 
 The Malaise Beat The Sarcasm.
 

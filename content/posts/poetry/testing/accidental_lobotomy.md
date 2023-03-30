@@ -1,7 +1,7 @@
-Accidental Lobotomy In The Past In The Future: Retroactive Contraindications
-
-I used to think that the stupidest kind of jealousy was when you wanted to want to do something. But that's literally all jealousy, isn't it?
-
+---  
+tags: ['Myself', 'Amber', 'Katherine']
+title: "Accidental Lobotomy In The Past In The Future: Retroactive Contraindications"
+date: 2023-03-03
 ---
 
 I thought she knew I didn't scar,

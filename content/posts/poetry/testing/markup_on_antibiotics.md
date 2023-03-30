@@ -1,13 +1,13 @@
-Markup On Antibiotics: $$$/5mg
-
-Orchestration: I Feel Like There's Some Fundemental Irony Baked Into This Universe, And I've Been Coughing All Day After Talking About TB And Pneumonia Last Night
-
-And Then My RAT Came Up Negative. I Love This Omnipresent Sadism.
+---  
+tags: ['Daniella']
+title: "Orchestrating A Markup On Antibiotics: $$$/5mg"
+date: 2023-03-03
+---
 
 The malaise under my skin,
 Is crawling but stuck still,
-The effort to tey to breathe
-Is like breathing but uphill.
+The effort to try to breathe
+Is like walking straight uphill.
 
 I'm short now just one draw,
 And my throat has gone all raw,
