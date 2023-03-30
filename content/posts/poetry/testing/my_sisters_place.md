@@ -1,8 +1,8 @@
-Her Sister's Place: Fuck, I Put Her Car Keys In My Pocket By Mistake
-
-I was 20% sure I got the house right. But 20% wasn't enough for me to encroach on a stranger with 80% certainty
-
-Guess her toyota's hostage to her drinking now
+---  
+tags: ['Myself']
+title: "Her Sister's Place: Accidentally Took Her Car Keys"
+date: 2023-03-03
+---
 
 A little nightmare-locked,
 In this tectonic ocean,

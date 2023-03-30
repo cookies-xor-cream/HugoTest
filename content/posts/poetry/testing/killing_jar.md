@@ -1,13 +1,9 @@
-A Glossary Of How She Died (I Think Aspiration Pneumonia Is Ironically Fitting)
-
-Clinically: Vomit Aspiration
-Coloquially: Overdose
-According To Amber: Suicide
-According To Me: Euthanasia
-
+---  
+tags: ['Katherine']
+title: "Killing Jar: Euthanasia"
+date: 2023-03-03
 ---
 
-Killing Jar: Euthanasia
 
 I gathered the thread,
 From the web that she spun,

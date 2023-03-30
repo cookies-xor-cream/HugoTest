@@ -1,6 +1,8 @@
-Operation GlassHouse Birds: Someone Teach Them To Teleport
-
-The only person that can (and would) cut my hair lives in fucking Edinburgh ugh.
+---  
+tags: ['Hannah']
+title: "Operation GlassHouse Birds: In Desperate Need To Cut My Hair"
+date: 2023-03-03
+---
 
 If I had a dime for every call I dropped too soon,
 I'd get a wishing well to wish you to this room,
@@ -9,7 +11,8 @@ The only religion stood against the haunts in this old hall.
 
 Hear me, listen, please, intrapolate my words,
 Fuck the stones, just grab a shotgun, we've got ammo,
-And this ain't less than a half-stone worth of bird.
+And we've got to make sure that the both of us are heard,
+Coz this ain't less than a half-stone worth of bird.
 
 I could always find someone to clip my feathers,
 But I need to find someone to promptly cut my hair,

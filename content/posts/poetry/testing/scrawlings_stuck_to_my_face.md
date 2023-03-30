@@ -1,6 +1,8 @@
-Scrawlings: Documented Proof I Was A Fucking Idiot (I Still Am), Only A Fucking Idiot Would Feel That Way
-
-I loved walking in the pouring rain. It's so sunny here. I know the sky can't be so fucking happy all the time. Sometimes I wish it was brave enough to admit that.
+---  
+tags: ['Katherine']
+title: Scrawlings Stuck To My Face
+date: 2023-03-03
+---
 
 I felt the same sombre kiss of rain,
 That stuck close yet fell far away.

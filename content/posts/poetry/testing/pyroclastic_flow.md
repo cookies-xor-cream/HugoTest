@@ -1,4 +1,8 @@
-Pyroclastic Flow At Point Blank
+---  
+tags: ['Myself']
+title: Pyroclastic Flow At Point Blank
+date: 2023-03-03
+---
 
 I'm soul-deep steeped in suffering,
 That's where my darkest humour lives,

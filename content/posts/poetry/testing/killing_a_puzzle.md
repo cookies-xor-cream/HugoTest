@@ -1,4 +1,8 @@
-Killing A Puzzle Of A Werewolf
+---  
+tags: ['Myself']
+title: Killing A Puzzle Of A Werewolf
+date: 2023-03-03
+---
 
 If walking's a silver bullet,
 Then it's only shooting me dead,

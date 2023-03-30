@@ -1,4 +1,13 @@
-Flourescence And Phosphorescence: My Skeleton Is Irridescent, And Hers Has Lost Its Sheen
+---  
+tags: ['Daniella']
+title: Glowing Skeletal Flourescence
+date: 2023-03-03
+---
+
+Flourescence and phosphorescence,
+My skeleton's irridescent,
+But hers is dull and grainy,
+The bone has lost its sheen.
 
 I hope she's still glowing in UV or IR
 I would hate to watch the shimmer fade

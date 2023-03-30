@@ -1,4 +1,8 @@
-The Crow Always Flies The Same Straight Line That I Just Happened To Drown
+---  
+tags: ['Myself']
+title: The Crow Always Flies The Same Straight Line That I Just Happened To Drown
+date: 2023-03-03
+---
 
 One night worth of zopiclone,
 Is all I need to reset me,

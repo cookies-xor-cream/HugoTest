@@ -1,6 +1,8 @@
-Old Timey Projectors With Little Joy Stamped On The Film
-
-As hard as the past month was, I think the worst is over, and I'm happy it is.
+---  
+tags: ['Myself']
+title: Old Timey Projectors With Little Joy Stamped On The Film
+date: 2023-03-03
+---
 
 It's been a year or two, spent with a corpse,
 That would always be rotting, but never decompose,

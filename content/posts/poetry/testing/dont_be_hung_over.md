@@ -1,4 +1,8 @@
-"Don't Be Hungover": Thought It Was A Funny Idea 
+---  
+tags: ['Myself']
+title: Don't Be Hungover
+date: 2023-03-03
+---
 
 If we retroactively cut the drinking,
 Would this ship we never built,

@@ -1,4 +1,8 @@
-Time Is A Rift To Purgatory
+---  
+tags: ['Myself']
+title: Time Is A Rift To Purgatory
+date: 2023-03-03
+---
 
 Go and call me a saint,
 But I'd be betting I'm not,

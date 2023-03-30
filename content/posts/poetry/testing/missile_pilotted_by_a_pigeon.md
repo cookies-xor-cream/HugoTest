@@ -1,4 +1,8 @@
-One Of Those Missiles Pilotted By A Pigeon, Heading Straight Into The Ocean: Choice In Theory Doesn't Mean Freedom In Practice
+---  
+tags: ['Myself']
+title: "One Of Those Missiles Pilotted By A Pigeon, Heading Straight Into The Ocean: Choice In Theory Doesn't Mean Freedom In Practice"
+date: 2023-03-03
+---
 
 It's funny how I "rehash these things",
 When I lack the beak for proper speech,

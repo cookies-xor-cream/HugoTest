@@ -1,4 +1,9 @@
-Autoionisation And The Isoelectric Point: Walking Alone Is Sitting Still On Wheels
+---  
+tags: ['Myself']
+title: "Autoionisation: Sitting Still Is The Isoelectric Point"
+date: 2023-03-03
+---
+
 
 If the air around me was solid,
 You'd see the claw marks digging through,
