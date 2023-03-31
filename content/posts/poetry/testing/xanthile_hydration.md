@@ -1,7 +1,7 @@
----  
-tags: ['Daniella']  
-title: "Xanthile Hydration: Underdosing Insectiside"  
-date: 2023-03-03  
+---
+tags: ['Daniella']
+title: "Xanthile Hydration: Underdosing Insectiside"
+date: 2023-03-03
 ---
 
 Coffee, coffe, on the wall,  

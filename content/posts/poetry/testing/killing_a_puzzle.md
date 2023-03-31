@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: Killing A Puzzle Of A Werewolf  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: Killing A Puzzle Of A Werewolf
+date: 2023-03-03
 ---
 
 If walking's a silver bullet,  

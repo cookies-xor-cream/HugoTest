@@ -1,7 +1,7 @@
----    
-tags: ['Myself']  
-title: "Sandstorms: A Cup Of Tea That's Mostly Beach"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "Sandstorms: A Cup Of Tea That's Mostly Beach"
+date: 2023-03-03
 ---
 
 Projectile dunes and scattered sands,  

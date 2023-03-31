@@ -1,7 +1,7 @@
----  
-tags: ['Hannah']  
-title: "Operation GlassHouse Birds: Two Birds, One Stone"  
-date: 2023-03-03  
+---
+tags: ['Hannah']
+title: "Operation GlassHouse Birds: Two Birds, One Stone"
+date: 2023-03-03
 ---
 
 If I had a dime for every call I dropped too soon,  

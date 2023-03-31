@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: "The Minute Train: Induction Procedure Context"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "The Minute Train: Induction Procedure Context"
+date: 2023-03-03
 ---
 
 Consciousness comes once,  

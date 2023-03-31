@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: Old Timey Projectors With Little Joy Stamped On The Film  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: Old Timey Projectors With Little Joy Stamped On The Film
+date: 2023-03-03
 ---
 
 It's been a year or two, spent with a corpse,  

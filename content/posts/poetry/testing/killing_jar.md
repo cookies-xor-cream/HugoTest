@@ -1,7 +1,7 @@
----  
-tags: ['Katherine']  
-title: "Killing Jar: Euthanasia"  
-date: 2023-03-03  
+---
+tags: ['Katherine']
+title: "Killing Jar: Euthanasia"
+date: 2023-03-03
 ---
 
   

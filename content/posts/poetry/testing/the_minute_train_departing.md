@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: "The Minute Train: Departing For Platform 16"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "The Minute Train: Departing For Platform 16"
+date: 2023-03-03
 ---
 
 If you abled me to riftwalk,  

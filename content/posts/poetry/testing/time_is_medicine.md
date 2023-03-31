@@ -1,7 +1,7 @@
----  
-tags: ['Daniella']  
-title: Time Is Medicine, But She Has Contraindications  
-date: 2023-03-03  
+---
+tags: ['Daniella']
+title: Time Is Medicine, But She Has Contraindications
+date: 2023-03-03
 ---
 
 She talked to me,  

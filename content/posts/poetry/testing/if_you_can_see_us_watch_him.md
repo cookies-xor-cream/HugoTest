@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: "Her Friends Told Me My Contact In Her Phone Was 'Hope: If You Can See Us From Heaven, Watch Him Instead'"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "Her Friends Told Me My Contact In Her Phone Was 'Hope: If You Can See Us From Heaven, Watch Him Instead'"
+date: 2023-03-03
 ---
 
 *"Why are you staying the night?*  

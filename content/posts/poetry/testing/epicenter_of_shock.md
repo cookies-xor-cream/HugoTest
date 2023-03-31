@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: The Epicentre Of A Shock-Induced Spasms (Magnitude 9 On The Richter Scale)  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: The Epicentre Of A Shock-Induced Spasms (Magnitude 9 On The Richter Scale)
+date: 2023-03-03
 ---
 
 My jaw decided to wire shut,  

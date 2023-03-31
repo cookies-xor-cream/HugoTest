@@ -1,7 +1,7 @@
----  
-tags: ['Daniella']  
-title: "The Hex Of Vexing: Cursing, Then Pausing"  
-date: 2023-03-03  
+---
+tags: ['Daniella']
+title: "The Hex Of Vexing: Cursing, Then Pausing"
+date: 2023-03-03
 ---
 
 The pension of recrudescence,  

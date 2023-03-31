@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: I Would Like To Like Hazel Auburn, But Don't (And Never Will)  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: I Would Like To Like Hazel Auburn, But Don't (And Never Will)
+date: 2023-03-03
 ---
 
 She's got auburn hair and hazel eyes,  

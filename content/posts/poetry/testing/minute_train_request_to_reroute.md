@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: "The Minute Train: A Formal Request To Reroute"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "The Minute Train: A Formal Request To Reroute"
+date: 2023-03-03
 ---
 
 *"You know which one lurks my thoughts?*  

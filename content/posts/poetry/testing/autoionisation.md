@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: "Autoionisation: Sitting Still Is The Isoelectric Point"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "Autoionisation: Sitting Still Is The Isoelectric Point"
+date: 2023-03-03
 ---
 
   

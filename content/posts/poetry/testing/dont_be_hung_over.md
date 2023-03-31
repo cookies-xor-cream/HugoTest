@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: Don't Be Hungover  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: Don't Be Hungover
+date: 2023-03-03
 ---
 
 If we retroactively cut the drinking,  

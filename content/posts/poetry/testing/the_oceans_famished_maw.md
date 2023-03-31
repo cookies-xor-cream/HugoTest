@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: "The Ocean's Famished Maw: A Kismet That We Never Saw"  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: "The Ocean's Famished Maw: A Kismet That We Never Saw"
+date: 2023-03-03
 ---
 
 (Death by drowning:  

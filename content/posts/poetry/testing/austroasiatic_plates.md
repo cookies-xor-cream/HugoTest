@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: A Month's Vacation For The Austroasiatic Plates  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: A Month's Vacation For The Austroasiatic Plates
+date: 2023-03-03
 ---
 
 A trip to the ER got me what I needed,  

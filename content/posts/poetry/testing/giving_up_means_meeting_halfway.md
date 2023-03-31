@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: Giving Up Means Meeting Halfway In Space And Halfway In Time  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: Giving Up Means Meeting Halfway In Space And Halfway In Time
+date: 2023-03-03
 ---
 
 We've got a minute and an hour hand,  

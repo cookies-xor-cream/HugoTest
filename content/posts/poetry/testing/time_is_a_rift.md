@@ -1,7 +1,7 @@
----  
-tags: ['Myself']  
-title: Time Is A Rift To Purgatory  
-date: 2023-03-03  
+---
+tags: ['Myself']
+title: Time Is A Rift To Purgatory
+date: 2023-03-03
 ---
 
 Go and call me a saint,  
