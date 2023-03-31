@@ -1,4 +1,4 @@
----  
+---
 tags: ['Amber']
 title: A Mother Briefly, Or Never At All?
 date: 2023-03-03
@@ -11,7 +11,7 @@ date: 2023-03-03
 
 I told her that she already had,
 she shook her head and stroked her palm,
-*"That's not a dymanic that we should've had",*
+*"That's not a dynamic that we should've had",*
 and I watched her struggle to stay calm.
 
 *"I just couldn't say no to seeing,*
@@ -49,7 +49,7 @@ She started crying,
 and sprung a leak,
 so I kept the time,
 and held her tightly,
-as she weeped
+as she wept.
 
 I told myself **'stay close',**
 for distance might offend.

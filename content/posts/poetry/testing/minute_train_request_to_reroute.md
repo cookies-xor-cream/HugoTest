@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself']
 title: "The Minute Train: A Formal Request To Reroute"
 date: 2023-03-03
@@ -43,7 +43,7 @@ I'd hedge your bets and I'd be through".
 
 "You didn't see her eyes go wide,
 you didn't see her personhood,
-tuck its tail, torun and hide.
+tuck its tail, to run and hide.
 You didn't see the beast confide.
 You didn't see what it had said,
 Imprinted on the fabric of her fate,

@@ -1,11 +1,11 @@
----  
+---
 tags: ['Myself']
 title: "The Ocean's Famished Maw: A Kismet That We Never Saw"
 date: 2023-03-03
 ---
 
 (Death by drowning:
-mameless, brainless, and without body.
+nameless, brainless, and without body.
 My wet tongue scribbled the story of
 the continent I share with destiny)
 

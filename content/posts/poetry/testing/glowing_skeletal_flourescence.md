@@ -1,11 +1,11 @@
----  
+---
 tags: ['Daniella']
-title: Glowing Skeletal Flourescence
+title: Glowing Skeletal Fluorescence
 date: 2023-03-03
 ---
 
-Flourescence and phosphorescence,
-are my skeleton's irridescent,
+Fluorescence and phosphorescence,
+are my skeleton's iridescent,
 but hers is dull and grainy,
 the bone has lost its sheen firmly.
 
@@ -28,7 +28,7 @@ next to the metals that
 are composing your salts.
 
 Let's try out a blacklight,
-a flouride-beam lamp.
+a fluoride-beam lamp.
 Get me some black ink,
 and a lead-weighted stamp.
 

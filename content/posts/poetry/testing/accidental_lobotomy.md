@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself', 'Amber', 'Katherine']
 title: "Accidental Lobotomy In The Past In The Future: Retroactive Contraindications"
 date: 2023-03-03

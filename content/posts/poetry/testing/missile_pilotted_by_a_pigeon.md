@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself']
 title: "One Of Those Missiles Pilotted By A Pigeon, Heading Straight Into The Ocean: Choice In Theory Doesn't Mean Freedom In Practice"
 date: 2023-03-03

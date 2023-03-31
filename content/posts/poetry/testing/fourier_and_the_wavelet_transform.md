@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself']
 title: Fourier And The Wavelet Transform
 date: 2023-03-03

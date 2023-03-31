@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself']
 title: The Fermi Paradox And The Cosmic Sieve
 date: 2023-03-03
@@ -10,12 +10,12 @@ and every sentence said out loud,
 we mispunctuated with our frowns.
 
 I'm the sole prayer for my absence,
-I'm the lack thereof my prescence,
+I'm the lack thereof my presence,
 I'm pneumonia trapped inside a bottle,
 I'm the accelerant and indulgent throttle.
 
 Flay me, skin me,
-cesede this being,
+secede this being,
 if it's worth the crease,
 then it's worth the seeing.
 

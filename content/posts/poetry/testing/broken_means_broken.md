@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself', 'Katherine']
 title: Broken Means Broken Until It Doesn't
 date: 2023-03-03
@@ -6,7 +6,7 @@ date: 2023-03-03
 
 She needed a reason to believe in
 something past this planet,
-but I prefered the notion that
+but I preferred the notion that
 the sky could always shatter.
 
 We've a glassy floor below

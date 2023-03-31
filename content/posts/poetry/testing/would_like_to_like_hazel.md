@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself']
 title: I Would Like To Like Hazel Auburn, But Don't (And Never Will)
 date: 2023-03-03
@@ -9,7 +9,7 @@ I bet a pretty name, but wouldn't know,
 namelessness is her disguise,
 what it is, I wouldn't have a clue.
 
-The inheritence of the nothing,
+The inheritance of the nothing,
 is waking up with her Toyota's keys,
 and the subtle nervous stuck-fast sting,
 of a nail in my head that's not far enough in.
