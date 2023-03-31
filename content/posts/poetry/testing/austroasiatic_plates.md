@@ -5,16 +5,16 @@ date: 2023-03-03
 ---
 
 A trip to the ER got me what I needed,
-And thank god, it was looking bleak.
+and thank god, it was looking bleak.
 I get to extinguish these napalm hands,
-For the remainder of this week.
+for the remainder of this week.
 
 The lowered gaze and mumbled words,
-Suggested that the fire might've spread,
-And my arms are numb now but still in tact 
-And the pain's found second wind in my head.
+suggested that the fire might've spread,
+and my arms are numb now but still in tact 
+and the pain's found second wind in my head.
 
 I got an MRI scheduled this month,
-And I hope that I can trap the panic inside,
+and I hope I can trap the panic inside,
 I just need a twenty minutes tremble-free,
-So let's see if these tremors can manage hide.
+so let's see if I can hide the tremors inside of me.

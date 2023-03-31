@@ -5,26 +5,26 @@ date: 2023-03-03
 ---
 
 The malaise under my skin,
-Is crawling but stuck still,
-The effort to try to breathe
-Is like walking straight uphill.
+is crawling but stuck still,
+the effort to try to breathe
+is like running straight uphill.
 
-I'm short now just one draw,
-And my throat has gone all raw,
-So if you find me the grate,
-Please pull it out of its place.
+I'm short now one draw,
+and my throat has gone raw,
+so if you find me the grate,
+please pull it out of its place.
 
 Coz it's stuck inside my chest,
-And my lungs sleep bereft,
-Of the inhaling and the life
-From which I'm coarsely deprived.
+and my lungs sleep bereft,
+of the inhaling and the life
+from which I'm coarsely deprived.
 
 It feels like it's a set,
-Like it's a comical thing,
-Like the cosmic and karma,
-Have been pulling the strings.
+like it's a comical thing,
+like the cosmic and karma,
+have been pulling the strings.
 
 It feels it like her eyes,
-Are staring daggers, throwing knives,
-It feels like that goodbye,
-When she staggered all her fives.
+are staring daggers and knives,
+it feels like the goodbye,
+when she staggered her fives.

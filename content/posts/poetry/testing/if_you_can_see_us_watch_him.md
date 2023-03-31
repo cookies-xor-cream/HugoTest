@@ -4,50 +4,50 @@ title: "Her Friends Told Me My Contact In Her Phone Was 'Hope: If You Can See Us
 date: 2023-03-03
 ---
 
-"Why are you staying the night?
+*"Why are you staying the night?*
 What's the reason, and what're the ends?"
 
 "I don't want to be with you, any more than you do,
-But I made a promise that I intend to keep, and I made it to your friends".
+But I made a promise I intend to keep, and I made it to your friends".
 
-"Funny, how they think you're the only person who can help,
-And we both think you're the last one to think of or to text".
+*"Funny, how they think you're the only person who can help,*
+*And we both think you're the last one to think of or to text".*
 
 "You haven't said a word the past two sleeps,
-What's it that had caught you and had dug you down so deep?".
+What's it that had caught you and has dug you down so deep?".
 
-"I never thought that I could miss someone I never knew,
-But it hurts harder than you would know, god you don't have a clue".
+*"I never thought that I could miss someone I never knew,*
+*But it hurts harder than you would know, god you wouldn't have a clue".*
 
 "Move on Am, the past's not something that needs to cling,
-Just think of this as a cut-short love, a simple 9 month fling".
+Just think of this as a cut-short love, a simple nine month fling".
 
 She slapped me.
 And then she laughed,
-She hadn't smiled for days,
-And hadn't steadied her
-Tremor-riddled hands.
+she hadn't smiled for days.
+She hadn't steadied her
+tremor-riddled hands.
 
-"Don't speak like that, like you feel it as I can do,
-This is something that lives, and breathes, outside of
-And entirely separately from you".
+*"Don't speak like that, like you feel it as I can do,*
+*This is something that lives, and breathes, outside of*
+*And entirely separately from you".*
 
-I did my job. We realised why I was here and not someone else:
-It wasn't how close we were (we weren't).
-It wasn't how we felt (we didn't).
-It wasn't that she could use comforting (she didn't).
+I did my job. We realised why I was here and not somebody else.
+It wasn't how close we were *(we weren't).*
+It wasn't how we felt *(we didn't).*
+It wasn't that she could use comforting *(she didn't).*
 
 I was just the only person,
-With such bad comedic mistiming,
-To sneak in such a sarcastic joke,
-Amidst all the (justified) whining.
+with such bad comedic mistiming,
+to sneak in such a sarcastic joke,
+amidst all the (justified) whining.
 
 She hated beating around the bush,
-And the egg-shell floor tiptoes,
-The constant wondering of how,
-The subject matter comes and goes.
+and the egg-shell-floor tiptoes,
+the constant wondering of where,
+the subject matter comes and goes.
 
 She needed someone,
-Who wouldn't treat her like glass,
-Who knew her well enough,
-To know that she needed to laugh.
+who wouldn't treat her like glass,
+who knew her well enough,
+to know that all she needed was to laugh.

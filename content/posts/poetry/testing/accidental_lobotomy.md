@@ -5,30 +5,30 @@ date: 2023-03-03
 ---
 
 I thought she knew I didn't scar,
-And in its stead I just bled ichor.
+and in its stead I just bled ichor.
 
-If you want to make me bleed,
-You'd try knifeplay and to slice her.
+If you wanted to make me bleed,
+you'd try knifeplay and to slice her.
 
 I wasn't jealous that you got to,
-If I had wanted it, I'd get it too.
+if I had wanted it, I'd get it too.
 
 But I'm jealous for the reason,
-That I wanted me to want to do it too.
+that I wanted me to want it too.
 
 And I used to think about that,
-In a time before I'd met another.
+in a time before I'd met another.
 
 And realised that what I thought I wanted,
-Juxtaposed how I would come to always feel about her.
+juxtaposed how I would always come to feel about her.
 
 There was no straight segment on her skin,
-That I'd let the iron pierce, or the point to try and pin.
+that I'd let the iron pierce, or the point to try and pin.
 
 There were no words that she could say,
-To make me stop feeling it this way.
+to make me stop feeling it this way.
 
 But there's one thing I could've done,
-And it involves rigging my past luck:
+and it involves rigging my past luck:
 I'd be blind, or in the hospital.
 Retroactively, drowning in the dark.

@@ -5,15 +5,15 @@ date: 2023-03-03
 ---
 
 The stars are holes
-That nails have made.
+that nails have made.
 I'm stuck at the door
-With knights and knaves.
+with knights and knaves.
 
 Pick up the hammer,
-And wait your cue,
+and wait your cue,
 I'll crack the riddle,
-Reread the rules.
+reread the rules.
 
 Orion's a defective set of dots,
-Its belt pointing out
-The structural faults.
+its belt pointing out
+the structural faults.

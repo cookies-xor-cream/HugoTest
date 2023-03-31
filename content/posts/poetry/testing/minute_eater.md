@@ -5,16 +5,16 @@ date: 2023-03-03
 ---
 
 You wore a sorry smile,
-With face eclipsed,
-By a phantom kiss,
-That you barely missed.
+with face eclipsed,
+by a phantom kiss,
+that you barely missed.
 
 You burned your time,
-Then cracked your wrists,
-And crossed my name,
-Off from this list.
+then cracked your wrists,
+and crossed my name,
+off from this list.
 
 With questions found,
-But no answers fixed,
-The nightmares stung,
-Like a needle pricks.
+but no answers fixed,
+the nightmares stung,
+like a needle pricks.

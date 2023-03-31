@@ -5,17 +5,17 @@ date: 2023-03-03
 ---
 
 We've got a minute and an hour hand,
-But I need to count the seconds down,
-Till I lose dizziness and can try to stand,
-And accustom to these vacant frowns.
+but I need to count the seconds down,
+till I shake the spin and try to stand,
+and accustom to these vacant frowns.
 
 Please stop festering the asking,
-Please stop playing these games,
+please stop playing these games,
 I'm not looking for some tempest,
-That's going to need to be tamed.
+that's going to need to be tamed.
 
 For future reference,
-Pick your answers from this list:
+pick your answers from this list:
 Vacant,
 Vacant,
 Vacant,

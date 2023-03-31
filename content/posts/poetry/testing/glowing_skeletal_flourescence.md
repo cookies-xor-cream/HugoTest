@@ -5,39 +5,34 @@ date: 2023-03-03
 ---
 
 Flourescence and phosphorescence,
-My skeleton's irridescent,
-But hers is dull and grainy,
-The bone has lost its sheen.
+are my skeleton's irridescent,
+but hers is dull and grainy,
+the bone has lost its sheen firmly.
 
 I hope she's still glowing in UV or IR
 I would hate to watch the shimmer fade
 
-You know what they say
-About the devil you know,
-But keep it in mind I'm not
-The devil you don't.
-
 You can pick up the phone,
-Or could hang up infused,
-By the rage of my match
-That ran down your fuse.
+or could hang up infused,
+by the rage of my match
+that ran down your fuse.
 
 I know you're a halide away,
-From being coupled and paired,
-Packaged with a skeleton,
-For me to take if I dared.
+from being coupled and paired,
+packaged with a frame of bones,
+for me to take if I dared.
 
 But I'm not so discrete,
 I'm uncommonly found,
-Next to the metals that
-Are composing your salts.
+next to the metals that
+are composing your salts.
 
 Let's try out a blacklight,
-A flouride-beam lamp.
+a flouride-beam lamp.
 Get me some black ink,
-And a lead-weighted stamp.
+and a lead-weighted stamp.
 
 I'll show you your matchbox,
-And you'll play with the reds,
-We're phosphorescent sweetie,
-We still glow when we're dead.
+and you'll play with the reds,
+we're phosphorescent sweetie,
+we still glow when we're dead.

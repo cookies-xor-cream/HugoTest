@@ -4,63 +4,63 @@ title: A Mother Briefly, Or Never At All?
 date: 2023-03-03
 ---
 
-"Should I be glad it went this way?
-I could never raise a kid alone,
-I know that's something I shouldn't say,
-But I've been humming out her favourite tone".
+*"Should I be glad it went this way?*
+*I could never raise a kid alone,*
+*I know that's something I shouldn't say,*
+*but I've been humming all her favourite tones".*
 
 I told her that she already had,
-She shook her head and stroked her palm,
-"That's not a dymanic that we should've had",
-As I watched her struggle to stay calm.
+she shook her head and stroked her palm,
+*"That's not a dymanic that we should've had",*
+and I watched her struggle to stay calm.
 
-"I just couldn't say no to seeing,
-The idiot child crawl to my doorstep,
-He found the way and he stepped through,
-I never knew how to close the set,
-How to finally be through with you".
+*"I just couldn't say no to seeing,*
+*the idiot child crawl to my doorstep,*
+*he found the way and he stepped through,*
+*I never knew how to close the set,*
+*how to finally be through with you".*
 
 I said you kept me dying,
-All those months,
-Asked her, isn't that
-What a family does?
+all those months,
+asked her, if this isn't
+what a family does?
 
-"There's much more,
-You wouldn't know,
-Or did things get better,
-Back at home?"
+*"There's much more,*
+*you wouldn't know,*
+*or did things get better,*
+*back at home?"*
 
 I shut my mouth, I couldn't say,
-How I felt about the gap,
-That took her a decade away,
-That gave us reason to stay at bay.
+how I felt about the gap,
+that took from us a decade away,
+that gave us reason to stay at bay.
 
 Instead, I set to calm her nerves,
-Detangle history, and its seamed ends,
-But what real purpose does that serve?
+detangle history, and its seamed ends,
+but what real purpose does that serve?
 Does it absent the discourse we never sent?
 
 I said I'm a seance, Amber,
-A medium for lonely ghosts,
-Do you still hear her timbre,
-When you listen to my voice?
+a medium for lonely ghosts,
+do you still hear her timbre,
+when you listen to my voice?
 
 She started crying,
-And sprung a leak,
-So I kept the time,
-And held her,
-As she weeped
+and sprung a leak,
+so I kept the time,
+and held her tightly,
+as she weeped
 
-I told myself 'stay close',
-For distance might offend.
-Don't check your watch,
-Don't count the seconds
-Unill this thing can end.
+I told myself **'stay close',**
+for distance might offend.
+don't check your watch,
+don't count the seconds
+until this thing can end.
 
 But the only thing,
-That could offend,
-Was the thought that I
-Thought of only me.
+that could offend,
+was the thought that I
+thought of only me.
 
 That I wasn't doing this
-For my 'friend'.
+for my 'friend'.

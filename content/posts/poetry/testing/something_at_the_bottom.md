@@ -7,26 +7,26 @@ date: 2023-03-03
 The Malaise Beat The Sarcasm.
 
 I should've known by the strength of it,
-That there was something at the bottom,
-Some azeotropic mixed solution,
-That didn't taste a league too rotten.
+that there was something at the bottom,
+some azeotropic mixed solution,
+that didn't taste a league too rotten.
 
-From "should've" to "did it" to promptly gone,
-Upchucking one-word's length of swan song's calm,
+From *"should've"* to *"did it"* to *promptly gone*,
+upchucking one-word's length of swan song's calm,
 I was once removed from under-hoof,
-But try to find me now, I'm twice removed.
+but try to find me now, I'm twice removed.
 
 Coz I'm not staying,
-And I'm not talking,
-Know that I'm already
-Halfway home. 
+and I'm not talking,
+know that I'm already
+halfway home. 
 
 You can mumble,
-You can stumble,
-And you can try your
-Best to groan.
+you can stumble,
+and you can try your
+best to groan.
 
-This house is glass,
-And we have stones,
-And that's why right now I'm
-Halfway home.
+But this house is glass,
+and we have stones,
+and I'm already
+halfway home.

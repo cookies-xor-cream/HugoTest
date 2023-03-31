@@ -5,36 +5,36 @@ date: 2023-03-03
 ---
 
 I felt the same sombre kiss of rain,
-That stuck close yet fell far away.
-And I knew her mum would say,
-That her friends are all holed up in their rooms,
-While her daughter's laying eating nails,
-Locked in a final resting place,
-Inside a casket in a tomb.
+that stuck close yet fell far away.
+and I knew her mum would say,
+that her friends are all holed up in their rooms,
+whilst her daughter's laying, eating nails,
+locked in a final resting place,
+inside a casket in a tomb.
 
 But I'm busy with my bloody arms,
-I never meant to see thd harm,
+I never meant to see the harm,
 I was just looking for the marks she'd make,
-That had repaired since my skin's too fast to cover all the breaks. --
+since my skin's got practice covering the breaks. --
 And the knifeplay was now gone,
-Dissolved inside the fading thoughts,
-In the oceans of the memories of her life.
+dissolved inside the fading thoughts,
+in the oceans of the memories of her life.
 
 And if I had the potion or the book,
-That the necromancer long since took,
-I'd see her for a while.
-Maybe then she'd pattern me,
-Rebreak all the splinters of my heart.
+that the necromancer long since took,
+I wouldn't wish her here this time.
+She would only pattern me,
+rebreak all of the splinters of my heart.
 As if that would be a start.
 
 And though I dropped out of the fight,
-The minute I knew that she would leave,
-My sanity's the swansong heist,
-It's her final highlight reel.
-Crowned by a last artifact
-Of mine that she could steal.
+the minute I knew that she would leave,
+my sanity's the swansong heist,
+it's her final highlight reel.
+crowned by a last artifact
+of mine that she could steal.
 
 I want to beg for the diary,
-But I know it's not my place.
+but I know it's not my place.
 I just want to scribble out
-The metal in this bitter aftertaste.
+the metal in this bitter aftertaste.

@@ -6,27 +6,27 @@ date: 2023-03-03
 
 
 If the air around me was solid,
-You'd see the claw marks digging through,
-From out my body and into some
-Liminal space slightly closer to you.
+you'd see the claw marks digging through,
+from out my body and into some
+liminal space slightly closer to you.
 
 If you had thermal vision,
-You'd see the heat as it fizzled,
-Out from microscopic tremors,
+you'd see the heat as it fizzled,
+out from microscopic tremors,
 Streaming to steam out the drizzle.
 
 If you had barometer nerves,
-You'd knows the pressure as it climbs,
-From kPa to atmospheres,
-Like a meteorological crime.
+you'd see the pressure as it climbs,
+from kPa to atmospheres,
+like a meteorological crime.
 
 If you had gold foil to crack,
-You'd see the static attack the film,
-As I make a phase change from human,
-And to the opposite of "I'm sitting still".
+you'd see the static attack the film,
+as I make a phase change from human,
+and to the opposite of *"I'm sitting still".*
 
 I'm gonna melt down the earth, make puddles from the floor,
-If no one cracks open the flyscreen or my bedroom door.
+if no one cracks open the flyscreen or my bedroom door.
 
 I'm gonna burn me out, burn straight through my skin,
-If I make a second attempt at being 'perfectly still'.
+if I make a second attempt at being 'perfectly still'.

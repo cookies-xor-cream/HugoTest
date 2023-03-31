@@ -5,13 +5,6 @@ date: 2023-03-03
 ---
 
 One night worth of zopiclone,
-Is all I need to reset me,
-As the crow flies, or will have flown,
-My sleep requires a parted sea.
-
-Perpetual Motion Machine
-
-If you stop the thing,
-It'll never start,
-Its heart is drained,
-And short a spark.
+is all I need to reset me,
+as the crow flies, or will have flown,
+my sleep requires a parted sea.

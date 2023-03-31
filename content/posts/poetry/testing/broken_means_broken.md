@@ -5,14 +5,14 @@ date: 2023-03-03
 ---
 
 She needed a reason to believe in
-Something past this planet,
-But I prefered the notion that
-The sky could always shatter.
+something past this planet,
+but I prefered the notion that
+the sky could always shatter.
 
 We've a glassy floor below
-This china ceiling,
-The ceramic doesn't
-Lend so well to healing.
+this china ceiling,
+and ceramic doesn't
+lend so well to healing.
 
 *"Why do you think that there are stars?*
 *Alien headlights, xenomorphic cars?*
@@ -22,4 +22,4 @@ Lend so well to healing.
 "I think they're excavated sites,
 To show us where's been dug before.
 That is why we trace the points,
-Since that is how the faultlines joined"
+To see how it is the faultlines joined"

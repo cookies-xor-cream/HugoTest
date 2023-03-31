@@ -5,7 +5,7 @@ date: 2023-03-03
 ---
 
 I know the tones that make it up,
-That I localise in time or space,
-But I lose the fundemental if
+that I localise in space or time,
+but I lose the fundemental if
 I narrow displacement
-In the vectorspace
+in the vectorspace

@@ -5,17 +5,17 @@ date: 2023-03-03
 ---
 
 If walking's a silver bullet,
-Then it's only shooting me dead,
-Coz the four to eight hours a day that I get,
-Is only rearranging this puzzle in my head.
+then it's only shooting me dead,
+coz the four to eight hours a day that I get,
+is only rearranging this puzzle in my head.
 
 I think I'm missing a piece,
-But the water damage warped,
-Every piece I tried so hard to place,
-Pierced through my armour, and my guard.
+but the water damage warped,
+every piece I tried so hard to place,
+pierced through my armour, and my guard.
 
 And maybe with some time,
-The colours won't seem as stark,
-And instead they'll all gradient together,
+the colours won't seem as stark,
+and instead they'll all gradient together,
 I think that's a good a place as any
-For me to start.
+for me to start.

@@ -6,36 +6,36 @@ date: 2023-03-03
 
 
 I gathered the thread,
-From the web that she spun,
-I'm an escapist at heart,
-And I can't help but run.
+from the web that she spun,
+I was an escapist at heart,
+and I can't help but run.
 
 And if the weaver's got silk,
-Then I'll pull at the yarn,
+then I'll pull at the yarn,
 I'm gonna pull it all out
 Till it tugs from the start.
 
 We'll deweb the spider,
-And watch as she swings,
-We'll count up the thread,
-It'll geow as she sinks.
+and watch as she swings,
+we'll count up the thread,
+it'll grow as she sinks.
 
 Then I'll sew you a dress,
-That's got two-fold the limbs,
+that's got two-fold the limbs,
 I know it's made of your core,
-But please bear me the sting.
+but please bear me the sting.
 
-It'll cover your shell,
-And won't let you see air
-No simple diffusion,
-But I swear that its fair.
+And it'll cover your shell,
+and won't let you see air
+no simple diffusion,
+but I swear that its fair.
 
 And we'll rename the gown,
-Yeah, we'll call it a jar,
+could we call it a jar?
 Don't forget to inhale but
-Your breath won't draw far.
+your breath won't draw far.
 
 And when you can't draw a breath,
-When there's no oxygen left,
+when there's no oxygen left,
 I'll jot down the time,
-We'll be announcing the death.
+we'll be announcing the death.

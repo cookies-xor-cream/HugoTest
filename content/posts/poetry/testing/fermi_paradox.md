@@ -5,9 +5,9 @@ date: 2023-03-03
 ---
 
 I'm the vacuum of a person,
-Found in every missed rehearsal,
-And every sentence said out loud,
-We mispunctuated with our frowns.
+found in every missed rehearsal,
+and every sentence said out loud,
+we mispunctuated with our frowns.
 
 I'm the sole prayer for my absence,
 I'm the lack thereof my prescence,
@@ -15,16 +15,16 @@ I'm pneumonia trapped inside a bottle,
 I'm the accelerant and indulgent throttle.
 
 Flay me, skin me,
-Cesede this being,
-If it's worth the crease,
-Then it's worth the seeing.
+cesede this being,
+if it's worth the crease,
+then it's worth the seeing.
 
 Dogear my page,
 I'll set the stage,
-So strain my soul:
-Pressed through this cage.
+so strain my soul:
+pressed through this cage.
 
 Orion shot me,
-And ursa reaved,
-They purged my soul,
-With cosmic sieves.
+and ursa reaved,
+they purged my soul,
+with cosmic sieves.

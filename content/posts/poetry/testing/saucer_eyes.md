@@ -5,31 +5,31 @@ date: 2023-03-03
 ---
 
 Wherever you are,
-Wherever you've been,
-Look up and you'll know,
-That's the same moon
-That I have seen.
+wherever you've been,
+look up and you'll know,
+that's the same moon
+that I have seen.
 
 Beneath the stars,
-Through light pollution
-Of half-empty cars.
-You know it's the same
-Reflection of the sun.
+through light pollution
+of half-empty cars.
+you know it's the same
+reflection of the sun.
 
 Whether waning crescent,
-Or the waxing blues,
-Depends on the overlap,
-Of the nights that we
-Both choose.
+or the waxing blues,
+depends on the overlap,
+of the nights that we
+both choose.
 
 But I think just for one,
-That isn't quite as true,
-Coz starry eyes, I'm sure,
-That this could only
-Apply to you.
+that isn't quite as true,
+coz starry eyes, I'm sure,
+that this could only
+apply to you.
 
 Look, dishrack face,
-Your saucer eyes,
-Are the constellation dots;
-The pressure points that fall
-Across the glassy sky.
+your saucer eyes,
+are the constellation dots;
+the pressure points that fall
+across the glassy sky.
