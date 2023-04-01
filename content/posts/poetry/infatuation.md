@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: "Infatuation: She's My Religion"
-date: 2023-04-02
+date: 2023-04-01
 ---
 
 See the tread of the tracks,  
