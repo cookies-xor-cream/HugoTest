@@ -19,11 +19,6 @@ to take us from almost alone,
 to having more cover than company,  
 under the shelter of your home.
 
-My heart beat faster by one pace,  
-to make up for the nervousness,  
-then raced ahead another two,  
-to fill in for this happiness.
-
 Your eyes are empty, catching rain,  
 let me drown in them, I would die at peace,  
 on the mangrove, gulch, and muddy fields,  
