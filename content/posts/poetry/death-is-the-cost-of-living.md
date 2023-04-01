@@ -1,4 +1,4 @@
----  
+---
 tags: ['Amber']
 title: Death Is The Cost Of Living
 date: 2023-03-03

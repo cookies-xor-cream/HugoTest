@@ -1,4 +1,4 @@
----  
+---
 tags: ['Katherine']
 title: "The KK Thesis 2: Disproof Of The Disproof. Proof By Denial"
 date: 2023-03-03

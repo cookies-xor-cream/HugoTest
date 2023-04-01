@@ -1,4 +1,4 @@
----  
+---
 tags: ['Katherine']
 title: "Denial's Inelastic. Forgetting You Know And Remembering You Don't: A Formal Disproof Of The KK Thesis"
 date: 2023-03-03

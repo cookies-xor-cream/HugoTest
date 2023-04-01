@@ -1,4 +1,4 @@
----  
+---
 tags: ['Katherine']
 title: "The Cause Of Causality: Ghost On A Boat"
 date: 2023-03-03

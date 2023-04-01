@@ -1,4 +1,4 @@
----  
+---
 tags: ['Katherine']
 title: "Denial's Inelastic: New Evidence For The Etymology Of Lastique"
 date: 2023-03-03

@@ -1,4 +1,4 @@
----  
+---
 tags: ['Myself']
 title: I'm Photosensitive And I Got Swooped
 date: 2023-03-03
