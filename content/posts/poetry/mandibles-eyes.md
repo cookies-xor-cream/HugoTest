@@ -1,5 +1,5 @@
 ---  
-tags: ['Redacted'] # Claudia
+tags: ['Claudia']
 title: "Mandibles-Eyes: Stepping Over An Arthropod"
 date: 2023-03-03
 ---

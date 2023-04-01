@@ -1,5 +1,5 @@
 ---  
-tags: ['Redacted'] # Daniella
+tags: ['Daniella']
 title: "Pen And Paper And ER Nosebleeds: ???"
 date: 2023-03-03
 ---
