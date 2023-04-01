@@ -1,5 +1,5 @@
 ---
-tags: ['Daniella']
+tags: ['REDACTED'] # Daniella
 title: Glowing Skeletal Fluorescence
 date: 2023-03-03
 ---

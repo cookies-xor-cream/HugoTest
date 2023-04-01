@@ -1,5 +1,5 @@
 ---
-tags: ['Daniella']
+tags: ['REDACTED'] # Daniella
 title: "The Hex Of Vexing: Cursing, Then Pausing"
 date: 2023-03-03
 ---
