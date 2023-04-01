@@ -5,31 +5,31 @@ date: 2023-03-03
 ---
 
 Stick me in this lake of ash,  
-While the fire lays expunged,  
-It's stuck in perpetuity,  
-Blowing out a cast of glass
+while the fire lays expunged,  
+it's stuck in perpetuity,  
+blowing out a cast of glass
 
-Between the tachycardic trills  
-Of krill-filled breaths through filter-feed,  
-You met your death by way  
-Of ambergriss.
+between the tachycardic trills  
+of krill-filled breaths through filter-feed,  
+you met your death by way  
+of ambergris.
 
 And I would cast you out a net,  
-If you'd the arms to tie a noose,  
-And I'd make sure  
-That I wouldn't tie it loose.
+if you had arms to tie a noose,  
+and I'd make so damn sure  
+that it wasn't tied too loose.
 
 That shit was a package deal,  
-But you've got the exit scam  
-And eyes like steel,  
-That you can not seem anneal.
+but you've got the exit scam  
+and eyes like steel,  
+that you can't seem anneal.
 
-But we'll set p high,  
-And bring it low,  
-We'll watch the lattice  
-As it forms.
+But we'll set *p* high,  
+and bring it low,  
+we'll watch the lattice  
+as it forms.
 
 We'll watch it run,  
-With t increased,  
-As we 'learn'  
-And we 'reform'.
+with *t* increased,  
+as we *'learn'*  
+and we *'reform'.*

@@ -5,11 +5,11 @@ date: 2023-03-03
 ---
 
 I'm par for the course  
-Just as I have been living,  
-When you spot your own grave  
-You're a fool to go digging.
+just as I have been living,  
+when you spot your own grave  
+you're a fool to go digging.
 
 So give me a glass,  
-And we'll fill it with wine,  
-Come pick up a cup and I'll,  
-Flood it with brine.
+and we'll fill it with wine,  
+come pick up a cup and I'll,  
+flood it with brine.

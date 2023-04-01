@@ -5,13 +5,13 @@ date: 2023-03-03
 ---
 
 The fish and chips were stale ingested,  
-A finch beak sunders to a solar width,  
-And demands fish gone, half digested,  
-It screamed and it wailed but it never bit.
+a finch beak sunders to a solar width,  
+and demands fish gone, half digested,  
+it screamed and it wailed but it never bit.
 
 And bit by bit my stomach turned,  
-Birds scare me but this one wore  
-Its mouth in place of its money,  
-And the leck thereof the fish and chips,
+birds scare me but this one wore  
+its mouth in place of its money,  
+and the lack thereof the fish and chips,
 
-Was the reason that its heart was torn.
+Wws the reason that its heart was torn.

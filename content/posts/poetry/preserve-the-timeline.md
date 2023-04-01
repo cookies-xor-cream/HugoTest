@@ -5,32 +5,32 @@ date: 2023-03-03
 ---
 
 The first is misery, that's found fermented,  
-It tinges sweet but with acetic hues,  
-You somehow miss the caustic burn,  
-Even when remembering equates to self-abuse.
+it tinges sweet but with acetic hues,  
+you somehow miss the caustic burn,  
+even when remembering equates to self-abuse.
 
 The second is a remembrance prayer,  
-You know only blurs of truths raced past,  
+you know only blurs of truths raced past,  
 They meet the sky and fizzle thin,  
-You lost the metal, but kept the cast.
+you lost the metal, but kept the cast.
 
 The third one is a vacant feeling,  
-Where you try it, but with quicksand rules,  
-Where aiming makes you miss the mark,  
-And struggling means you lose the heart.
+where you try it, but with quicksand rules,  
+where aiming makes you miss the mark,  
+and struggling means you lose the heart.
 
 And the final one: its purest form,  
-An uncut dose of pastimes dead,  
-That comes comedown-less,  
-And doesn't dare to spark the dread.
+an uncut dose of pastimes dead,  
+that comes comedown-less,  
+and doesn't dare to spark the dread.
 
 I think I find the disparity funny,  
-Like a testament to my priorities,  
-The following is an ordered list,  
-From one to four, the life I've lived.
+like a testament to my priorities,  
+the following is an ordered list,  
+from one to four, the life I've lived.
 
 From one to four, the past I missed:  
-The first one's dead,  
-The second moved,  
+the first one's dead,  
+the second moved,  
 I don't care for this one,  
-And the last one's a cartoon.
+and the last one's a cartoon.

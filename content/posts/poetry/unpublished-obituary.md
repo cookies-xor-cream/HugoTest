@@ -5,16 +5,16 @@ date: 2023-03-03
 ---
 
 Funny number, please riddle me,  
-Not with words but with heavy lead.
+not with words but with heavy lead.
 
 Did you eat nine or devour him?  
-Punishment for the life he lead.
+punishment for the life he lead.
 
 Funny girl go, watch bleed him dry,  
-Watch the red wash into the sky.
+watch the red wash into the sky.
 
 See the colour coagulate,  
-Then gate-keep both your collective fate.
+then gate-keep both your collective fate.
 
 Everything is worse when it's seven.  
 Everything is worse when it's overdue.  
