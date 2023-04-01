@@ -5,31 +5,31 @@ date: 2023-03-03
 ---
 
 The last we saw of her that night,  
-Was the cawing and the laughs,  
-Of a cigarette-wielding parrot,  
+was the cawing and the laughs,  
+of a cigarette-wielding parrot,  
 trying to get into her pants
 
 She was a parrot of her love,  
-She was the reflection found inside,  
-She was the sad truth that,  
-she held a mirrors without her doves.
+she was the reflection found inside,  
+she was the sad truth that,  
+she held a mirrors lacking doves.
 
-She was echoes of of her tone,  
-That reinforced what she thought,  
-Further, and forevermore,  
-A wooden house recast in stone.
+She was the echoes of her tone,  
+that reinforced what she thought,  
+further, forevermore,  
+a wooden house recast in stone.
 
 And the concrete had to grow its wings,  
-A tattered pair, but colourful,  
-And light enough to catch and scoop  
+a tattered pair, but colourful,  
+and light enough to catch and scoop  
 the air found underneath.
 
 She said that he was still:  
-Bluebottle eggs, on a buzzing lake,  
-But she kept talking talking talking  
-Talking for her sake.
+bluebottle eggs, on a buzzing lake,  
+but she kept talking talking talking,  
+talking for her sake.
 
-Coz she was a parrot of her love,  
-And the dove was stuck inside,  
-She told her that she loved her,  
-But she was just looking for a light.
+coz she was a parrot of her love,  
+and the dove was stuck inside,  
+she told her that she loved her,  
+but was just looking for a light.

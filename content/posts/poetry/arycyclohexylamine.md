@@ -7,14 +7,14 @@ date: 2023-03-03
 When I cleaned my drawer's shelves,  
 I'd found her old notebook,  
 I then realised a half-page in,  
-How her writing must've looked.
+how her writing must've looked.
 
 I recognised the words she used,  
-And the water-damage too,  
-But she was writing riverside,  
-By the angel dust and fumes.
+and the water-damage too,  
+but she was writing by the riverside,  
+by the angel dust and pillared fumes.
 
 You can't trace out any lines,  
-When the orchid was in bloom,  
-Of the mixture of an eight-ball ket,  
-And a quarter-filled balloon.
+when the orchid was in bloom,  
+on the mixture of an eight-ball ket,  
+and a quarter-filled balloon.

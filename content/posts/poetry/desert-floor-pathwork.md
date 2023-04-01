@@ -5,14 +5,14 @@ date: 2023-03-03
 ---
 
 It's the subtle cracks in creviced stone  
-That's brittle, broken to its core,  
-That isn't filled, that sits unhoned,  
-That rids the structure of all its bones.
+that's brittle, broken to its core,  
+that isn't filled, that sits unhoned,  
+that rids the structure of all its bones.
 
 And all we're left with is the skin,  
-That's rocky like the desert floor.  
+that's rocky like the desert floor.  
 That spans the beach unclad with sand,  
-That has no hands or limbs to grasp.
+that has no hands or limbs to grasp.
 
 The desert floor needs and yearns to reach,  
 both the yarn or thread and the machine,  
