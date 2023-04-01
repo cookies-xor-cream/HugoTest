@@ -22,6 +22,10 @@
     background-color: rgba(var(--color-neutral-800),var(--tw-bg-opacity))
 }
 
+#homepage-menu > ul > ul > li > a {
+    padding: 0.5rem;
+}
+
 #homepage-menu a.article:hover {
     filter: brightness(92%);
 }
