@@ -1,16 +1,14 @@
 ---  
 tags: ['People In Passing']
-title: Leaning
+title: Leaning Too Close Wasn't Close Enough
 date: 2023-03-03
 ---
 
-Leaning Too Close Wasn't Close Enough
-
 Her face felt like snow against mine,  
-And the frost kept me in place,  
-Like I was frozen in time.
+and the frost kept me in place,  
+like I was frozen in time.
 
 And I thought that she'd know,  
-That I was chronically warm,  
-But if she chills out my bones,  
-Then what is the harm?
+that I was chronically warm,  
+but if she chills out my bones,  
+then what is the harm?

@@ -5,38 +5,38 @@ date: 2023-03-03
 ---
 
 Frosted glass and broken windows,  
-The barking on the midnight walk,  
-Has nothing left to show me now,  
-And I've nowhere left to go.
+the barking on the midnight walk,  
+has nothing left to show me now,  
+and I've nowhere left to go.
 
-Was on Ullapool and Bombard,  
-Things were said but not by me,  
-And I'm making my life hard now,  
-And you think that I don't see?
+Was on Ulapool and Bombard,  
+things were said but not by me,  
+and I'm making my life hard now,  
+and you think that I don't see?
 
-He begged me: "stay home",  
-But I'm deaf on the right,  
+He begged me: *"stay home",*  
+but I'm deaf on the right,  
 I gotta get off the phone,  
-Coz I'm catching a ride.
+coz I'm catching a ride.
 
 I'll be finishing it,  
-And the sky will be blue,  
-As bit by small bit,  
+and the sky will be blue,  
+as bit by small bit,  
 I'll be passing by you.
 
 I'm on the path to my house,  
-There like an ant on a hill,  
-And I'm molting the cause,  
-Coz I'm towered by it.
+there like an ant on a hill,  
+and I'm molting the cause,  
+coz I'm towered by it.
 
 And the mandible claws,  
-Aren't making the bug,  
-Edibles back-slung,  
-In their stomachs dissolve.
+aren't making the bug,  
+edibles back-slung,  
+in their stomachs dissolve.
 
 I abstained from partaking,  
-Don't know where I've been,  
-But there's a pheromone trail,  
-And it leads to the sin.
+don't know where I've been,  
+but there's a pheromone trail,  
+and it leads to the sin.
 
 I never resolved it.

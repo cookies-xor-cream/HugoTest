@@ -5,11 +5,11 @@ date: 2023-03-03
 ---
 
 Water never meant to freeze,  
-Liquid's ice that gambled feet,  
-Twenty higher and it would run,  
-It only needs the naked sun.
+it's liquid ice that gambled feet,  
+twenty higher and it would run,  
+it only needs the naked sun.
 
 To shed its roots and to unplant,  
-To uproot itself, to take a stand;  
-It just got lucky, was brought alive,  
-It aims to live but can't survive.
+to uproot itself, to take a stand;  
+it just got lucky, was brought to life,  
+it aims to live but can't survive.

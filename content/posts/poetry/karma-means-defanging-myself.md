@@ -10,19 +10,19 @@ I don't hate you,
 I'm only grieving.
 
 Thanks for all  
-The breath I drew,  
-And with each one  
+the breath I drew,  
+and with each one  
 I had thought of you.
 
 And thought that I  
-Should forget about  
-The nowheres and  
-The roundabout.
+should forget about  
+the nowheres and  
+the roundabout.
 
 You knew, coz I told  
-You every week.  
+you every week.  
 But you say you didn't,  
-Now I can't speak.
+and now I can't bear speak.
 
 But that's old news,  
 I know it is.  
@@ -30,6 +30,6 @@ I left you clues.
 I knew I did.
 
 Just pull my teeth,  
-And lay them bare,  
-With locust swarms  
-It might be fair.
+and lay them bare,  
+with locust swarms  
+it might be fair.

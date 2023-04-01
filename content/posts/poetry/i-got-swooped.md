@@ -5,39 +5,39 @@ date: 2023-03-03
 ---
 
 I think that I  
-Can't bear to watch  
-The fabric as it  
-Comes to tear.
+can't bear to watch  
+the fabric as it  
+comes to tear.
 
 We're always stuck  
-Just one heart short,  
-In need of double bit  
-Support.
+just one heart short,  
+in need of double bit  
+support.
 
 The flashing lights  
-And sudden sounds  
-Don't rattle me,  
-My head is sound.
+and sudden sounds  
+don't rattle me,  
+my head is sound.
 
 But it's the drinking  
-That lets me brave,  
-Through lacked circumstance  
-That I wholely crave.
+that lets me brave,  
+through lacked circumstances  
+I wholely crave.
 
 Be it crow, or raven,  
-Or magpie vulture,  
+or magpie vulture,  
 I ducked it and I  
-Flew right under.
+flew right under.
 
 But wagtails are  
-A backup plan,  
-For when their shit  
-Starts to hit the fan.
+a backup plan,  
+for when their shit  
+starts to hit the fan.
 
 They perch upon  
-The lowly wall,  
-And pounce upon  
-Without their claws.
+the lowly wall,  
+and pounced upon  
+without their claws.
 
 But I dodged the sutures,  
 I dodged the stitches,  

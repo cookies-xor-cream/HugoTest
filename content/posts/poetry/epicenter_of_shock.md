@@ -7,7 +7,7 @@ date: 2023-03-03
 My jaw decided to wire shut,  
 and I tried to tell you *'no',*  
 but I've never wore such a heavy maw,  
-So I lost the volume when I said *'go'*.
+so I lost the volume when I said *'go'*.
 
 I'm sorry that my grip had stuck,  
 but I'm just happy it was weak.  
@@ -27,4 +27,4 @@ and you're sitting on the plate.
 Coz you're right where all these faultlines grate,  
 and there's nothing they can't shake.  
 no, there's nothing that can take the quake,  
-And live through right through, without a single break.
+and live through right through, without a single break.

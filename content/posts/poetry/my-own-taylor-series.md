@@ -5,33 +5,31 @@ date: 2023-03-03
 ---
 
 Theres only so much one can know,  
-At any given time.  
-There's a bandwidth and a bitrate,  
-Intrinsic to this rhyme.
+at any given time.  
+there's a bandwidth and a bitrate,  
+intrinsic to this rhyme.
 
 You know the momentum or displacement,  
-Of a cubic set of splines.  
-That trace out with each successive draw,  
-Of breath on their outline.
+of a cubic set of splines.  
+that trace out with each successive draw,  
+of breath on their outline.
 
 Was I breathing?  
 Heard a sigh?  
 But would you care  
-To answer why?
+to answer why?
 
 My inhale's the diving gradient,  
-Of the monotonic brought sentient,  
-And I'll be decreasing come the time.
+of the monotonic brought sentient,  
+and I'll be decreasing come the time.
 
 I'm the path formed by the splines,  
 I'm the piecewise continuous function,  
-Of this droning slope's dysfunction.
+of this droning slope's dysfunction.
 
 But I know differentiation,  
-Is an operation that I cannot  
-Infinitely survive.  
-The four times is the bound.
+is an operation that I cannot  
+infinitely survive.  
+And four times is the bound.
 
-$f(x) = ?$
-
-(If you think you know what $f(x)$ is feel free to ask).
+f(x) = ?

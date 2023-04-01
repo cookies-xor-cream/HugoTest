@@ -1,27 +1,27 @@
 ---  
-tags: ['Redacted'] # Daniella
+tags: ['Daniella']
 title: "Nosebleed: The First Night Is The Easiest"
 date: 2023-03-03
 ---
 
 It's been a half a dozen hours since,  
-Where's the blood: I'm curious,  
-Has it been rained on and been rinsed,  
-From seven to one past twelve.
+where's the blood: I'm curious,  
+has it been rained on and been rinsed,  
+from seven to one past twelve.
 
 My sheets are soaked.  
 My shirt is soaked.  
 The tissues ran out,  
-Now they're all soaked.
+now they're all soaked.
 
 My bloody nose,  
-Knows no remorse,  
-It just keeps pumping,  
-To juxtapose  
-This image of my tearless eyes  
-With the painted face, but you might find,  
-It didn't time the thing quite right.
+knows no remorse,  
+it just keeps pumping,  
+to juxtapose  
+this image of my tearless eyes  
+with the painted face, but you might find,  
+it didn't time the thing quite right.
 
 Now it'll watch as my eyes both dry,  
-At least it's not like watching paint  
-Run and turn alive.
+at least it's not like watching paint  
+run and come to life.

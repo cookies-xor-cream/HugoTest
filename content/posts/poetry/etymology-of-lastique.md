@@ -5,26 +5,26 @@ date: 2023-03-03
 ---
 
 I sleep with my arms crossed  
-And my hands entwined,  
-My ulnar nerve's stretched out  
-Into a zero width line.
+and my hands entwined,  
+ny ulnar nerve's stretched out  
+into a zero width line.
 
 I wouldn't call it elastic,  
 I don't think that that's quite true,  
-It's less like the tire off your cars,  
-And more like the sole of your shoes.
+it's less like the tire off your cars,  
+and more like the sole of your shoes.
 
 But I say to myself,  
-Like its vulcanised truth,  
-That my wrists don't burn,  
-And my right arm doesn't shoot.
+like its vulcanised truth,  
+that my wrists don't burn,  
+and my right arm doesn't shoot.
 
-"Shooting pain? Ugh,  
-Wouldn't call it that really".  
+*"Shooting pain? Ugh,*  
+*Wouldn't call it that really".*  
 "Then how do you define it  
 Please tell me exactly".
 
-"I sleep wrong;  
-Please save the talk  
-Hold your mouth  
-And tie your tongue"
+*"I sleep wrong;*  
+*Please save the talk*  
+*Hold your mouth*  
+*And tie your tongue".*

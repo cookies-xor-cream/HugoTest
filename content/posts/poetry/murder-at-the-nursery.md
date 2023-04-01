@@ -5,16 +5,15 @@ date: 2023-03-03
 ---
 
 I said hi to you in passing,  
-On a day in the dead of summer,  
-Record it by the sweat I wore  
-Remembered by the heatwave's strokes.
+on a day in the dead of summer,  
+record it by the sweat I wore  
+remembered by the heatwave's strokes.
 
 You said hi back, a sleight of tongue?  
 Is this a lapse in judgement spied?  
 I said hi, and then hello again,  
-You said it back and I knew then.
+you said it back and I knew then:
+yhat my friend was dead.
 
-That my friend was dead.
-
-Hello, orphan,  
+Hello, orphan.  
 Hello again.

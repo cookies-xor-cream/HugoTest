@@ -5,39 +5,39 @@ date: 2023-03-03
 ---
 
 Acuity is now dodging us,  
-In every form but optical,  
-The bromine and the dragonfly  
-They took your sight away.
+in every form but optical,  
+the bromine and the dragonfly  
+they took your sight away.
 
 Leave them here, your sable eyes,  
 I'm waiting by the underpass,  
-The clock can't tick we froze it's time,  
-And now its time can't come to pass.
+the clock can't tick we froze it's time,  
+and now its time can't come to pass.
 
 But we're too deep in, we're two deep now,  
-With two of each, we're asking how,  
-The four we took have robbed your eyes  
-Of the chroma you have tried to hide.
+with two of each, we're asking how,  
+the four we took have robbed your eyes  
+of the chroma you have tried to hide.
 
-The babbling brook, and wailing sea,  
-The rivers scream into a stream,  
-The lizards and the snakes around,  
-Have dropped from vision and turned to sound.
+By the babbling brook, and wailing sea,  
+the rivers scream into a stream,  
+the lizards and the snakes around,  
+have dropped from vision and turned to sound.
 
 She asked if you were up.  
 You smiled at every ask,  
-Of how aware you were,  
-Or would ever be at last.
+of how aware you were,  
+or would ever be at last.
 
 She waved around her threats,  
-And screeched for her to take you home,  
-But the threat of dying slowly sank  
-Like a lake eating a stone.
+and screeched for her to take you home,  
+but the threat of dying slowly sank  
+like a lake eating a stone.
 
 I wish that you had stayed asleep,  
-And lost yourself in vivid dreams.  
+and lost yourself in vivid dreams.  
 But you had lost your sable eyes,  
-Your eyes were hazel, charred inside,
+your eyes were hazel, charred inside,
 
 Fire browned,  
-All cut up and cauterized.
+all cut up and cauterized.

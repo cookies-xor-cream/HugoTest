@@ -5,26 +5,26 @@ date: 2023-03-03
 ---
 
 It's fucking weird that I can't breath,  
-What's that saying that she used?  
-Every time that we fall asleep,  
-We wake up more confused?
+what's that saying that she used?  
+every time we fall asleep,  
+we wake up more confused?
 
 Between the coughing fits  
-And the wearing down of us,  
-We have a while to go  
-And here I am waiting on the bus.
+and the wearing down of us,  
+we have a while to go  
+and here I am waiting on the bus.
 
 Like all that I recall  
-Is all I have forgot,  
-Like this blackhole of a life  
-Is all I've begot.
+is all I have forgot,  
+like this blackhole of a life  
+is all I've begot.
 
 The days all rot and blend,  
-And all that you have left,  
-Is to swear to me that you,  
-Are still working on the mend.
+and all that you have left,  
+is to swear to me that you,  
+are still working on the mend.
 
-Icarus,  
-You fly on waxy wings,  
-We know it all to well,  
-And I bet you do as well.
+Oh, Icarus,  
+you fly on waxy wings,  
+we know it all to well,  
+and I bet you do as well.

@@ -5,16 +5,16 @@ date: 2023-03-03
 ---
 
 Tethered, ringing,  
-Broken bones,  
-Each had sound  
-Their hollow tone.
+broken bones,  
+each had sound  
+their hollow tone.
 
 Lead's the servant,  
-Of these observant,  
-Eyes that fled,  
-The ghastly seams.
+of these observant,  
+eyes that fled,  
+the ghastly seams.
 
 And found themselves  
-Lost trapped in dreams,  
-In the seamstress  
-And her scenery.
+lost trapped in dreams,  
+in the seamstress  
+and her scenery.

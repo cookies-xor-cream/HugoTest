@@ -5,31 +5,31 @@ date: 2023-03-03
 ---
 
 With a shutter snap and full force flash  
-She flatlined her batteries.
+she flatlined her batteries.
 
 The lithium, it couldn't hold,  
-The alkali had broke its mould.
+the alkali had broke its mould.
 
 A caustic spray of absentees,  
-That never need RSVP.
+that never need RSVP.
 
-The lead paint wore its absence strung  
-Like fibrosis caught up in her lungs.
+The lead paint wore, its absence strung  
+like fibrosis caught up in her lungs.
 
 We wouldn't miss asbestos words,  
-The turns of phrase and sharpened tongues.
+the turns of phrase and sharpened tongues.
 
 I was left here, with these memories  
-That didn't want to plug into the prise.
+that didn't want to plug in the prise.
 
 Then the sunlight stabbed as it must do,  
-Smouldered her goodbyes, and then her dues.
+smouldered her goodbyes, and then her dues.
 
 The only thing that was left on ice  
-Was her fascination with prepositions,
+was her fascination with prepositions,
 
-But especially the word "through",  
-When it wore the past as a disguise.
+But especially the word *"through",*  
+when it wore the past as a disguise.
 
 And that stuck with me  
-The whole damn way, straight through.
+the whole damn way, straight through.

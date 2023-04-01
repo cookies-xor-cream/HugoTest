@@ -5,36 +5,36 @@ date: 2023-03-03
 ---
 
 I know I never wrote back,  
-But you know what that implies.  
-You need to stop wrwiting,  
-To lose the tether; cut the tie.
+but you know what that implies.  
+you need to stop writing,  
+to lose the tether; cut the tie.
 
 I'm sorry for the lack of distance,  
-And I'm sorry if the distance drags,  
+and I'm sorry if the distance drags,  
 I'm sorry for the lacked resistance,  
-And I'm sorry for what I let pass.
+and I'm sorry for what I let pass.
 
 I'll find you, I have done so twice,  
-We'll roll the dice and pick the place,  
+we'll roll the dice and pick the place,  
 I'd call it luck but know too well,  
-The flow of oil's the lucky taste.
+the flow of oil's the lucky taste.
 
 I know you chased, and I was first,  
-But her ghastly glare will take away,  
-A thousand things we can deny,  
-But only one thing we must say.
+but her ghastly glare will take away,  
+a thousand things we can deny,  
+but only one thing we must say.
 
 One thing waiting, subtly haunting,  
-As every moment comes to die,  
-From past to present, and then to future,  
-It wraps around for another time.
+as every moment comes to die,  
+from past to present, and then to future,  
+it wraps around for another time.
 
 The first one's brief, but took so long,  
 I couldn't read the fucking lines,  
-Between the ones that had *her* name,  
-And the one you forgot to sign.
+between the ones that had *her* name,  
+and the one you forgot to sign.
 
-"I know the nightmares never stop",  
+*"I know the nightmares never stop",*  
 Not for you and justly so,  
-"But exhaustion is my slumber spell",  
+*"But exhaustion is my slumber spell",*  
 And that's something that I hate to know.
