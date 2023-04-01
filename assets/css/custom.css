@@ -1,3 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+em {
+    opacity: 80%;
+}
+
 #homepage-menu {
     margin-bottom: 4rem;
 }

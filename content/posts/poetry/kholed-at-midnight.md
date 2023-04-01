@@ -27,7 +27,7 @@ you know what I want to hear you say"
 *The water's cold and number than*  
 *your icy heart and frosty tact*  
 *you didn't have to name the kid,*  
-*least not post-mortem like you did.*
+*least not post-mortem like you did".*
 
 "You can just say it directly,  
 one 'fuck you' that's aptly put,  
