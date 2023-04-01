@@ -1,7 +1,7 @@
-enableSearch = false
+enableSearch = true
 
 colorScheme = "fire"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 
 homepage.layout = "profile"
 
@@ -11,9 +11,6 @@ footer.showScrollToTop = false
 footer.showAppearanceSwitcher = true
 
 article.showReadingTime = false
-
-[outputs]
-    home = [ "HTML", "JSON", "RSS"]
 
 # Theme Choices #
 # ------------- #

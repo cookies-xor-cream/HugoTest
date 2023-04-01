@@ -6,6 +6,8 @@
     {{ partial "partials/home/profile.html" . }}
   {{ end }}
 
+  <link rel="alternate" type="application/json" href="/index.json" title="Blowfish" />
+
   <section id="homepage-menu">
     <ul>
         {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
