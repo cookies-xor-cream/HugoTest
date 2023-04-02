@@ -12,6 +12,8 @@ footer.showAppearanceSwitcher = true
 
 article.showReadingTime = false
 
+logo = "img/favicon-32x32.png"
+
 # Theme Choices #
 # ------------- #
 # Blowfish (default) #

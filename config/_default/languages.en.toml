@@ -1,6 +1,6 @@
 # config/_default/languages.en.toml
 
-title = "cookies-xor-cream: poetry"
+title = "cookies-xor-cream"
 
 [author]
 name = "cookies-xor-cream"
