@@ -19,4 +19,4 @@ you'll be the bird that pulls my tether,
 my swan that's hunting for calmer weather,  
 my cygnus sigil of a heart unleashed,  
 a symbol of my avarice,  
-and all the places that we could reach.
+of all the places that we could reach.

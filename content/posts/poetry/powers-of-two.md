@@ -16,8 +16,8 @@ I feel like I'm waiting too long; too much.
 
 I'm the stroke of a paintbrush,  
 that can't dry on the paving,  
-feel like every sentence we swap,  
-is one that I've been saving.
+like every sentence we swap,  
+is one I've been saving.
 
 And everything I want to say,  
 is something that I shouldn't do,  

@@ -15,6 +15,6 @@ I need a shuffle of tarot,
 and you reading my hand.
 
 Instead you're reading my palm,  
-I think that you've found,  
+it looks like you've found,  
 a mouthful of psalms,  
 and I long for the sound.
