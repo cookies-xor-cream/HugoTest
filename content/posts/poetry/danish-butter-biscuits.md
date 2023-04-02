@@ -10,10 +10,10 @@ but it always preserves the fear,
 I wish I could tip it over,  
 I wish I could unhear.
 
-**"There was a thud and it sticks,**  
-**it was loud but so nondescript,**  
-**and it buried me in all the sounds**  
-**of the shit that came prescript.**
+*"There was a thud and it sticks,*  
+*it was loud but so nondescript,*  
+*and it buried me in all the sounds*  
+*of the shit that came prescript.*
 
 *And I can't shake off the shudder,*  
 *those muffled muted screams,*  
