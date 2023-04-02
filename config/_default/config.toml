@@ -1,2 +1,1 @@
 baseURL = "https://cookies-xor-cream.github.io/crappy-amateur-poetry/"
-outputs.home = ["HTML", "RSS", "JSON"]

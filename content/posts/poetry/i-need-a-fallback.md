@@ -13,3 +13,6 @@ I'd like to think that it's not,
 but well, what could I know,  
 if you don't feel how I feel,  
 then where do I go?
+
+And if you feel how I feel,  
+would you be letting it show?
