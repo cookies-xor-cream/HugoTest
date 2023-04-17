@@ -1,10 +1,10 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Depth First Search On Reality; The Nurse Thinks I Have A Deathwish"
 date: 2023-04-06
 ---
 
-I woke up with a projected in my head,  
+I woke up with a projection in my head,  
 that played the image of a single bed,  
 that was stuck in a whiteout reality,  
 and couldn't escape its fluorescent gravity.  
@@ -14,7 +14,7 @@ the whitest shimmer blacklisted everything,
 that my eyes connected with, through the dullest sting.
 
 My vein unrolled like a garden horse,  
-from a cannular that got deposed,  
+from a cannular that got deposed.  
 graph the volume of the bleeding,  
 see my heartbeat run receding,  
 pulled the IV bag to read the label,  
