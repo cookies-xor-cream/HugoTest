@@ -1,3 +1,9 @@
+---
+tags: ['TODO']
+title: A 9:30 Start Is 90 Minutes Lost To Timezones
+date: 2023-06-03
+---
+
 I'm A Signal Flare: The Brighter Byproducts
 
 I feel like I operate on a different timescale than everybody else,  

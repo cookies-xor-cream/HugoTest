@@ -1,3 +1,9 @@
+---
+tags: ['TODO']
+title: A 9:30 Start Is 90 Minutes Lost To Timezones
+date: 2023-06-03
+---
+
 Backtracking Exponential Decay
 Powers Of A Half, Half Of Us Half Had The Power
 
