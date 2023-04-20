@@ -12,9 +12,9 @@ I just gotta find out exactly where it is.
 ---
 
 When I answered her "no",  
-she joked that "first time's the charm",  
+she joked that *"first time's the charm"*,  
 that soon she'll up and she'll go,  
-and so "where is the harm?"
+and so *"where is the harm?"*
 
 I told her she's wrong,  
 and the lack of the bad,  

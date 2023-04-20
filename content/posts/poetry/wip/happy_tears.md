@@ -16,7 +16,7 @@ I want them to leave me be at peace.
 
 An old lady caught me crying on the bus,  
 said her husband died, and the book I had,  
-reminded her of a time where she'd say 'us',  
+reminded her of a time where she'd say *'us'*,  
 but that's stuck generations back, within the windy heights.
 
 I meandered my way home,  

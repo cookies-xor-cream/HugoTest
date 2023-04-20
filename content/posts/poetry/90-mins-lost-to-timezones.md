@@ -12,7 +12,7 @@ They'd be on time if you are too.
 The difference is an hour halved    
 from the Eastern cusp of desert sands.  
 Geotemporal spacetime shifts  
-Can sunder us with half filled rifts.
+can sunder us with half filled rifts.
 
 We've got a half an hour come between  
 the sands and the silica-desert forest screens.

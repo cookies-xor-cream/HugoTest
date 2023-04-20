@@ -20,6 +20,6 @@ we've missed Hannah for the most part,
 and now we're shy a Daniella.
 
 I guess it's not short form anymore,  
-when it hits a readtime of two hours,  
+when it hits a read-time of two hours,  
 I wish I could put the nuance in a single sentence,  
 but I don't have that power.

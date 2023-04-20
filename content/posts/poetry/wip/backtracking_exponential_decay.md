@@ -4,7 +4,7 @@ title: "Backtracking Exponential Decay"
 date: 2023-06-03
 ---
 
-Powers of a half, half of us half had the power
+Powers of a half, half of us half had the power.
 
 The orchid was in bloom,  
 through an eightball ket,  

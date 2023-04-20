@@ -14,6 +14,6 @@ we've got the southern cross or orion's belt,
 but the gorgeous swan is so unclear,  
 muddied in the sky-rim streetlights.
 
-"So it's something pretty that isn't so?  
+"So it's something pretty, that isn't so?  
 A place you want so badly to be,  
 but somewhere you could never go?"
