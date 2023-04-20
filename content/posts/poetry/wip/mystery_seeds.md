@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['TBD']
 title: New Mystery Seeds (Can't Pick What Grows, But Something Will)
 date: 2023-06-03
 ---

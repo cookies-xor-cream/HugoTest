@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "Angeldust, Amberlight"
 date: 2023-06-03
 ---

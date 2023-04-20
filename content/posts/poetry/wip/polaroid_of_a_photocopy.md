@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Polaroid Of A Photocopy Of A Compressed Image"
 date: 2023-06-03
 ---

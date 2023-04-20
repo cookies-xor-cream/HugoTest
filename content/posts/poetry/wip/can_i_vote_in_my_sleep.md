@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Can I Vote In My Sleep?"
 date: 2023-06-03
 ---

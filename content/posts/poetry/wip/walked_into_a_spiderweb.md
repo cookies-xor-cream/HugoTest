@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "I Walked Into A Spider Web Tonight"
 date: 2023-06-03
 ---

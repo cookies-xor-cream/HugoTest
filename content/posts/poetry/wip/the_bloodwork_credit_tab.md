@@ -1,11 +1,11 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "The Bloodwork Credit Tab"
 date: 2023-06-03
 ---
 
 I finally lost the bruises that I picked up  
-when I planted my hand on the street,  
+when I planted my hand out on the street,  
 I suppose that plant couldn't grow inside my pockets,  
 which was dry in the rain, dying discrete.
 

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "First Day Of My Life"
 date: 2023-06-03
 ---

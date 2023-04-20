@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "I'm A Signal Flare: The Brighter Byproducts"
 date: 2023-06-03
 ---

@@ -1,6 +1,6 @@
 ---
-tags: ['TODO']
-title: "Repeat; Repeat; Repeat; Repeat (I Aimed To Love The City; But Found Collateral)"
+tags: ['TBD']
+title: "Repeat; (Love's Collateral)"
 date: 2023-06-03
 ---
 

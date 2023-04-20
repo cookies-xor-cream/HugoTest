@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Daydreamer Threatened To Steal Me When I Blinked"
 date: 2023-06-03
 ---

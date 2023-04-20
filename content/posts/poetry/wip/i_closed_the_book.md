@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['REDACTED'] # Daniella
 title: "I Closed The Book; I Need A Story Which Doesn't Give Me Papercuts"
 date: 2023-06-03
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Hazel']
 title: "No Reason Not To Isn't An Argument For Anything"
 date: 2023-06-03
 ---

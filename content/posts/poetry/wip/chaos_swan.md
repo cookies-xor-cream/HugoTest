@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Katherine']
 title: "Chaos Swan: The Symbol For Desynchronisation"
 date: 2023-06-03
 ---

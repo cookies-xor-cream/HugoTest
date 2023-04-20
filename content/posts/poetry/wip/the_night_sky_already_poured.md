@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Sleep Fast, The Night Sky Already Poured Down On Us"
 date: 2023-06-03
 ---
@@ -19,7 +19,7 @@ convinced my lonesome self that it would turn out fine,
 but with each successive draw of breath I rose cuts above the sleet,  
 we're out of bloodwork credit, you can read it on the balance sheet.
 
-In the stuper of my waking moments I saw the chalk outline,  
+In the stupor of my waking moments I saw the chalk outline,  
 marking out the premises for a self-inflicted crime,  
 wrapping tightly, the chalk hemmed all of my skin,  
 but every day it's getting dimmer, we're pushing at the rim,  

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "I Lived A Decade In A Day, And Forgot All Of It"
 date: 2023-06-03
 ---

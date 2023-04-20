@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Katherine']
 title: "Backtracking Exponential Decay"
 date: 2023-06-03
 ---

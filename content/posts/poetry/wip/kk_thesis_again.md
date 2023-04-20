@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "I Remember Thinking I Knew: The KK Thesis (Again)"
 date: 2023-06-03
 ---

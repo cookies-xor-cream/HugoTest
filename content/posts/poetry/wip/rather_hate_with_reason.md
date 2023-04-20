@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "I'd Rather Reason For Hate Than Hate By Default"
 date: 2023-06-03
 ---

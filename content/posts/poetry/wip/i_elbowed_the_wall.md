@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "I Elbowed The Wall In My Sleep"
 date: 2023-06-03
 ---

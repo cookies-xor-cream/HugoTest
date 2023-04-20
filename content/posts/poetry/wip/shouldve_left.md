@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Everywhere I Should've Left Sooner: Subsequent Attempts Where Quitting Was Preferable"
 date: 2023-06-03
 ---

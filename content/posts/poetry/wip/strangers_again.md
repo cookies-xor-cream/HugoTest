@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Strangers Again"
 date: 2023-06-03
 ---

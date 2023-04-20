@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Headache Debt: Didn't Have Enough To Make The Down Payment"
 date: 2023-06-03
 ---

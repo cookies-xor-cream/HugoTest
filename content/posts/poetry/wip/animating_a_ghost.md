@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Katherine']
 title: "Animating A Ghost: Weekend At Kathy's"
 date: 2023-06-03
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Factory Reset (The Crowbar Method)"
 date: 2023-06-03
 ---

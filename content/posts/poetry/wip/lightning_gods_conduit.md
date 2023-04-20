@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Katherine']
 title: "I Only Like Lightning God's Conduit"
 date: 2023-06-03
 ---

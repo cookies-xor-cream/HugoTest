@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "The Crowbar Method: Funeral For Someone Who Only Exists In A Thought Experiment"
 date: 2023-06-03
 ---

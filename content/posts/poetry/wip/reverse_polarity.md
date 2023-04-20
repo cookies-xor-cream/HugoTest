@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "Reverse Polarity: The Northern Cygnus Hates The Horizon"
 date: 2023-06-03
 ---
