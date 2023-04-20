@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: "Cygnus, I'd Rather You Guide Me Than The Stars"
-date: 2023-04-01
+date: 2023-05-01
 ---
 
 I'm seeing you two days from now,  

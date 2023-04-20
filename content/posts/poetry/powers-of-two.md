@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: "You're Where All My Thoughts Used To Be"
-date: 2023-04-01
+date: 2023-06-01
 ---
 
 The distance halves every stare I catch,  

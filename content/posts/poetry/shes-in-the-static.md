@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: "She's In The Static"
-date: 2023-04-02
+date: 2023-06-02
 ---
 
 The TV is snowing,  
