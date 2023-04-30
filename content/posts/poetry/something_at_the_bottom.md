@@ -19,7 +19,7 @@ but try to find me now, I'm twice removed.
 Coz I'm not staying,  
 and I'm not talking,  
 know that I'm already  
-halfway home. 
+halfway home.
 
 You can mumble,  
 you can stumble,  

@@ -8,7 +8,7 @@ This is an open letter to the atmosphere,
 summer was hard with the heat stuck over here,  
 thanks for waking me before you woke the sun,  
 looks like you also beat him to the punch,  
-(means that I'm not the only one). 
+(means that I'm not the only one).
 
 I wish that I could bottle this weather,  
 I want this many celsius to last forever,  
