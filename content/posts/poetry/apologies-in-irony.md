@@ -7,7 +7,7 @@ date: 2023-04-30
 "Oh my god. The view from up here...  
 maybe it's the bottle of 'whatever the fuck' we shared now talking,  
 but if I met the pavement alone in free-fall,  
-I would treasure every inch of air that we would catch
+I would treasure every inch of air that we would catch  
 on the way down".
 
 ---

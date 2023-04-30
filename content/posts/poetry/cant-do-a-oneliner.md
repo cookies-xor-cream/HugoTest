@@ -6,11 +6,11 @@ date: 2023-04-30
 
 I can see your face reflect,  
 off my own two bleary eyes,  
-as I try to dodge the fate that waits
+as I try to dodge the fate that waits  
 in my pending teary sighs.
 
 I wanna wrap you in a blanket,  
-but I don't quite know your size.
+but I don't quite know your size.  
 so we either risk your suffocation,  
 or you freezing in due time.
 

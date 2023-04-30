@@ -19,7 +19,7 @@ but I grabbed her arms and anchored her body down to lay besides me.
 We marked an X along the riverbank,  
 where the excess from the high tide would try its best to hide  
 and cover the slate stone pillows on which we sat,  
-where we were slowly sinking as we drank away
+where we were slowly sinking as we drank away  
 the final few hours of this ride,  
 the colours on her face rearranged,  
 as if to spell that I need to say 'goodbye'.

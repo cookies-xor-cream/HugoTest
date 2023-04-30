@@ -6,7 +6,7 @@ date: 2023-06-01
 
 The contrast is so fucking stark,  
 but the expectation's flipped,  
-between the spiked brandy and
+between the spiked brandy and  
 the quiet suggestion that I sit.
 
 I don't think I've cut my hair before,  

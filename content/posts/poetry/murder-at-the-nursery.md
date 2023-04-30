@@ -12,8 +12,8 @@ remembered by the heatwave's strokes.
 You said hi back, a sleight of tongue?  
 Is this a lapse in judgement spied?  
 I said hi, and then hello again,  
-you said it back and I knew then:
-yhat my friend was dead.
+you said it back and I knew then:  
+that my friend was dead.
 
 Hello, orphan.  
 Hello again.

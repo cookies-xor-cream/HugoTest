@@ -12,8 +12,7 @@ in a one-hour nightmare-dream each night.
 And a bullet can grant a blackened view,  
 but can you aim straight for the through-and-though?  
 when love-borne-fear is haunting us, like an Abrahamic truth,  
-it would sink in that it's permanent:
-
+it would sink in that it's permanent:vv
 god I'd miss these backlit hues,  
 but I don't miss the truth.
 

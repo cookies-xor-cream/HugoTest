@@ -47,7 +47,7 @@ By the door.
 And if she had then called me,  
 just yesterday, know I  
 would tell the pair of you  
-that the pair of us,
+that the pair of us,  
 still would've been bored.
 
 But the difference between the bored she was  

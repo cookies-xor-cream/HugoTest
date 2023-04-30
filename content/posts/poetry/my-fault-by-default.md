@@ -28,7 +28,7 @@ while the sun peeked through, dancing on her face.
 I wasn't quite sure how to riposte,  
 so I detangled her arms and left my post,  
 "Sweet sentinel, is the proof we're platonic,  
-not strong enough in the fact that she is gay?
+not strong enough in the fact that she is gay?  
 what more is there we possibly could say?".
 
 *"She's your motive to live, and*  
