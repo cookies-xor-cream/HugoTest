@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: Parīsa Liked My Hair
-date: 2023-04-30
+date: 2023-06-19
 ---
 
 I don't need it to be quick,

@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: What Is A Date? A Label, Or Something More?
-date: 2023-04-30
+date: 2023-06-19
 ---
 
 "A rose by any other name would smell as sweet"

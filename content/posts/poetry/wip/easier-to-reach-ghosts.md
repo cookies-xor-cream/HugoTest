@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: Is It Easier To Reach Ghosts Than The Living? 
-date: 2023-04-30
+date: 2023-06-19
 ---
 
 I'd really like a diagnostic

@@ -1,7 +1,7 @@
 ---
 tags: ['TBD']
 title: The Amplitude Of The Tremor Is A Function Of My Trust And Fear
-date: 2023-04-30
+date: 2023-06-19
 ---
 
 The contrast is so fucking stark,
