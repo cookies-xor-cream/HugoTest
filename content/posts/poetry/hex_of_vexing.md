@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: "The Hex Of Vexing: Cursing, Then Pausing"
 date: 2023-03-03
 ---

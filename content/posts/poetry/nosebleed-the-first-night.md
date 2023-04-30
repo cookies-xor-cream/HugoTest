@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: "Nosebleed: The First Night Is The Easiest"
 date: 2023-03-03
 ---

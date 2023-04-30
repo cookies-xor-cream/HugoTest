@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: "Should We Leave The Desert Lilly It To Die?"
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 Every modicum of sense strapped to me,  

@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: "Blood Vessels: The Yellow Brick Road Inside Of Me"
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 (This one's so happy,  

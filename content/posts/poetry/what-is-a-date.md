@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: What Is A Date? A Label, Or Something More?
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 "A rose by any other name would smell as sweet".

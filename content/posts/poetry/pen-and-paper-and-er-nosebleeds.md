@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: "Pen And Paper And ER Nosebleeds: ???"
 date: 2023-03-03
 ---

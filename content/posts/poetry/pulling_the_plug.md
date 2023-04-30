@@ -1,7 +1,7 @@
 ---
 tags: ['Myself']
 title: "Pulling The Plug: This Was Meant To Be Episodic"
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 I keep writing sequels to the sequels,  

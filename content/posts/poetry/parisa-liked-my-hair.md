@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: Parīsa Liked My Hair
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 I don't need it to be quick,  

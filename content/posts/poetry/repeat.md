@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: "Repeat; (Love's Collateral)"
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 Fuck the tunnel of white,  

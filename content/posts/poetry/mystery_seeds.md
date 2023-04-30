@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: New Mystery Seeds (Can't Pick What Grows, But Something Will)
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 Lay out the tarot, I'm guiding this ship,  

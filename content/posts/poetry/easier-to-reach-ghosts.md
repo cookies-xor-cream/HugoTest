@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: Is It Easier To Reach Ghosts Than The Living? 
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 I'd really like a diagnostic  

@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: Quest For A Few Fewer Celsius
 date: 2023-03-03
 ---

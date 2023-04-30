@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: "Happier Faceless And Mute: In Remembrance"
 date: 2023-04-19
 ---

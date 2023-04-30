@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: "The Switch To My Renaissance"
-date: 2023-06-19
+date: 2023-06-01
 ---
 
 The circuit completes when our gaze meets,  

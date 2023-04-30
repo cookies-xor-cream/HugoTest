@@ -1,7 +1,7 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: "She's In The Static"
-date: 2023-06-02
+date: 2023-06-01
 ---
 
 The TV is snowing,  

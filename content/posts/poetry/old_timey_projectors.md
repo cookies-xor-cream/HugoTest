@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: Old Timey Projectors With Little Joy Stamped On The Film
 date: 2023-03-03
 ---

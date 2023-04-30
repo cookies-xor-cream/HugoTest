@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: Mute By Way Of Birthday Cake (Amongst Other Things)
 date: 2023-03-03
 ---

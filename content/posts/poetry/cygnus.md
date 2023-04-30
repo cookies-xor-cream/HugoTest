@@ -1,5 +1,5 @@
 ---
-tags: ['TBD']
+tags: ['More Than A Crush?']
 title: "Cygnus, I'd Rather You Guide Me Than The Stars"
 date: 2023-05-01
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['REDACTED'] # Daniella
+tags: ['Highschool Sweetheart']
 title: Love's Thermal Vampirism
 date: 2023-03-03
 ---
