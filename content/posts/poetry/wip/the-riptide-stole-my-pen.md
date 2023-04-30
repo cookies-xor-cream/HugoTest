@@ -21,5 +21,5 @@ they float on the river where they'll land.
 
 But there's no littering on the bridge,
 I read the sign, it's still sinking in,
-so help me grab a hairclip,
+so help me grab a hair-clip,
 to put a pin in it.

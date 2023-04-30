@@ -1,5 +1,5 @@
 ---
-tags: ['Myself']
+tags: ['People In Passing'] # My Student
 title: Today Reads Like A Novel, And I Wish Someone Had The Draft
 date: 2023-04-30
 ---

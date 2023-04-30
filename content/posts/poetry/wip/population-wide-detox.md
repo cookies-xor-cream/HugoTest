@@ -1,5 +1,5 @@
 ---
-tags: ['Myself']
+tags: ['People In Passing'] # Everyone Mentioned
 title: "Population Wide Detox: An Open Letter To Every Absence This Year"
 date: 2023-04-30
 ---

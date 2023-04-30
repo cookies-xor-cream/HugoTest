@@ -1,5 +1,5 @@
 ---
-tags: ['Myself']
+tags: ['People In Passing'] # Conan
 title: Succumbing To The Miracle Of Headache Debt
 date: 2023-04-30
 ---
