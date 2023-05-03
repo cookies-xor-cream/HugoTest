@@ -18,4 +18,4 @@ I only exist at night. I only exist when the moon is dim enough not to run me th
 
 I'm not sure what put me here. And I'm not sure of the purpose. I'm not even certain there is a *what* or a *why*. But my best guess is that I'm here to watch everything happen. The living are tasked to watch to living kin, and the dead are tasked to watch their kin, as I have been tasked.
 
-My best explanation is that I am nothing but a pair of *funeral eyes*, and so that is the same that I have chosen.
+My best explanation is that I am nothing but a pair of *funeral eyes*, and so that is the name that I have chosen.
