@@ -1,6 +1,6 @@
 ---
 tags: ['Funeral Eyes']
-title: Preface
+title: Funeral Eyes
 date: 2023-05-04
 ---
 
