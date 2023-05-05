@@ -1,7 +1,7 @@
 ---
 tags: ['Funeral Eyes']
 title: Chapter 2
-date: 2023-05-03
+date: 2023-12-03
 ---
 
 I paid the blood-tax of the cough every day. I suppose that somewhere my doctor had a bloodwork balance-sheet; there existed a little tracker of how much debt my blood was in, and how long until I no longer qualified for a loan. A perfectly columned paper, spangled with little red deductions, counting down towards my death. I was on borrowed time, and was nigh-bankrupt with blood, ready to go black and curdle. The doctor was a temporary peace but constant anxiety. When I saw her, I would be calm, briefly. But every time she left, I would feel the brunt of her departure every second until our next encounter.

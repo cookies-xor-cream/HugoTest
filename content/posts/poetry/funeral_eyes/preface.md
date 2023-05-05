@@ -1,7 +1,7 @@
 ---
 tags: ['Funeral Eyes']
 title: Preface
-date: 2023-05-02
+date: 2023-12-02
 ---
 
 I, **'Funeral Eyes'**, loved to loiter on the St. Augustine rooftop, as if playing god. I often wondered when the priest pointed upwards, as if to heaven, if ever he pointed at where I was.

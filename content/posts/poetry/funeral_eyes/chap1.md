@@ -1,7 +1,7 @@
 ---
 tags: ['Funeral Eyes']
 title: Chapter 1
-date: 2023-05-02
+date: 2023-12-02
 ---
 
 It had been long since the offset of the disease, if death even comprises an 'offset'. I'd forgotten the putrid taste of phlegm and blood that plagued my final days, or any taste for that matter. I suppose that ghosts, or Seraphs, or whatever condition of being inflicted me, saw to the removal of my worldly senses.
