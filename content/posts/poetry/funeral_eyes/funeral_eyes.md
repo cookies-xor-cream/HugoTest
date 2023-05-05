@@ -4,7 +4,7 @@ title: Funeral Eyes
 date: 2023-05-04
 ---
 
-## Preface
+# Preface
 
 I, **'Funeral Eyes'**, loved to loiter on the St. Augustine rooftop, as if playing god. I often wondered when the priest pointed upwards, as if to heaven, if ever he pointed at where I was.
 
@@ -22,7 +22,9 @@ I'm not sure what put me here. And I'm not sure of the purpose. I'm not even cer
 
 My best explanation is that I am nothing but a pair of *funeral eyes*, and so that is the name that I have chosen.
 
-## Chapter 1
+---
+
+# Chapter 1
 
 It had been long since the offset of the disease, if death even comprises an 'offset'. I'd forgotten the putrid taste of phlegm and blood that plagued my final days, or any taste for that matter. I suppose that ghosts, or Seraphs, or whatever condition of being inflicted me, saw to the removal of my worldly senses.
 
@@ -63,7 +65,9 @@ I suppose it is the case that my cough thinks poorly of me, remembers me ill, an
 
 That makes it fitting that this all-consuming cough was my final parting lesson for the previous life. And that it doubled as an introduction to the next one. Because, though the pain in my chest has long since disappeared, I still feel paroxysms of coughing. Not often, not like I used to. Never with blood, or pain. But having tamed the cough, and left it, I now carry a part of it with me. Now out of love, or reminiscence, or duty. There's no intent to be a vector for this disease. It's just the will of the world that people who come in contact with something for too long suffer from contact transmission.
 
-## Chapter 2
+---
+
+# Chapter 2
 
 I paid the blood-tax of the cough every day. I suppose that somewhere my doctor had a bloodwork balance-sheet; there existed a little tracker of how much debt my blood was in, and how long until I no longer qualified for a loan. A perfectly columned paper, spangled with little red deductions, counting down towards my death. I was on borrowed time, and was nigh-bankrupt with blood, ready to go black and curdle. The doctor was a temporary peace but constant anxiety. When I saw her, I would be calm, briefly. But every time she left, I would feel the brunt of her departure every second until our next encounter.
 
@@ -91,7 +95,9 @@ We sat in complete silence for the rest of that visit, enveloped in our utter la
 
 It is my belief that the answer is: one can't, not without removing and bottling those eyes with one's own hands.
 
-## Chapter 3
+---
+
+# Chapter 3
 
 Father Breton was a particular fellow. He indulged the few visitors of the church in his weekly sermons. And though the pews were sparsely scattered with people, they were densely packed with regard for the man they believed him to be. He seemed a pleasant fellow towards most of the congregation. *Seemed* being the keyword in that notion. For really, he was a deeply troubled man, with a deeply trouble composition. In the eyes of St. Augustine, he was a calm and collected individual, not predisposed to any rage or any violence. But had St. Augustine known him more intimately, as I did, then it would know better than to think such fallacious things.
 
