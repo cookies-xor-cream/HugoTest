@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Pari']
 title: Hypnos And Pluto
 date: 2023-05-22
 ---

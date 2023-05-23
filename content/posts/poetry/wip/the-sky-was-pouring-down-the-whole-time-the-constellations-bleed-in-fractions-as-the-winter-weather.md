@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "The Sky Was Pouring Down The Whole Time: The Constellations Bleed In Fractions As The Winter Weather"
 date: 2023-05-22
 ---

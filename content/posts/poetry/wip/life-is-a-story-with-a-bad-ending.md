@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: Life Is A Story With A Bad Ending
 date: 2023-05-22
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: Quieter Means And Dimmer Places
 date: 2023-05-22
 ---

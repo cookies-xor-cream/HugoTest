@@ -1,12 +1,12 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: Steinbeck's Angel's Played Her Angle
 date: 2023-05-22
 ---
 
-The grapevine in wrath,  
-Twists and turns around my hands,  
-Coz it thinks I don't understand  
+The grapevines in wrath,  
+Twist and turn around my hands,  
+They think that I don't understand  
 To withdraw the anger from my slap.
 
 And I think it's right in fractions  

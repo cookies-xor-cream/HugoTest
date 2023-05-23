@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: Life, Like My Reading Habits, It Finishes 10 Pages Before The End
 date: 2023-05-22
 ---

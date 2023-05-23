@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Highschool Sweetheart']
 title: "Sweetheart's Botched Infinite Heart Surgery: Every Time She Operates I Bypass Her A Little"
 date: 2023-05-22
 ---

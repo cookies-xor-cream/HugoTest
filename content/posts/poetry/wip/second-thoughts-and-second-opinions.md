@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Second Thoughts And Second Opinions"
 date: 2023-05-22
 ---

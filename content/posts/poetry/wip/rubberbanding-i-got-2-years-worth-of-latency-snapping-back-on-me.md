@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Rubberbanding: I Got 2 Years Worth Of Latency Snapping Back On Me"
 date: 2023-05-22
 ---

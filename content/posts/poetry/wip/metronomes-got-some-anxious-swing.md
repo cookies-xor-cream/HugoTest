@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: Metronome's Got Some Anxious Swing
 date: 2023-05-22
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: A Movie Where Every Frame Is The Same Picture
 date: 2023-05-22
 ---

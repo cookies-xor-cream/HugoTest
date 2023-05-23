@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['People In Passing'] # Offended Girl
 title: Stranger's Are The Most Abundant Natural Resource In Winthrop
 date: 2023-05-22
 ---

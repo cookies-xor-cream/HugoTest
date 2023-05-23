@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Pari']
 title: Fake Call And A Missed Escape Of The Oxygen Thief
 date: 2023-05-22
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['People In Passing'] # A bunch of ppl
 title: Yestermonth On A Single Incoherent Page
 date: 2023-05-22
 ---

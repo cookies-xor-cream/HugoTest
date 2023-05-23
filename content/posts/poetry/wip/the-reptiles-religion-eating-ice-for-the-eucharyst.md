@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Highschool Sweetheart']
 title: "The Reptile's Religion: Eating Ice For The Eucharyst"
 date: 2023-05-22
 ---

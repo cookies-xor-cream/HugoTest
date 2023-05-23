@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Pari']
 title: "Sins Of A Fairy: Some Things Even Time Can't Chip Away At"
 date: 2023-05-22
 ---

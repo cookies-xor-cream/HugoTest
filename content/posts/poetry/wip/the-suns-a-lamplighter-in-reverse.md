@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "The Sun's A Lamplighter In Reverse"
 date: 2023-05-22
 ---

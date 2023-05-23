@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Hazel']
 title: Too Pretty To Be Good News
 date: 2023-05-22
 ---

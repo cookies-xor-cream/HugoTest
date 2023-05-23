@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: La Carte Des Étoiles
 date: 2023-05-22
 ---

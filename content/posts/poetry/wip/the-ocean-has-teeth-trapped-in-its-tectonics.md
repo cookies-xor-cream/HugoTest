@@ -1,6 +1,6 @@
 ---
-tags: ['TODO']
-title: The Ocean Has Teeth Trapped In It's Techtonics
+tags: ['Pari']
+title: The Ocean Has Teeth Trapped In It's Tectonics
 date: 2023-05-22
 ---
 

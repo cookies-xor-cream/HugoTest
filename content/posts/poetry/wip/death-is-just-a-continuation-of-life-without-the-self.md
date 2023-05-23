@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: Death Is Just A Continuation Of Life Without The Self
 date: 2023-05-22
 ---

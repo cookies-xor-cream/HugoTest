@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Hazel']
 title: Collecting Paroxysms
 date: 2023-05-22
 ---

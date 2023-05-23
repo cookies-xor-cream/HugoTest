@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['People In Passing'] # That one old lady's granddaughter
 title: The Infinite Teapot Can't Count To Two With So Many Decimals In The Way
 date: 2023-05-22
 ---

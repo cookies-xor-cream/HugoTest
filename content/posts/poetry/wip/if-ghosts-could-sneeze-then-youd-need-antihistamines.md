@@ -1,12 +1,12 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: If Ghosts Could Sneeze Then You'd Need Antihistamines
 date: 2023-05-22
 ---
 
 Someone left roses at my house,  
-A gift to which I came home: my father's guest's  
-Curiosity asking me about.
+A gift to which I came home: with my father's guest  
+Curious, and asking me about.
 
 I'd give an explanation but I'm just as confused,  
 Don't know if Max, Hazel, or Parisa,  

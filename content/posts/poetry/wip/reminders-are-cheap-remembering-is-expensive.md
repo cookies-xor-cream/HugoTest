@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: Reminders Are Cheap, Remembering Is Expensive
 date: 2023-05-22
 ---
@@ -34,7 +34,7 @@ Sunrays flying in grave commotion.
 Eventually the paper browned,  
 And grew too weak for one more dawn,  
 All the markings washed off the page,  
-To wipe the slate, and clear this stage.
+To wipe the slate, and clear the stage.
 
 The rain to follow was a silent one,  
 Paper's frail, without legs to run,  

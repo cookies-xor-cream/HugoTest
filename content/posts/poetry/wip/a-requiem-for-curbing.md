@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Pari']
 title: A Requiem For Curbing
 date: 2023-05-22
 ---
