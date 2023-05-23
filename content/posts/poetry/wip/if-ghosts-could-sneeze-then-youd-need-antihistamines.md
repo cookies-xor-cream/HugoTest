@@ -5,21 +5,21 @@ date: 2023-05-22
 ---
 
 Someone left roses at my house,  
-A gift to which I came home: with my father's guest  
-Curious, and asking me about.
+a gift to which I came home: with my father's guest  
+curious, and asking me about.
 
 I'd give an explanation but I'm just as confused,  
-Don't know if Max, Hazel, or Parisa,  
-We're equidistant from the truth.
+don't know if Max, Hazel, or Parisa,  
+we're equidistant from the truth.
 
 She used to leave roses on your driveway,  
-Though I told her you were allergic,  
-But there was nothing I could say  
-To turn her frenzied hands away,  
-From that improvisation of a grave.
+though I told her you were allergic,  
+but there was nothing I could say  
+to turn her frenzied hands away,  
+from that improvisation of a grave.
 
 She saved you in alabaster,  
-Chiselled veins throughout your wrists,  
-She thought that it'd last her,  
-But to me it's just a reminder,  
-Of the needles that you hid.
+chiselled veins throughout your wrists,  
+she thought that it'd last her,  
+but to me it's just a reminder,  
+of the needles that you hid.

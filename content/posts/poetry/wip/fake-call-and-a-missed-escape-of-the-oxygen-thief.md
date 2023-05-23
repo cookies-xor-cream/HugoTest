@@ -6,17 +6,17 @@ date: 2023-05-22
 
 You've got galvanised liquor,  
 I've got an anodised tongue,  
-So our blood types mismatch,  
-And so do our eyes.
+so our blood types mismatch,  
+and so do our eyes.
 
 You've got three there in place,  
-While I'm short now a lung,  
-From your stealing my air,  
-It's anxiety-wrought.
+while I'm short now a lung,  
+from your stealing my air,  
+it's anxiety-wrought.
 
 Though this time around  
-Our friendship was brief,  
+our friendship was brief,  
 I'm glad to have known you,  
-Through the thick and the thin,  
-My dear beloved,  
-My little oxygen theif.
+through the thick and the thin,  
+my dear beloved,  
+my little oxygen theif.

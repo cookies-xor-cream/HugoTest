@@ -5,19 +5,19 @@ date: 2023-05-22
 ---
 
 She thought there was a solution to the halting problem,  
-In the form of a suicide, but she blundered,  
+in the form of a suicide, but she blundered,  
 I woke her up in a pool of her vomit,  
-Told her that rock bottom's now her new summit.
+told her that rock bottom's now her new summit.
 
 "I love you but don't know how to handle this,  
-Tell me you're already dead, so that I can pack my things",  
-But she told me that she never felt less free,  
-Like a message in a bottle, cinched onto the bottom of the sea.
+tell me you're already dead, so that I can pack my things",  
+but she told me that she never felt less free,  
+like a message in a bottle, cinched onto the bottom of the sea.
 
 I pincered her below her cheeks,  
-And told her that she had to speak,  
-But all the sound that she could make  
-Was *"therapy don't do the trick for me,*  
+and told her that she had to speak,  
+but all the sound that she could make  
+was *"therapy don't do the trick for me,*  
 *The talking just won't take"*.
 
 "Raconte-moi, tu t'attendes à quoi?"  

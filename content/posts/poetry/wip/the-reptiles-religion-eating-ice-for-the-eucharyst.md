@@ -5,11 +5,11 @@ date: 2023-05-22
 ---
 
 I want to believe her,  
-But no matter how hard that I try,  
-We're two separate things,  
-She's got a crocodile's cry.
+but no matter how hard that I try,  
+we're two separate things,  
+she's got a crocodile's cry.
 
 We're two separate people,  
-Came at two separate times,  
-With two separate outlooks,  
-See through two separate eyes.
+came at two separate times,  
+with two separate outlooks,  
+see through two separate eyes.

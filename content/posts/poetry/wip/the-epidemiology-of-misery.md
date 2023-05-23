@@ -5,57 +5,57 @@ date: 2023-05-22
 ---
 
 *"She loved that*  
-*Eulogy that You*  
-*Don't remember*  
-*Even writing.*  
-*Hung onto*  
-*Every word,*  
-*And every*  
-*Paranormal sighting".*
+*eulogy that You*  
+*don't remember*  
+*even writing.*  
+*hung onto*  
+*every word,*  
+*and every*  
+*paranormal sighting".*
 
 "It takes  
-Just a word,  
-To find the start  
-To a story,  
+just a word,  
+to find the start  
+to a story,  
 I won't breathe  
-Newfound life,  
-Into a long-dead  
-Anthology".
+newfound life,  
+into a long-dead  
+anthology".
 
 *"Write her back,*  
-*Just a single letter,*  
+*just a single letter,*  
 *I see 'thank you',*  
-*In pause on your lips,*  
-*But I know it can't*  
-*Be meant for me,*  
-*So must be aimed at*  
-*Something better?".*
+*in pause on your lips,*  
+*but I know it can't*  
+*be meant for me,*  
+*so must be aimed at*  
+*something better?".*
 
 "That's how it starts,  
 I did a year apart,  
-To get that wrench  
-Out the clockwork  
-Of my heart,  
+to get that wrench  
+out the clockwork  
+of my heart,  
 I couldn't take  
-A restart, we can't set  
-This straight enough".
+a restart, we can't set  
+this straight enough".
 
 *"I got a sorry note,*  
-*A 'happy birthday'*  
-*That she had*  
-*Chronically misspoken,*  
-*And it made me*  
-*Start to think that*  
-*Maybe she's just broken?".*
+*a 'happy birthday'*  
+*that she had*  
+*chronically misspoken,*  
+*and it made me*  
+*start to think that*  
+*maybe she's just broken?".*
 
 "I compartmentalise  
-Way too fucking well,  
-Like I'm a vendor and  
-This is the hardest  
-Fucking sell.  
+way too fucking well,  
+like I'm a vendor and  
+this is the hardest  
+fucking sell.  
 But I was never  
-Going to invalidate  
-My ticket out of hell".
+going to invalidate  
+my ticket out of hell".
 
 *"She was hell?",*  
 *'Hell is where*  

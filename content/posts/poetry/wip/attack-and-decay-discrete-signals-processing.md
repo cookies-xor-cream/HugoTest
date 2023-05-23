@@ -5,20 +5,20 @@ date: 2023-05-22
 ---
 
 Her eyes, like a pike, ran me through  
-The weight of her face drove the spine  
-As it skewed.
+the weight of her face drove the spine  
+as it skewed.
 
 I got a cut on my face, a dotted redline,  
-Gaps drawn as reminders of our  
-Missing time.
+gaps drawn as reminders of our  
+missing time.
 
 A telltale sign, from a telltale heart,  
-The look disassembled me, took  
-Me apart.
+the look disassembled me, took  
+me apart.
 
 Guess I've found myself whisked back,  
-Spirited away, dreamt away to the start,  
-Nothing left to do but pray.
+spirited away, dreamt away to the start,  
+nothing left to do but pray.
 
 But I'm not one for prayer, if I need someone  
 I'll ring them up, until the hesitation hits that  
@@ -27,19 +27,19 @@ I dont know if they'll pick up.
 I just need an attack,  
 I need a rising pitch,  
 I need the intonation,  
-A vector for a flinch.
+a vector for a flinch.
 
 She came in waves,  
-And random noise,  
-But frequency space  
-Saw her transposed.
+and random noise,  
+but frequency space  
+saw her transposed.
 
 She's a sawtoothed sweetheart,  
-Lost in the streetside muddy flood,  
-In the open sewers that filled,  
-And spilled over with her blood.
+lost in the streetside muddy flood,  
+in the open sewers that filled,  
+and spilled over with her blood.
 
 She's the attack and decay,  
-Of every sentiment she stole,  
-And every sentence that I  
-Could never say, and so I never spoke.
+of every sentiment she stole,  
+and every sentence that I  
+could never say, and so I never spoke.

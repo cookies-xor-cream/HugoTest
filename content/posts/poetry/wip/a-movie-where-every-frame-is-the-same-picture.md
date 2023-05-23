@@ -5,12 +5,12 @@ date: 2023-05-22
 ---
 
 My life is prismatic,  
-Fucking fractalesque,  
-Each slice is self-similar,  
-And shares its essence.
+fucking fractalesque,  
+each slice is self-similar,  
+and shares its essence.
 
 I'm afraid if you  
-Hand me a knife,  
+hand me a knife,  
 I'd the release the tension  
-From my tendons,  
-And the salt from in my eyes.
+from my tendons,  
+and the salt from in my eyes.

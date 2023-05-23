@@ -5,16 +5,16 @@ date: 2023-05-22
 ---
 
 My heart's not climbing up my gullet,  
-And my head doesn't harbour hurt,  
-Im not looking for someone,  
-To sit with me out on the curb.
+and my head doesn't harbour hurt,  
+I'm not looking for someone,  
+to sit with me out on the curb.
 
 Think after eight hours of reading  
-Through legislature,  
-This is what I needed:  
-A full blown sensory recession.
+through legislature,  
+this is what I needed:  
+a full blown sensory recession.
 
 Even though this room's got  
-An abundance of fluorescent light,  
-My eyes are rested well enough,  
-To withstand the photons as they bite.
+an abundance of fluorescent light,  
+my eyes are rested well enough,  
+to withstand the photons as they bite.

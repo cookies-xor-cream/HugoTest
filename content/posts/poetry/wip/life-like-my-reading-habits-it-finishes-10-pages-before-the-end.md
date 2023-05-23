@@ -7,39 +7,39 @@ date: 2023-05-22
 Non ho finirlo; ma è finito
 
 I feel I'm more herself than I,  
-In my forging, the divine  
-Left a picture of her sleeping  
-Sewn straight into my eyes.
+in my forging, the divine  
+left a picture of her sleeping  
+sewn straight into my eyes.
 
 She's more myself than I,  
-In her creation, my causation,  
-Something from deep within my essence  
-Had found her's and went awry.
+in her creation, my causation,  
+something from deep within my essence  
+had found her's and went awry.
 
 She's more herself than I,  
-And the soul within my burning,  
-Like a cauldron: boiling, churning,  
-Found its sentiment returning,  
-For an ultimate goodbye.
+and the soul within my burning,  
+like a cauldron: boiling, churning,  
+found its sentiment returning,  
+for an ultimate goodbye.
 
 I'm more myself than I,  
-In the fusion of our confusion,  
-In the fracture of my intrusion,  
-My words find their protrusions,  
-Lain without any ears or eyes.
+in the fusion of our confusion,  
+in the fracture of my intrusion,  
+my words find their protrusions,  
+lain without any ears or eyes.
 
 The morning break of Amber light,  
-Is more stellar than the sunlight,  
-Like the essence of a bomb,  
-That fuses in the fissure,  
-Of a final farewell song.
+is more stellar than the sunlight,  
+like the essence of a bomb,  
+that fuses in the fissure,  
+of a final farewell song.
 
 I'm more myself disguised,  
-Like the streetlamp sitting patient,  
-All the pain within me latent,  
-Found a pattern for a torment,  
-That a passer-by lays dormant,  
-Calling to the night.
+like the streetlamp sitting patient,  
+all the pain within me latent,  
+found a pattern for a torment,  
+that a passer-by lays dormant,  
+calling to the night.
 
 I'm less my rights than wrongs,  
 I'm less my breath than lungs,  

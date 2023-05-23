@@ -5,16 +5,16 @@ date: 2023-05-22
 ---
 
 There'a thing I feel helplessly  
-And violently till the end,  
-So I still feel the way I did,  
-But now I need you out my view.
+and violently till the end,  
+so I still feel the way I did,  
+but now I need you out my view.
 
 Every feeling that I catch,  
-Seems to infinitely last,  
-So despite what's in my heart,  
-This dislike will never come to pass.
+seems to infinitely last,  
+so despite what's in my heart,  
+this dislike will never come to pass.
 
 The hate like a disease,  
-Is spreading from you to me,  
-Just this time now,  
-Love won't put it at ease.
+is spreading from you to me,  
+just this time now,  
+love won't put it at ease.

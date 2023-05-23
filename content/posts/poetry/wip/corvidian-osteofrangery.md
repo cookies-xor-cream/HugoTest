@@ -5,10 +5,10 @@ date: 2023-05-22
 ---
 
 I went the distance,  
-More like the crow flies,  
-And less like I stride,  
-With a whiplashing neck,  
-From what I allide.
+more like the crow flies,  
+and less like I stride,  
+with a whiplashing neck,  
+from what I allide.
 
 So add a tally to the counter  
-Of the crashes I've survived.
+of the crashes I've survived.

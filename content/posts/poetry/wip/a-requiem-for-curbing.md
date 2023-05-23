@@ -5,11 +5,11 @@ date: 2023-05-22
 ---
 
 It's not really missing a person  
-If there's alternatives to company.  
-All the words and affirmations  
-Won't buy you any currency with me.
+if there's alternatives to company.  
+all the words and affirmations  
+won't buy you any currency with me.
 
 The only thing that matters  
-Is that we're in a quieter place,  
-Somewhere where sound can't  
-Reach our supraliminal space.
+is that we're in a quieter place,  
+somewhere where sound can't  
+reach our supraliminal space.

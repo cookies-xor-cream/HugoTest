@@ -5,131 +5,131 @@ date: 2023-05-22
 ---
 
 I'm short an explanation,  
-For all the people in my path,  
-Feel like the deck wasn't shuffled,  
-Before life dealt me my hand.
+for all the people in my path,  
+feel like the deck wasn't shuffled,  
+before life dealt me my hand.
 
 Coz I've got five aces in my hold,  
-And they're each a different suit,  
+and they're each a different suit,  
 I think my game has been doctored,  
-Or maybe the rules are confused.
+or maybe the rules are confused.
 
 No, this can't be to spite me,  
-Life can't just have set the table,  
-Only to dangle me the promise of,  
-Before promptly retracting 'stable'.
+life can't just have set the table,  
+only to dangle me the promise of,  
+before promptly retracting 'stable'.
 
 I met a bookstore that grew legs,  
-She was looking for a label,  
-But she only found a fable,  
-In the name I gave her: 'sable'.
+she was looking for a label,  
+but she only found a fable,  
+in the name I gave her: 'sable'.
 
 I met an old woman and a neighbour,  
-She invited me for darkbreak tea,  
-But what I needed more than chamomile,  
-Was the false promise I could breathe.
+she invited me for darkbreak tea,  
+but what I needed more than chamomile,  
+was the false promise I could breathe.
 
 Coz I've spent a month inside the undertow,  
 I hope the riptide comes to set me free,  
-Hope that I break the fucking surface,  
-So I can maybe I can breathe.
+hope that I break the fucking surface,  
+so I can maybe I can breathe.
 
 Saw her granddaughter in the AM,  
-Feel like I dodged the setup,  
-Only to set myself up, coz I'm  
-All my sabotage, and that's enough.
+feel like I dodged the setup,  
+only to set myself up, coz I'm  
+all my sabotage, and that's enough.
 
 I wanna go and look for,  
-A coworker I had known,  
-But 'out of proportion' was the only  
-Direction that the wind had blown.
+a coworker I had known,  
+but 'out of proportion' was the only  
+direction that the wind had blown.
 
 Coz when she put whiskey in my coffee,  
 I felt a little bit of the amberlight,  
-That was the morning telling me,  
-To quit out from this sorry night.
+that was the morning telling me,  
+to quit out from this sorry night.
 
 It feels doctored,  
-It feels doctored,  
-Don't know what I need,  
-But it isn't a doctor.
+it feels doctored,  
+don't know what I need,  
+but it isn't a doctor.
 
 Coz I met a doctor on the hill,  
-Quiet in composure, sat perfectly still,  
-She gave me spirits for my spirits,  
-But proximity felt like motive to kill.
+quiet in composure, sat perfectly still,  
+she gave me spirits for my spirits,  
+but proximity felt like motive to kill.
 
 And in my visit to the hospital,  
-After one turning of the earth,  
+after one turning of the earth,  
 I found an encore of our meeting,  
-As a nosebleed traced my shirt.
+as a nosebleed traced my shirt.
 
 I can still feel her watching me,  
-And she can't help but interfere,  
+and she can't help but interfere,  
 I'm halfway sure she's left this place,  
-For fear she'll never be wanted here.
+for fear she'll never be wanted here.
 
 I ran into a friend, attached to a bench,  
-On the wrong end as well, a campus away,  
-And he put something in my shotglass,  
-Started a game I never wanted to play.
+on the wrong end as well, a campus away,  
+and he put something in my shotglass,  
+started a game I never wanted to play.
 
 But he gave me a 'thank you',  
-And asked for some writing,  
-It was a final request,  
-For his previous sighting.
+and asked for some writing,  
+it was a final request,  
+for his previous sighting.
 
 He met with the doctor,  
-And I'm happy he's loose,  
-Coz I only have so much  
-Sole for his fuse.
+and I'm happy he's loose,  
+coz I only have so much  
+sole for his fuse.
 
 I called all my friends,  
 I was made to cut off,  
-But I couldn't return,  
-Time apart was never enough.
+but I couldn't return,  
+time apart was never enough.
 
 Scotland moved to Lisbon,  
-Found a hand that she could hold,  
-Go back home next semester,  
-Why is it you need to be told‽
+found a hand that she could hold,  
+go back home next semester,  
+why is it you need to be told‽
 
 Scotland told me to come,  
-Told me that this wasn't over,  
-And however much time had passed,  
+told me that this wasn't over,  
+and however much time had passed,  
 I still could be closer.
 
 And Lisbon gave me a call,  
-Said she'd fly me on over,  
-But I don't want this rekindled,  
+said she'd fly me on over,  
+but I don't want this rekindled,  
 I want this thing to be over.
 
 So I gave her lover a visit,  
-She was broke, with a kid,  
-She asked me to stay,  
-But I turned down the bid.
+she was broke, with a kid,  
+she asked me to stay,  
+but I turned down the bid.
 
 I saw her house in a dream,  
-Thought I'd grant it my presence,  
-And I've got so much left in me,  
-But not any patranescence.
+thought I'd grant it my presence,  
+and I've got so much left in me,  
+but not any patranescence.
 
 Almost left the past in the past,  
-We're what? Three quarters the way?  
+we're what? Three quarters the way?  
 But the last quarter is skin,  
-That I don't wanna flay.
+that I don't wanna flay.
 
 I feel like I'm paying a tariff,  
-For a border in time,  
-Not a geographic divide,  
-But a blurrier line.
+for a border in time,  
+not a geographic divide,  
+but a blurrier line.
 
 And I'm short on the blood-tax,  
-Think that it's overdue,  
-But my inventory is left,  
-Both smashed and askew.
+think that it's overdue,  
+but my inventory is left,  
+both smashed and askew.
 
 And despite all this,  
 I'm still living at peace,  
 I just wish circumstance  
-Let me do it with ease.
+let me do it with ease.
