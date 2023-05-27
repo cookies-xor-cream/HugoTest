@@ -9,7 +9,7 @@ a bruised necklace in my remembrance,
 the red, and black, and purple streaks as  
 markers for your condolence and your penance.
 
-Anemic blood still tastes so much like it's metal,  
+Anaemic blood still tastes so much like it's metal,  
 and were you a flower I would tear off each last petal,  
 of the orchid, parasitic, wrapping closed around my bark,  
 eating from the outside in: from my husk, into my heart.
