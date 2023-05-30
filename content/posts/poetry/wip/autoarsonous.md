@@ -1,5 +1,10 @@
-Autoarson For Chemical Potential
-Not For Abundance Of Temperature, But For Revival As Fuel
+---
+tags: ['Parisa']
+title: Autoarsonous Chemical Potential
+date: 2023-05-29
+---
+
+Not for abundance of temperature, but for revival as fuel
 
 Gracious indignation,  
 came as hellish immolation,  

@@ -1,4 +1,8 @@
-Your Sling Reminded Me Of When They Broke Their Arm
+---
+tags: ['People In Passing'] # Stranger
+title: Your Sling Reminded Me Of When They Broke Their Arm
+date: 2023-05-29
+---
 
 The terse curse of  
 all this rising tension  

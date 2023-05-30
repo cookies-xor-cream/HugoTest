@@ -1,4 +1,8 @@
-Audiophile
+---
+tags: ['Parisa']
+title: Audiophile
+date: 2023-05-29
+---
 
 "Call me an audiophile, coz I'd love to hear you scream,  
 you're like the cinders of the ashes of the remnants of my dreams,  

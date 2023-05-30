@@ -1,4 +1,8 @@
-Ferrum, Measured Volumetrically
+---
+tags: ['Amber']
+title: Ferrum, Measured Volumetrically
+date: 2023-05-29
+---
 
 I wish so badly I could tell her:  
 I've thought about you every day  

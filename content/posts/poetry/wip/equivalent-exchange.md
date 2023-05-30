@@ -1,5 +1,8 @@
-A Phonecall's Recount: Subject 2
-Equivalent Exchange
+---
+tags: ['People In Passing'] # Cute Boy
+title: Equivalent Exchange
+date: 2023-05-29
+---
 
 I'm so afraid to ask him questions,  
 coz I bet he'll ask the same ones back,  

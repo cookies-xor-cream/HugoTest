@@ -1,4 +1,8 @@
-Reading Into Old Wound Scrawlings
+---
+tags: ['Amber']
+title: Reading Into Old Wound Scrawlings
+date: 2023-05-29
+---
 
 She asked if I'd been cheating,  
 I told her the bleeding was my doing,  

@@ -1,5 +1,8 @@
-A Phonecall's Recount: Subject 1
-The More Time Passes, The More I Hate The Ends, But More I Am At Peace About The Means
+---
+tags: ['Parisa']
+title: The Means Justify The Ends, Not The Converse
+date: 2023-05-29
+---
 
 I picked up my phone ringing,  
 with the disbelief in me chilling in "hello",  

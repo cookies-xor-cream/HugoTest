@@ -1,4 +1,8 @@
-"Keep The Jacket, To Cover The Marks, It's Of No Souvenir To Me"
+---
+tags: ['Parisa']
+title: "\"Keep The Jacket, To Cover The Marks, It's Of No Souvenir To Me\""
+date: 2023-05-29
+---
 
 "She destroyed the book,  
 and scorched the pages,  
