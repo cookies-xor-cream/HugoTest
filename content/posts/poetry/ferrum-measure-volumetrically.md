@@ -26,7 +26,7 @@ ferrous enough for the litres lost.
 
 I watched her pale and sickly,  
 while she saw my full recovery,  
-as she was teasing, edging Azreal,  
+as she was teasing, edging Azrael,  
 giving life for me, as currency.
 
 She bartered with the devil,  

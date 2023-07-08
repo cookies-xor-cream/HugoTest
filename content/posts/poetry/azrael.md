@@ -4,7 +4,7 @@ title: Killing Azrael
 date: 2023-03-03
 ---
 
-I couldn't stop for Azreal to weather burning wings,  
+I couldn't wait for Azrael to weather burning wings,  
 and the Muslim in the girl that raised me thinks that that's a sin,  
 but the both of us know all too well, that we're at risk to make the pact,  
 and likelier than I to play that game and to enact.
