@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: Votive Vulture Got Motive To Torture
 date: 2023-05-22
 ---

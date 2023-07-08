@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: Your Hands Belong Everywhere I Don't
 date: 2023-05-22
 ---

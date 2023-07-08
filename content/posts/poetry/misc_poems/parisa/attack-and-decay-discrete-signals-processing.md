@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: "Attack And Decay: Discrete Signals Processing"
 date: 2023-05-22
 ---

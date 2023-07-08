@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: The Plateau Of Complacency
 date: 2023-05-22
 ---

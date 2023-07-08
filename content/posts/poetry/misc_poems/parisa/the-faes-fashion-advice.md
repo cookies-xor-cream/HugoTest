@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: The Fae's Fashion Advice
 date: 2023-05-22
 ---

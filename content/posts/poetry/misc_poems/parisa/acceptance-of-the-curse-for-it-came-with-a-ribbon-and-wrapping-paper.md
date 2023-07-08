@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: Acceptance Of The Curse (For It Came With A Ribbon And Wrapping Paper)
 date: 2023-05-22
 ---

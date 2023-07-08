@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: "The Epidemiology Of Misery"
 date: 2023-05-22
 ---

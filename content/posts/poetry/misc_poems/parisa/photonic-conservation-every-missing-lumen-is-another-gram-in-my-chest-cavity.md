@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: "Photonic Conservation: Every Missing Lumen Is Another Gram In My Chest Cavity"
 date: 2023-05-22
 ---

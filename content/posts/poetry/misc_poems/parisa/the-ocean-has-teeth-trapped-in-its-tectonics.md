@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: The Ocean Has Teeth Trapped In It's Tectonics
 date: 2023-05-22
 ---

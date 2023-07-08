@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: The Balancing Act Of Edging On Love
 date: 2023-05-22
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: Reverectomy
 date: 2023-05-22
 ---

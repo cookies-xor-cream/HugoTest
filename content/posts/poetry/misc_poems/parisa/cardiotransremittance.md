@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: Cardiotransremittance
 date: 2023-05-22
 ---

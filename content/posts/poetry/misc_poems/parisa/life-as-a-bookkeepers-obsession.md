@@ -1,5 +1,5 @@
 ---
-tags: ['Pari']
+tags: ['Parisa']
 title: Life As A Bookkeeper's Obsession
 date: 2023-05-22
 ---
