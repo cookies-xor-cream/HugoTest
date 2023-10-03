@@ -12,7 +12,7 @@ before it got flayed).
 My head's gathering blood,  
 coz I was sleeping downhill,  
 the park was eerily calm,  
-frozen so perfectly still.
+frozen perfectly still.
 
 I wanna red out my eyes,  
 join my flow with the trees',  
@@ -25,11 +25,11 @@ a blockage that doesn't exist,
 stealing my head out from under me.
 
 My veins were endodermic,  
-now they're digging up roots,  
+now they're digging up their roots,  
 birthing feet first feeding blood,  
 this shit's so sanguine and crude.
 
-I found my pulse in my wrist,  
+I found my pulse buried in my wrist,  
 please put it back in my chest,  
 I've got the signs I'm alive,  
 don't need a beating reserve.
@@ -37,7 +37,7 @@ don't need a beating reserve.
 Been a month since it spiked,  
 at least in a bad way I guess,  
 do I want it to slow?  
-And if so should he profess?
+And if so should he then profess?
 
 Now, he's trying to speed,  
 since my pressure fell low,  

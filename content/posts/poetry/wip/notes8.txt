@@ -1,7 +1,5 @@
 Sanganoxidation: Bernoulli's Law For Fluid Flow
 
-"Why do you love that phrase so, 'capillary killing'?"
-
 A capillary killing is a
 Death by thousand cuts,
 Fractional incisions

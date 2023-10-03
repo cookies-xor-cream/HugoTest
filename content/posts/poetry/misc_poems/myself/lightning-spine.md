@@ -33,7 +33,7 @@ but this time nothing seems as bleak.
 I think that maybe recently,  
 it might've been all of the sitting,  
 putting pressure on the fluid building,  
-that let the lighning slowly sink straight in.
+that let the lightning slowly sink straight in.
 
 But it reached the scar from the surgery,  
 I just wish the next step to come  
