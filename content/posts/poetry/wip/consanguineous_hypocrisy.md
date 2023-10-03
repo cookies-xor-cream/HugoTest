@@ -1,5 +1,5 @@
 ---
-tags: ['Lost To Time']
+tags: ['Amber']
 title: "Consanguineous Hypocrisy"
 date: 2023-10-02
 ---
