@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Classification Of Nouns, And Traversals Of Empty Relations'
+title: "Classification Of Nouns, And Traversals Of Empty Relations"
 date: 2023-10-02
 ---
 

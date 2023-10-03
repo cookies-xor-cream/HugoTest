@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Cancer-Spangled Ambivilance: It's Perfect, I Hate It'
+title: "Cancer-Spangled Ambivalence"
 date: 2023-10-02
 ---
 

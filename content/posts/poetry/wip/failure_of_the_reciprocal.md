@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Failure Of The Reciprocal'
+title: "Failure Of The Reciprocal"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Discontinuity Of Breathwork'
+title: "The Discontinuity Of Breathwork"
 date: 2023-10-02
 ---
 

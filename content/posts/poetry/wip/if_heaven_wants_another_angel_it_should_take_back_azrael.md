@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'If Heaven Wants Another Angel, It Should Take Back Azrael'
+title: "If Heaven Wants Another Angel, It Should Take Back Azrael"
 date: 2023-10-02
 ---
 

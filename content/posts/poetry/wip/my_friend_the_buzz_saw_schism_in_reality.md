@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'My Friend, The Buzz Saw: Schism In Reality'
+title: "My Friend, The Buzz Saw: Schism In Reality"
 date: 2023-10-02
 ---
 

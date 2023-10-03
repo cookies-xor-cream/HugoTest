@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Correct Term Is "Fuck"'
+title: "The Correct Term Is 'Fuck'"
 date: 2023-10-02
 ---
 

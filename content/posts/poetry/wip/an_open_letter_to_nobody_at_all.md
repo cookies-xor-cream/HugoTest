@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'An Open Letter To Nobody At All'
+title: "An Open Letter To Nobody At All"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Title Is What You Make Of It'
+title: "The Title Is What You Make Of It"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'She's Not Afraid Of Dying For She Was Meant To Die Yesterday'
+title: "She's Not Afraid Of Dying For She Was Meant To Die Yesterday"
 date: 2023-10-02
 ---
 

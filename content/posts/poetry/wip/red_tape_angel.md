@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Red Tape Angel'
+title: "Red Tape Angel"
 date: 2023-10-02
 ---
 

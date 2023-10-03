@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Conditional Love'
+title: "Conditional Love"
 date: 2023-10-02
 ---
 

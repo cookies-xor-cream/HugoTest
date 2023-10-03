@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Every Look Hurts'
+title: "Every Look Hurts"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Don't Let Her Cook (She's Already Burnt The Soup)'
+title: "Don't Let Her Cook (She's Already Burnt The Thing)"
 date: 2023-10-02
 ---
 

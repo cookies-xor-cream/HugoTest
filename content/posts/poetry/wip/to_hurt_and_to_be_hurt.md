@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'To Hurt, And To Be Hurt'
+title: "To Hurt, And To Be Hurt"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'If Only The Devil Were A Botanist'
+title: "If Only The Devil Were A Botanist"
 date: 2023-10-02
 ---
 

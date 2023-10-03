@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Blood Like Ruby Diamonds'
+title: "Blood Like Ruby Diamonds"
 date: 2023-10-02
 ---
 

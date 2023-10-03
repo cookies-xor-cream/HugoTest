@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Only So Ductile'
+title: "Only So Ductile"
 date: 2023-10-02
 ---
 

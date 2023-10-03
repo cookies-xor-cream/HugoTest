@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Stellar Vision And Ice Bucket Challenges'
+title: "Stellar Vision And Ice Bucket Challenges"
 date: 2023-10-02
 ---
 

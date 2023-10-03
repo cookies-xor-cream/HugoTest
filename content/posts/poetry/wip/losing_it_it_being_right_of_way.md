@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Losing It ('It' Being Right Of Way)'
+title: "Losing It ('It' Being Right Of Way)"
 date: 2023-10-02
 ---
 

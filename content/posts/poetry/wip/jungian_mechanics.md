@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Jungian Mechanics'
+title: "Jungian Mechanics"
 date: 2023-10-02
 ---
 

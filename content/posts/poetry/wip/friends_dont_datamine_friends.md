@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: '"Friends Don't Datamine Friends"'
+title: "Friends Don't Datamine Friends"
 date: 2023-10-02
 ---
 

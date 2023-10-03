@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Six Years Lived In A Fractal'
+title: "Six Years Lived In A Fractal"
 date: 2023-10-02
 ---
 

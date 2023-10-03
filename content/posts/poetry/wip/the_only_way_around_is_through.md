@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Only Way Around Is Through'
+title: "The Only Way Around Is Through"
 date: 2023-10-02
 ---
 

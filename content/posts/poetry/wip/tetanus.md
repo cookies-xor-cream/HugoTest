@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Tetanus'
+title: "Tetanus"
 date: 2023-10-02
 ---
 

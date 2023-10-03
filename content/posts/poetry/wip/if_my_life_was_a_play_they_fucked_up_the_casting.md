@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'If My Life Was A Play They Fucked Up The Casting'
+title: "If My Life Was A Play They Fucked Up The Casting"
 date: 2023-10-02
 ---
 

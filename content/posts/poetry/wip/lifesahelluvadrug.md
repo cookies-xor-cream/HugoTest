@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Life'sAHelluvaDrug'
+title: "Life'sAHelluvaDrug"
 date: 2023-10-02
 ---
 

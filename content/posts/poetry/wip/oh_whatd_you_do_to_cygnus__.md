@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Oh what'd you do to cygnus,  '
+title: "Oh what'd you do to cygnus,  "
 date: 2023-10-02
 ---
 that she's merely a machine,  

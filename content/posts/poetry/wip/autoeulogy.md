@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Autoeulogy'
+title: "Autoeulogy"
 date: 2023-10-02
 ---
 

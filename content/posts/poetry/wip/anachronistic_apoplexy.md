@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Anachronistic Apoplexy'
+title: "Anachronistic Apoplexy"
 date: 2023-10-02
 ---
 

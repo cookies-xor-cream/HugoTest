@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'One More Funeral On The List'
+title: "One More Funeral On The List"
 date: 2023-10-02
 ---
 

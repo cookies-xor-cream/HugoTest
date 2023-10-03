@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Permanent Departure'
+title: "Permanent Departure"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Waltz Of The Ventriloquist'
+title: "Waltz Of The Ventriloquist"
 date: 2023-10-02
 ---
 

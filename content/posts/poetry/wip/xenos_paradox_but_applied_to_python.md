@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Xeno's Paradox But Applied To Python'
+title: "Xeno's Paradox But Applied To Python"
 date: 2023-10-02
 ---
 

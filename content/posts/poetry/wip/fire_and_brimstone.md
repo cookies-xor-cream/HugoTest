@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Fire And Brimstone'
+title: "Fire And Brimstone"
 date: 2023-10-02
 ---
 

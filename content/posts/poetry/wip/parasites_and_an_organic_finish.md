@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Parasites And An Organic Finish'
+title: "Parasites And An Organic Finish"
 date: 2023-10-02
 ---
 

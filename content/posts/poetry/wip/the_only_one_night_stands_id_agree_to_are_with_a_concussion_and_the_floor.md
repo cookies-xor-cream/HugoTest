@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Only One Night Stands I'd Agree To Are With A Concussion And The Floor'
+title: "The Only One Night Stands I'd Agree To Are With A Concussion And The Floor"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'There's azimuth in the rift,  '
+title: "There's azimuth in the rift,  "
 date: 2023-10-02
 ---
 stretched between your lips,  

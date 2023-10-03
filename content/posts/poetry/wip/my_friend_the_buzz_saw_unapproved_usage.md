@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'My Friend, The Buzz Saw: Unapproved Usage'
+title: "My Friend, The Buzz Saw: Unapproved Usage"
 date: 2023-10-02
 ---
 

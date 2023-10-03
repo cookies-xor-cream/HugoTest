@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Maat The Arbiter Got Checkmated'
+title: "Maat The Arbiter Got Checkmated"
 date: 2023-10-02
 ---
 

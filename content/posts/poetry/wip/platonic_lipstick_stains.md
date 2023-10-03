@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Platonic Lipstick Stains'
+title: "Platonic Lipstick Stains"
 date: 2023-10-02
 ---
 

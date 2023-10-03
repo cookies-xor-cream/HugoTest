@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Isoelectric Glucoacquiescence: Coulombic Gradients'
+title: "Isoelectric Glucoacquiescence: Coulombic Gradients"
 date: 2023-10-02
 ---
 

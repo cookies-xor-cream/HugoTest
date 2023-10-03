@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'ThE biG rAcE In tHe Sky'
+title: "ThE biG rAcE In tHe Sky"
 date: 2023-10-02
 ---
 

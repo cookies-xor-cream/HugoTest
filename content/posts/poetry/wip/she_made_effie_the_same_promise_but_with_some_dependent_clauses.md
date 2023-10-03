@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'She Made Effie The Same Promise (But With Some Dependent Clauses)'
+title: "She Made Effie The Same Promise (But With Some Dependent Clauses)"
 date: 2023-10-02
 ---
 

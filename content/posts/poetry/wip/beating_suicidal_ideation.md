@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Beating Suicidal Ideation'
+title: "Beating Suicidal Ideation"
 date: 2023-10-02
 ---
 

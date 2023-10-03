@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Persephone's Pomegranate'
+title: "Persephone's Pomegranate"
 date: 2023-10-02
 ---
 

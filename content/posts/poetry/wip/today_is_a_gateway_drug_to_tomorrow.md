@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Today Is A Gateway Drug To Tomorrow'
+title: "Today Is A Gateway Drug To Tomorrow"
 date: 2023-10-02
 ---
 

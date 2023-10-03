@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Life In A Volcano'
+title: "Life In A Volcano"
 date: 2023-10-02
 ---
 

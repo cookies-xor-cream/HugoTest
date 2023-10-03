@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Filling In The Gaps'
+title: "Filling In The Gaps"
 date: 2023-10-02
 ---
 

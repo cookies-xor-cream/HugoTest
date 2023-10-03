@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Funeral Magnet'
+title: "Funeral Magnet"
 date: 2023-10-02
 ---
 

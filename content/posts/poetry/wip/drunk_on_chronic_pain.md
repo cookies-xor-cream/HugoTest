@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Drunk On Chronic Pain'
+title: "Drunk On Chronic Pain"
 date: 2023-10-02
 ---
 

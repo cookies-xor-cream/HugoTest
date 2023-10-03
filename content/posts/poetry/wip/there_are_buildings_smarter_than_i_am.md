@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'There Are Buildings Smarter Than I Am'
+title: "There Are Buildings Smarter Than I Am"
 date: 2023-10-02
 ---
 

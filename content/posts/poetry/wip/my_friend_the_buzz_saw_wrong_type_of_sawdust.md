@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'My Friend, The Buzz Saw: Wrong Type Of Sawdust'
+title: "My Friend, The Buzz Saw: Wrong Type Of Sawdust"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Mirrors Are The Scariest Things'
+title: "Mirrors Are The Scariest Things"
 date: 2023-10-02
 ---
 

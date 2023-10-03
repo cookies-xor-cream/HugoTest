@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Bureaucracy In The Afterlife'
+title: "Bureaucracy In The Afterlife"
 date: 2023-10-02
 ---
 

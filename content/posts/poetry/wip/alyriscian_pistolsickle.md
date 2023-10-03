@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Alyriscian Pistolsickle'
+title: "Alyriscian Pistolsickle"
 date: 2023-10-02
 ---
 

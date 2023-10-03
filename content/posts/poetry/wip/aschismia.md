@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Aschismia'
+title: "Aschismia"
 date: 2023-10-02
 ---
 

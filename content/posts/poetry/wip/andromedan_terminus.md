@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Andromedan Terminus'
+title: "Andromedan Terminus"
 date: 2023-10-02
 ---
 

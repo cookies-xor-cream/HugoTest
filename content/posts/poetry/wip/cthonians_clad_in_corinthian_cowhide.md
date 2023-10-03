@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Cthonians Clad In Corinthian Cowhide'
+title: "Cthonians Clad In Corinthian Cowhide"
 date: 2023-10-02
 ---
 

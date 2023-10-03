@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'You Wanted Speed; I Wanted Completion'
+title: "You Wanted Speed; I Wanted Completion"
 date: 2023-10-02
 ---
 

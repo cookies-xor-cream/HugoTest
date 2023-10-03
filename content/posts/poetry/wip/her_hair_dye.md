@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Her Hair Dye'
+title: "Her Hair Dye"
 date: 2023-10-02
 ---
 

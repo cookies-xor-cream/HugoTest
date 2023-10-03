@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Starlight Ceiling's Receding From My Touch'
+title: "The Starlight Ceiling's Receding From My Touch"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Emptying $2 Coins On An Adventure Game'
+title: "Emptying $2 Coins On An Adventure Game"
 date: 2023-10-02
 ---
 

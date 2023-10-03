@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Platonia's Turnpike'
+title: "Platonia's Turnpike"
 date: 2023-10-02
 ---
 

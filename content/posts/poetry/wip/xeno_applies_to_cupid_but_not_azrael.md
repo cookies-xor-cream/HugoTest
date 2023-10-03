@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Xeno Applies To Cupid, But Not Azrael'
+title: "Xeno Applies To Cupid, But Not Azrael"
 date: 2023-10-02
 ---
 

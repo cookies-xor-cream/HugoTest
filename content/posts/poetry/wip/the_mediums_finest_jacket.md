@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'The Medium's Finest Jacket'
+title: "The Medium's Finest Jacket"
 date: 2023-10-02
 ---
 

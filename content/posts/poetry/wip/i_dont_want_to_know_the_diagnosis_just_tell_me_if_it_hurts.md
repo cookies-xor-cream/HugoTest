@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'I Don't Want To Know The Diagnosis, Just Tell Me If It Hurts'
+title: "I Don't Want To Know The Diagnosis, Just Tell Me If It Hurts"
 date: 2023-10-02
 ---
 

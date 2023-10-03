@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'That Psychopompous Fool'
+title: "That Psychopompous Fool"
 date: 2023-10-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Elizabeth's Wedding: In Media Res'
+title: "Elizabeth's Wedding: In Media Res"
 date: 2023-10-02
 ---
 

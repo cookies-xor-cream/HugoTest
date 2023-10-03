@@ -1,6 +1,6 @@
 ---
 tags: ['TODO']
-title: 'Consanguineous Hypocrisy'
+title: "Consanguineous Hypocrisy"
 date: 2023-10-02
 ---
 
