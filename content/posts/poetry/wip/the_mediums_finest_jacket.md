@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Stephanie']
 title: "The Medium's Finest Jacket"
 date: 2023-10-02
 ---

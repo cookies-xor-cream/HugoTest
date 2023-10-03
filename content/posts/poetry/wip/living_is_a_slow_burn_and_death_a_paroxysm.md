@@ -1,6 +1,6 @@
 ---
-tags: ['TODO']
-title: "Living Is A Slow Burn, And Death A Paroxysm"
+tags: ['Euphie']
+title: "Living Is A Slow Burn, And Death: A Paroxysm"
 date: 2023-10-02
 ---
 

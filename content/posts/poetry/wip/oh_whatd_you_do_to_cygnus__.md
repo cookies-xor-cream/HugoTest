@@ -1,8 +1,9 @@
 ---
-tags: ['TODO']
-title: "Oh what'd you do to cygnus,  "
+tags: ['Stephanie']
+title: "Oh What'd You Do To Cygnus"
 date: 2023-10-02
 ---
+
 that she's merely a machine,  
 she's an insignia, a symbol,  
 of what she used to be.

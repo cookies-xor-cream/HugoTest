@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Lost To Time']
 title: "Consanguineous Hypocrisy"
 date: 2023-10-02
 ---

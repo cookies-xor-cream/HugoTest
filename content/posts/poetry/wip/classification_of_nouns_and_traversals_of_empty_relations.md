@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Stephanie']
 title: "Classification Of Nouns, And Traversals Of Empty Relations"
 date: 2023-10-02
 ---

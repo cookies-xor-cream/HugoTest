@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Maat The Arbiter Got Checkmated"
 date: 2023-10-02
 ---

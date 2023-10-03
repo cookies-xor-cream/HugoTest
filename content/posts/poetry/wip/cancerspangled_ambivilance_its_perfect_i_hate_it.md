@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Cancer-Spangled Ambivalence"
 date: 2023-10-02
 ---

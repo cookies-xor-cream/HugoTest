@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Fire And Brimstone"
 date: 2023-10-02
 ---

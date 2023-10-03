@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "Every Look Hurts"
 date: 2023-10-02
 ---

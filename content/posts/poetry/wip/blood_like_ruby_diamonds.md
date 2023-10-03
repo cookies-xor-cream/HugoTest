@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Bus Girl']
 title: "Blood Like Ruby Diamonds"
 date: 2023-10-02
 ---

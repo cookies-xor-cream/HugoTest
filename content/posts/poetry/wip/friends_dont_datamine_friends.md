@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Friends Don't Datamine Friends"
 date: 2023-10-02
 ---

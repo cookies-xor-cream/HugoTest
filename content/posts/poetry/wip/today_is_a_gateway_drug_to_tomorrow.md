@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Today Is A Gateway Drug To Tomorrow"
 date: 2023-10-02
 ---

@@ -1,13 +1,13 @@
 ---
-tags: ['TODO']
-title: "Platonia's Turnpike"
+tags: ['Paris']
+title: "The Romanticide Turnpike"
 date: 2023-10-02
 ---
 
-There's no monster under beds,  
+There's no monsters under beds,  
 or skeletons inside of closets,  
-the demon's within, and living idle,  
-in polaroids, and bedside drawers.
+the demon livess within and idle,  
+in polaroids, in bedside drawers.
 
 You're a black room and I am  
 the spirit of the silver nitrate,  

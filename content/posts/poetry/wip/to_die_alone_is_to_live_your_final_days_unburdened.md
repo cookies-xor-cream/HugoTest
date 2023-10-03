@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "To Die Alone Is To Live Your Final Days Unburdened"
 date: 2023-10-02
 ---

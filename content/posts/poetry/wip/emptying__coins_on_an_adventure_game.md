@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "Emptying $2 Coins On An Adventure Game"
 date: 2023-10-02
 ---

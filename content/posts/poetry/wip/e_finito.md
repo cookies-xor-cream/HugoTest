@@ -1,11 +1,11 @@
 ---
-tags: ['TODO']
+tags: ['Carla']
 title: "È Finito Ma Non Fino Di Leggere"
 date: 2023-10-02
 ---
 
 I'd fashion this machine,  
-with all these parts  
+with a slew of parts  
 I've never seen,  
 but the only thing  
 that's left of it  

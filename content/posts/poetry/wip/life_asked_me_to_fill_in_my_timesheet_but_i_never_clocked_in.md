@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Life Asked Me To Fill In My Timesheet, But I Never Clocked In"
 date: 2023-10-02
 ---

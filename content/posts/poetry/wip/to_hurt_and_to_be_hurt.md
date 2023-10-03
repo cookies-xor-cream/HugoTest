@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['People In Passing']
 title: "To Hurt, And To Be Hurt"
 date: 2023-10-02
 ---

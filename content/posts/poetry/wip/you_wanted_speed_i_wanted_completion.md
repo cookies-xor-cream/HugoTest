@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "You Wanted Speed; I Wanted Completion"
 date: 2023-10-02
 ---

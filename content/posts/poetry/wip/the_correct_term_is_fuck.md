@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "The Correct Term Is 'Fuck'"
 date: 2023-10-02
 ---

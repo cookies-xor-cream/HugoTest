@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "One More Funeral On The List"
 date: 2023-10-02
 ---

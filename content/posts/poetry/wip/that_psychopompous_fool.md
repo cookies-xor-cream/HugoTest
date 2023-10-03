@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "That Psychopompous Fool"
 date: 2023-10-02
 ---

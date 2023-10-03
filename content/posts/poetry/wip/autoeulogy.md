@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Autoeulogy"
 date: 2023-10-02
 ---

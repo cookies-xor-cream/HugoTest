@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "There Are Buildings Smarter Than I Am"
 date: 2023-10-02
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "I Don't Want To Know The Diagnosis, Just Tell Me If It Hurts"
 date: 2023-10-02
 ---

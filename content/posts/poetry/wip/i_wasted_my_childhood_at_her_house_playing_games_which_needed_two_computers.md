@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "I Wasted My Childhood At Her House Playing Games Which Needed Two Computers"
 date: 2023-10-02
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "To Sit Still Is To Stop Living"
 date: 2023-10-02
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "If Heaven Wants Another Angel, It Should Take Back Azrael"
 date: 2023-10-02
 ---

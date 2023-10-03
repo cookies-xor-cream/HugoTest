@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Brønsted-Lowry, Top To Bottom, And Sometimes Sideways"
 date: 2023-10-02
 ---

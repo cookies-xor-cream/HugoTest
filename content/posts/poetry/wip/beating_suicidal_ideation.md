@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Parisa']
 title: "Beating Suicidal Ideation"
 date: 2023-10-02
 ---

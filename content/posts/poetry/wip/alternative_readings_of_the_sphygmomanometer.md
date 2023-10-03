@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Alternative Readings Of The Sphygmomanometer"
 date: 2023-10-02
 ---

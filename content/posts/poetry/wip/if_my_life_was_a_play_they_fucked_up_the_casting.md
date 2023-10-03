@@ -1,13 +1,13 @@
 ---
-tags: ['TODO']
+tags: ['People In Passing']
 title: "If My Life Was A Play They Fucked Up The Casting"
 date: 2023-10-02
 ---
 
 There's a sparkle in her eyes  
 that isn't in mine,  
-but it sees me to a seizure every  
-once in seldom while.
+but it gifts me with a seizure every  
+once in a seldom while.
 
 There's a breath in her lungs  
 that isn't in mine,  

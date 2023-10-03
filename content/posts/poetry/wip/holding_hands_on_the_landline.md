@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "Holding Hands On The Landline"
 date: 2023-10-02
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "Tetanus"
 date: 2023-10-02
 ---

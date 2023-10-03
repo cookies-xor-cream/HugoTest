@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Moons Of Jupiter: The 3 Body Problem Is Evidence We're A Ternary System"
 date: 2023-10-02
 ---

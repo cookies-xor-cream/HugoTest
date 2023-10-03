@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Parisa']
 title: "Mirrors Are The Scariest Things"
 date: 2023-10-02
 ---

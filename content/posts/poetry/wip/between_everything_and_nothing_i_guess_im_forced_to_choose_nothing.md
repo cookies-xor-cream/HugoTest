@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "Between Everything And Nothing? I Guess I'm Forced To Choose Nothing"
 date: 2023-10-02
 ---

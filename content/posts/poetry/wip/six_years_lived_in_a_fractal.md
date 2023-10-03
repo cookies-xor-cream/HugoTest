@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Six Years Lived In A Fractal"
 date: 2023-10-02
 ---

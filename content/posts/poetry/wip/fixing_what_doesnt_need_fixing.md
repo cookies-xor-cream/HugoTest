@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Fixing What Doesn't Need Fixing"
 date: 2023-10-02
 ---

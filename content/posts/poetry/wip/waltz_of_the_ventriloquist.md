@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Waltz Of The Ventriloquist"
 date: 2023-10-02
 ---

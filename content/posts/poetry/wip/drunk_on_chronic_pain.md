@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Drunk On Chronic Pain"
 date: 2023-10-02
 ---

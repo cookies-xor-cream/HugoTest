@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "Starless Nyxkin: Even The Dimmest Still Phospheresce"
 date: 2023-10-02
 ---

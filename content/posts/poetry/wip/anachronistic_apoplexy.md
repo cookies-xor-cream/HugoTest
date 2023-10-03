@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Anachronistic Apoplexy"
 date: 2023-10-02
 ---

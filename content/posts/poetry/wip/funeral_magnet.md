@@ -1,11 +1,11 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Funeral Magnet"
 date: 2023-10-02
 ---
 
 There is a language barrier,  
-stuck between me, and reality.  
+stuck between me and reality.  
 I'm never quite certain I'm awake.  
 and never fully lucid dreaming.
 

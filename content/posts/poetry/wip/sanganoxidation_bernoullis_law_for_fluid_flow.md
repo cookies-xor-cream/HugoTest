@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Sanganoxidation: Bernoulli's Law For Fluid Flow"
 date: 2023-10-02
 ---

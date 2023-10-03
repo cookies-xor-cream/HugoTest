@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Euphie']
 title: "Axiomatic Paradoxia: Where Health Itself Is The Disease"
 date: 2023-10-02
 ---

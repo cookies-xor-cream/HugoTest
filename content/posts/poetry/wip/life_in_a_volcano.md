@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Life In A Volcano"
 date: 2023-10-02
 ---

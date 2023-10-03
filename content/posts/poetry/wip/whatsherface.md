@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Stephanie']
 title: "Whatsherface"
 date: 2023-10-02
 ---
@@ -7,7 +7,7 @@ date: 2023-10-02
 "Get your hand out of my hair,  
 I must look like a fucking mess,  
 plus, anyways, you're also  
-bleeding on my face.
+bleeding on my face".
 
 [...]
 

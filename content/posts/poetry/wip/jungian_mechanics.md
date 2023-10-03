@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Parisa']
 title: "Jungian Mechanics"
 date: 2023-10-02
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "Paris (Not To Be Confused With Parīsā) "
 date: 2023-10-02
 ---

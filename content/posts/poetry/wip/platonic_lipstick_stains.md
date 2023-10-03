@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Stephanie']
 title: "Platonic Lipstick Stains"
 date: 2023-10-02
 ---

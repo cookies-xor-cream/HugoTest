@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Myself']
 title: "Life'sAHelluvaDrug"
 date: 2023-10-02
 ---

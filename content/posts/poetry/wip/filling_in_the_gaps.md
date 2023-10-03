@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Amber']
 title: "Filling In The Gaps"
 date: 2023-10-02
 ---
@@ -83,4 +83,4 @@ as action or as inaction.
 But she asked to be held,  
 and she wrapped up our hands,  
 and in reluctancy's meld,  
-she said "if I breathe then you can't".  
+she said "if I breathe, well, then you can't".  

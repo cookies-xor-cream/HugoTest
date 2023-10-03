@@ -1,5 +1,5 @@
 ---
-tags: ['TODO']
+tags: ['Paris']
 title: "At The River With A Tree Nymph"
 date: 2023-10-02
 ---

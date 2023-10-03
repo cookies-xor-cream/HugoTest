@@ -1,6 +1,6 @@
 ---
-tags: ['TODO']
-title: "Friends Are The Best Handcuffs  "
+tags: ['Stephanie']
+title: "Friends Are The Best Handcuffs"
 date: 2023-10-02
 ---
 Love Is A Hell Of A Prison
