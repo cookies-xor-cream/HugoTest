@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: "Little Red Riding Hood Is Such A Welcome Distraction"
 date: 2023-06-01
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['Claudia']
+tags: ['Christian Girl']
 title: Pending Atomic Transaction During An Application Of Bayes' Rule
 date: 2023-03-03
 ---

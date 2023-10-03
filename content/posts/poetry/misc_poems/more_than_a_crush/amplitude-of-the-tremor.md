@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: The Amplitude Of The Tremor Is A Function Of My Trust And Fear
 date: 2023-06-01
 ---
