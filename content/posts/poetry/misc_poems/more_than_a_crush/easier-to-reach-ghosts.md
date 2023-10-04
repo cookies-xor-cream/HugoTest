@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: Is It Easier To Reach Ghosts Than The Living? 
 date: 2023-06-01
 ---

@@ -1,5 +1,5 @@
 ---
-tags: ['Claudia']
+tags: ['Christian Girl']
 title: "The Same Option Twice: Asking For A Second Is Allegedly Overindulgent"
 date: 2023-03-03
 ---

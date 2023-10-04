@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: New Mystery Seeds (Can't Pick What Grows, But Something Will)
 date: 2023-06-01
 ---

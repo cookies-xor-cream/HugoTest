@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: "Infatuation: She's My Religion"
 date: 2023-06-01
 ---

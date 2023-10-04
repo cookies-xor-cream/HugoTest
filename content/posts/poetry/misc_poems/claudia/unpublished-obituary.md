@@ -1,5 +1,5 @@
 ---
-tags: ['Claudia']
+tags: ['Christian Girl']
 title: "Unpublished Obituary Of A Living Girl: Received By 7 With An Hour Delay"
 date: 2023-03-03
 ---

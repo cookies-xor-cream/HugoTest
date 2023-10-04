@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: "The Lamplighter Sun: The Hardest Ghost To See"
 date: 2023-06-01
 ---

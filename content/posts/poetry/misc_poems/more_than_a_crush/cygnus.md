@@ -1,5 +1,5 @@
 ---
-tags: ['More Than A Crush?']
+tags: ["Sleepwalker\'s Daydream"]
 title: "Cygnus, I'd Rather You Guide Me Than The Stars"
 date: 2023-06-01
 ---
