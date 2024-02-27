@@ -11,7 +11,7 @@ for the remainder of this week.
 
 The lowered gaze and mumbled words,  
 suggested that the fire might've spread,  
-and my arms are numb now but still in tact   
+and my arms are numb now but still intact   
 and the pain's found second wind in my head.
 
 I got an MRI scheduled this month,  
