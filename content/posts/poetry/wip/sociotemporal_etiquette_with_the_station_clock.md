@@ -22,4 +22,4 @@ Sitting, staring at the clock.
 It would be nice to live with more mistakes,  
 But I keep wasting time just waving back,  
 To a redundant analogue device,  
-As a politeness betwixt panic attacks
+As a politeness betwixt panic attacks  

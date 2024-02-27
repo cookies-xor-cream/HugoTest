@@ -12,4 +12,4 @@ Like saccharine protein and the Maillard reaction, like target prioritisation an
 
 Like a rope made of dress or robe in a hangman's knot. Like the hope in your eyes as marker for a war well-fought (but aptly lost).
 
-Whether death at his hand or by suicide, there's no wayside left with me. It's high tide till the end of night. So drop hanging or a death by drowning, when your oxygen drops I'll be there with a timer waiting, counting.
+Whether death at his hand or by suicide, there's no wayside left with me. It's high tide till the end of night. So drop hanging or a death by drowning, when your oxygen drops I'll be there with a timer waiting, counting.  

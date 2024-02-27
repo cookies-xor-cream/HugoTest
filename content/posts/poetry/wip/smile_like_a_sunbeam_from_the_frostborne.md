@@ -8,4 +8,4 @@ Fuck your worth in gold, I want your weight in solvents. So since you're ice cou
 I swear to god there's ionic phosphorus in my bones, for when your smile lights up my marrow begins to glow.
 
 I would accept any fucking thing except for being left here to sparkle on my own,  
-After all, phosphors don't come in isolation, they're found in pairs and not alone.
+After all, phosphors don't come in isolation, they're found in pairs and not alone.  

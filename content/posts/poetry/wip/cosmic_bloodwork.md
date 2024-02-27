@@ -14,4 +14,4 @@ Though your eyes sparkle so much brighter, the flow of blood on a cosmic scale l
 
 That sparkle in your iris, and reflection on the black between's a flood of ichor from a butchered artery.
 
-We cut reality too deep, and the starlight of your stare spilled through the stitching to burst the frayed seams.
+We cut reality too deep, and the starlight of your stare spilled through the stitching to burst the frayed seams.  

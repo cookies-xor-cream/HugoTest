@@ -14,12 +14,12 @@ It's funny, isn't it, how the two of us only find our stability when we're trapp
 
 You're you, however marked, however branded or riddled in scars. However extinguished that dim glimmer of dying stars behind your eyes.
 
-You're who you are, it's not too much.
-It's always exactly enough.
-Through your rushed slurred speech and half-jittery stutters or sleights of wrist.
-Whatever flaw you have, don't call it that.
+You're who you are, it's not too much.  
+It's always exactly enough.  
+Through your rushed slurred speech and half-jittery stutters or sleights of wrist.  
+Whatever flaw you have, don't call it that.  
 It's perfect just the way it is.
 
 "Are you immediate family" my fucking ass. Blood is thicker than water, and my shirt is lathered in that substance.
 
-P.S. Steph sorry I couldn't stomach the image so P had to call the ambulance.
+P.S. Steph sorry I couldn't stomach the image so P had to call the ambulance.  

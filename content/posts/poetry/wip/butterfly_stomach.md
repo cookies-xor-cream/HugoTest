@@ -12,4 +12,4 @@ Like watching a butterfly behind a window screen.
 I suppose there's a hole found in the panel,  
 Because somehow she had reached right through,  
 Stretched to slap me me full-force on the face,  
-To stick larvae in my mouth long now overdue.
+To stick larvae in my mouth long now overdue.  

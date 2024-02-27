@@ -18,4 +18,4 @@ We can't start this with bad terms on a break.
 
 You may be funny, but holy shit, buddy,  
 A little comedy is less than what it takes?  
-(For me or for you, the words cut either way)
+(For me or for you, the words cut either way)  

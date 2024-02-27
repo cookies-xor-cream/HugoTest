@@ -11,4 +11,4 @@ And why she wrote that it wasn't destined for my gaze.
 
 And then you ruined it with a tone deaf comment about someone that I probably could have loved,  
 (If only she wasn't fucking sick, if only she could've fucking lived, didn't have to fucking go and die),  
-And I'd be at your throat right then but the whiskey's way too strong, doubt that I could kill you if I tried.
+And I'd be at your throat right then but the whiskey's way too strong, doubt that I could kill you if I tried.  

@@ -27,4 +27,4 @@ Then trust you me, death would be fair.
 But they are stuck to cling around,  
 Like a jacket in a lost and found,  
 Fully dry but half alive,  
-Since they lost their grip on the clothing line.
+Since they lost their grip on the clothing line.  

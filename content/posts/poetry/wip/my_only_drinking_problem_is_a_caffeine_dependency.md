@@ -18,8 +18,8 @@ date: 2024-02-26
 
 "Without a fight...? You'd just give up?"
 
-*"Oh, 'Giving up' isn't name for compromise,*
-*If she has ears, then I have eyes,*
-*If she has teeth then I have hands,*
-*It's an equivalent exchange,*
-*Not for senses, but for demand."*
+*"Oh, 'Giving up' isn't name for compromise,*  
+*If she has ears, then I have eyes,*  
+*If she has teeth then I have hands,*  
+*It's an equivalent exchange,*  
+*Not for senses, but for demand."*  

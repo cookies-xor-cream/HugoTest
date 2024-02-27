@@ -16,4 +16,4 @@ Maybe we'll stay tethered till the end of time.
 
 Fuck, I need to stop doing this.  
 Give me something else to focus on.  
-Some way else to live.
+Some way else to live.  

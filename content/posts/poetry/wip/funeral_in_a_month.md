@@ -12,4 +12,4 @@ I just want my friend back here, can we please just be at peace?
 Why is it so much harder for you to try to just forgive,  
 Can't you bury weary hearts underneath your tattered sleeve?  
 We only had that last month together, I would rather just forget,  
-Fuck the overdramatics, live the joy that you deserve.
+Fuck the overdramatics, live the joy that you deserve.  

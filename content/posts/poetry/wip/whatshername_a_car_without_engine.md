@@ -20,7 +20,7 @@ Forwent your name for 'wife' instead,
 Cutting the break-lines to his tongue.  
 I'm sorry that in this conversation  
 You have to be a passenger princess .
-
+  
 And I saw him lean too close,  
 Supposed he was revving up the engine,  
 To at his first chance, run her over.  
@@ -88,4 +88,4 @@ Love without the loving in it.
 A car without engine,  
 Neither attraction nor heart,  
 We started as friends,  
-Then finished back at the start.
+Then finished back at the start.  

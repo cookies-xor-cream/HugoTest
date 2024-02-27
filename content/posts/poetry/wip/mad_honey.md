@@ -16,4 +16,4 @@ Like my life is made of honeyed things.
 As such, it's such a fucking tragedy  
 That honey ferments to mead,  
 And when we are born as yeast  
-Life cannot stay forever sweet.
+Life cannot stay forever sweet.  

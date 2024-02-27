@@ -17,4 +17,4 @@ But you mustered the connection to plug into my hands.
 And as we sat in the park with the moon at our side,  
 Afloat in the sky, protesting passage of time,  
 From now till forever, it has chosen to stay,  
-And I pray to the sun that my lamp does the same.
+And I pray to the sun that my lamp does the same.  

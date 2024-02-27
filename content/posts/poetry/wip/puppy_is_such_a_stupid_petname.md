@@ -16,4 +16,4 @@ Couldn't loosen the grip inside my hands,
 So bogged down and muddled up,  
 I wore beneath my sleeve a tapestry of canine cuts  
 And it's such a shame that none would ever see  
-my many gorgeous imprints of my puppy's teeth.
+my many gorgeous imprints of my puppy's teeth.  

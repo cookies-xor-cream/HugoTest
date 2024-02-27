@@ -14,4 +14,4 @@ I got a dead girl's souvenir stitched as a scar, blossomed in a rosy bloom of sk
 I've got a box of old shit from a wanna-be romantic who's twice as sweet as me.
 
 I think it's a little strange how drastic this change exhibits to nullity from pain,  
-The way that nature overcompensates by playing with the chemistry of my brain.
+The way that nature overcompensates by playing with the chemistry of my brain.  

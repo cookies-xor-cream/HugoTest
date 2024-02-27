@@ -10,4 +10,4 @@ Her mother was loitering outside on their garden table, she looked like she was 
 
 I haven't seen her in a while, but she looks the same she did last decade and it caught me with my guard down. And she fucking shattered it with a hug that lasted way too fucking long.
 
-I'd cry, aunty. I would. I just don't know if I have any tears fucking left in me anymore.
+I'd cry, aunty. I would. I just don't know if I have any tears fucking left in me anymore.  

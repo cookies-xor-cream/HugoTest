@@ -17,4 +17,4 @@ Why'd you only want to reap, when I only want to sow?
 Anyway, nevertheless, I'm gonna get back to this staring contest,  
 I'm playing against a screen even though I'm right besides her,  
 She has to go for a 'mental health first aid' course in fifteen  
-Where everything they'll show her she'd have already felt and seen.
+Where everything they'll show her she'd have already felt and seen.  

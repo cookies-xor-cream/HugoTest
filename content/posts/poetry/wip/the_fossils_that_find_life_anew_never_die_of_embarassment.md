@@ -12,4 +12,4 @@ The fossil of a friend (of Beck) inscribed in her infinite lament.
 You were sleeping sprawled out on the wrong side of your bed,  
 I looked over to see somewhere in your dreams you had lost your shirt,  
 I woke you up, you scrambled in an embarrassment to get dressed,  
-Screaming at me to find your clothes whilst your hands plastered on your chest.
+Screaming at me to find your clothes whilst your hands plastered on your chest.  

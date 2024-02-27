@@ -17,4 +17,4 @@ So please hand me another.
 
 This is where she lives, but you're living a guilt trip,  
 So we're stuck to your bedframe, where the rug slipped,  
-And painted the carpet red.
+And painted the carpet red.  

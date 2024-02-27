@@ -12,4 +12,4 @@ date: 2024-02-26
 
 I have never seen a more gorgeous marking than that The Used tattoo plastered on your arm. It resided starkly in an angry contrast, in black and white, contested by the scarlet of what was flooding out your nose that really should've been filling in that hungry heart.
 
-I suppose that no one ever taught you to colour in the lines. A rose goes where the sunlight pleases, and I suppose that's as true with your nosebleed and your blood. A leak that starts inside your face to empty out your heart.
+I suppose that no one ever taught you to colour in the lines. A rose goes where the sunlight pleases, and I suppose that's as true with your nosebleed and your blood. A leak that starts inside your face to empty out your heart.  

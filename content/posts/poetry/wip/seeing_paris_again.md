@@ -14,4 +14,4 @@ The other being you making coffee that we drank out on your porch, and your cons
 
 I thought I made a friend on a three hour long midnight walk: a night well-spent. But you had to fucking kiss me, to make it another date.
 
-Great. Just fucking great. Another girl who always wonders what will come of this if her wrists begin to meander and to wander.
+Great. Just fucking great. Another girl who always wonders what will come of this if her wrists begin to meander and to wander.  

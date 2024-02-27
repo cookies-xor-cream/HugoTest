@@ -22,4 +22,4 @@ The least you could do is take it easy until you can stand away from me.
 It feels like playing ventriloquist with the shell of a girl,  
 Pretending she's not empty of life, decked with gemstones and pearls,  
 But I know it better and you know that you must know it best,  
-Like a KK thesis written on the epistemology of chasing detest.
+Like a KK thesis written on the epistemology of chasing detest.  

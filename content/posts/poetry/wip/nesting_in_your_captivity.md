@@ -15,4 +15,4 @@ You're the North upon my compass,
 I'm going to come break your repose.
 
 I'm a member in a flock in a menagerie filled by your selections,  
-There's no place else I'd rather be than trapped in your avian collection.
+There's no place else I'd rather be than trapped in your avian collection.  

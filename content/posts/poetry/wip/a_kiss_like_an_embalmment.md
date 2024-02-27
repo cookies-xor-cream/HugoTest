@@ -17,4 +17,4 @@ It's your infidelity, so why does this feel like my regret?
 I swear that her lips are full of formaldehyde,  
 Because I embalmed a little when I died inside  
 In the aftermath of this romanticide attempted.  
-Where I felt nothing, but she felt everything, just latent.
+Where I felt nothing, but she felt everything, just latent.  

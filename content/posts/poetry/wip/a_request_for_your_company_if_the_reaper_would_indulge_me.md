@@ -32,4 +32,4 @@ I always thought a death by drowning would be cute.
 
 If your words are what you'll use then see your verbiage plucked straight from this thin air, before it fizzles out to reacquaint my existence with the dirt.
 
-Sorry if this was poor in taste. Fool I am, I love to tempt the fates. I just assume that you were buried but she won't tell me at which place. Either way, this is not a letter but request, and the rest assured I rest assured that I have made my sincere and solemn case.
+Sorry if this was poor in taste. Fool I am, I love to tempt the fates. I just assume that you were buried but she won't tell me at which place. Either way, this is not a letter but request, and the rest assured I rest assured that I have made my sincere and solemn case.  

@@ -41,4 +41,4 @@ You had to move, didn't you?
 You had to move when you did, didn't you?  
 Stupid me. I feel the right thing at all the wrong times.
 
-Anyhow, my friend is visiting and sometimes I wonder if ever you two pass each other in Melbourne.
+Anyhow, my friend is visiting and sometimes I wonder if ever you two pass each other in Melbourne.  

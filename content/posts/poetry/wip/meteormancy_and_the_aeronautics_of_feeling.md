@@ -16,4 +16,4 @@ You need presence of mind, and so I'm sorry and it's such a fucking shame that p
 I'm not about to waste my time playing with controls, each command I give you take feels like a remote access exploit,  
 And I don't think that I want to be trusted with the heft of the ethical implications of having remote root access to your brain.
 
-You call this love, I call it subordination, and you say that it's okay, but sweetheart tell me why does it feel so fucking strange?
+You call this love, I call it subordination, and you say that it's okay, but sweetheart tell me why does it feel so fucking strange?  

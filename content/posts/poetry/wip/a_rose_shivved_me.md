@@ -17,4 +17,4 @@ Wouldn't've been able to operate in the absence of you.
 I've got a glass full of whiskey to shrug off the shake,  
 To dispel the tremor I get when I see my skin break,  
 And I'm on a six hour call, my phone loose on my face,  
-With the captive assistant as I return this thorn to a vase.
+With the captive assistant as I return this thorn to a vase.  
