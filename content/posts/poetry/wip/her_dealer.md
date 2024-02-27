@@ -10,4 +10,4 @@ And what for, what'd you get from this?
 a consumption of your spirit?
 
 I should've asked you to buy me a drink,  
-I need to wash this rancid taste from off my lips.  
+I need to wash this rancid taste from off my lips.

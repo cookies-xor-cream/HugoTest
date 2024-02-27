@@ -11,4 +11,4 @@ Your ulna is blossoming a bruise-addled yellow-purple,
 Caught in a burst and decay of love that you dismember then display.
 
 I don't think your grip could hold tight onto my words,  
-I hate that you never listen, how every word only very technically goes heard.  
+I hate that you never listen, how every word only very technically goes heard.

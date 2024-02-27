@@ -35,4 +35,4 @@ If we divorce this tryst.
 In the slipping of the faultlines,  
 I found the epicentre was loving you,  
 I would say that we are through,  
-But it feels more like you're a through-and-through.  
+But it feels more like you're a through-and-through.

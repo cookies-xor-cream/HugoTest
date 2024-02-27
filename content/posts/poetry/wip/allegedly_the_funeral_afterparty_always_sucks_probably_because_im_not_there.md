@@ -13,4 +13,4 @@ And the reaper when he decided to try,
 To do his fucking job and come to take a life.
 
 We're like a mistake on purpose, or something in that vein,  
-We're living in a necrocracy, or some equivalent reign.  
+We're living in a necrocracy, or some equivalent reign.

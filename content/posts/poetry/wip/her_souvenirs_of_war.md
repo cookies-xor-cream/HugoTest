@@ -17,4 +17,4 @@ At a self-loathing command.
 My gaze is riveted on  
 That place on her wrist,  
 That's painted with blood  
-From that last violent tryst.  
+From that last violent tryst.

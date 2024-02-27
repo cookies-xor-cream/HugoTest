@@ -35,4 +35,4 @@ And that's more than I could ever do.
 I could never feel that way again,  
 But I can't feel simply nothing either,  
 I don't know what to do with you,  
-I haven't faith, I'm not much of a believer.  
+I haven't faith, I'm not much of a believer.

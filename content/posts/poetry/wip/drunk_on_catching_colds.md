@@ -27,4 +27,4 @@ Now it needs to be replaced.
 I don't think that I agree,  
 Just let me make my case:  
 Despite the lack of drink,  
-I wasn't in that sober of a place.  
+I wasn't in that sober of a place.

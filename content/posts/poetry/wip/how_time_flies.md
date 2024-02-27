@@ -14,4 +14,4 @@ I've got time here left to kill while my memories all flash back like a shitty p
 Like a makeshift powerpoint of these self-imbued fragments of these tiny moving stills.
 
 I've got time here left to kill,  
-I've still got time here left to kill.  
+I've still got time here left to kill.

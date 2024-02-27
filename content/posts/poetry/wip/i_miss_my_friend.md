@@ -20,4 +20,4 @@ You visited again after that. But you avoided me. I know why, but it still feels
 
 And now that you're back you're like that again. Always avoiding me in person, flaking out on plans. And you're so fucking awkward about any physical contact.
 
-I just want my friend back.  
+I just want my friend back.

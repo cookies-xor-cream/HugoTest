@@ -17,4 +17,4 @@ Her optic nerve's wood when it should be steel.
 So won't you pour her a taller, thicker, darker glass,  
 Tell her this nightmare will be due to one day pass.  
 Won't you close out this joke that is the final act,  
-Give her a swan song, give her the fastest fade to black.  
+Give her a swan song, give her the fastest fade to black.

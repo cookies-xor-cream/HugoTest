@@ -22,4 +22,4 @@ It's perfect just the way it is.
 
 "Are you immediate family" my fucking ass. Blood is thicker than water, and my shirt is lathered in that substance.
 
-P.S. Steph sorry I couldn't stomach the image so P had to call the ambulance.  
+P.S. Steph sorry I couldn't stomach the image so P had to call the ambulance.

@@ -18,4 +18,4 @@ I'm found inside your bedhead on this blue and sunny day,
 Your hair's looming on your smile, like a storm cloud on your head,  
 A pileous pouring like a tempest, raining plumbum onto lead,  
 But your skull's so dense, the water will never find your brain,  
-But that's okay, I'm plenty sure it needs some lithium instead.  
+But that's okay, I'm plenty sure it needs some lithium instead.

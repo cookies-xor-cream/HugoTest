@@ -26,4 +26,4 @@ Containing your whole being, sent bit by little bit.
 
 It's too late for my birthday, too early for that of Christ's,  
 But I've got voicemails full of presents,  
-Adorning this device like stockings in the halls.  
+Adorning this device like stockings in the halls.

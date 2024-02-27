@@ -45,4 +45,4 @@ If I checked the bin behind your place,
 I'm sure that I would find that screen,  
 An ovepriced OLED TV, with one too many  
 Memories burnt in, and stuck between,  
-My preteens and my twenties.  
+My preteens and my twenties.

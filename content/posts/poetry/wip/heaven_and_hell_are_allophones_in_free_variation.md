@@ -22,4 +22,4 @@ I'm the sowing of an autumn harvest,
 That's tread lightly underfoot.
 
 I'm a forest by the highway rotting,  
-Under a thin blanket of soot hiding.  
+Under a thin blanket of soot hiding.

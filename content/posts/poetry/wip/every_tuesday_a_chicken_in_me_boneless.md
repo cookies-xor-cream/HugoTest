@@ -30,4 +30,4 @@ I'll find some calcite shards inside
 Of the post-extinction dinosaur.
 
 Mineral sticks inside of the  
-Chicken I stick inside of me.  
+Chicken I stick inside of me.

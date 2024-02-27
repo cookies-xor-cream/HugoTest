@@ -37,4 +37,4 @@ That I've been speaking?
 
 Will you feel this heatwave beaten,  
 In icy sentiment, as it sits  
-Quietly receded?  
+Quietly receded?

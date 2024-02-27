@@ -26,4 +26,4 @@ If you learn to hit undo, to avoid the things you do that make me scared, then t
 
 So then tell me Cadmium, are we lucky heavy metals accumulate, or cursed that you can't exodus?
 
-Is it good to have stability, (though I never asked for it), or was it better to stay lonely but be free?  
+Is it good to have stability, (though I never asked for it), or was it better to stay lonely but be free?

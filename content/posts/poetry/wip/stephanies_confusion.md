@@ -12,4 +12,4 @@ An insomniac in two-fold, like sleep is a blight.
 You know, I always knew, I always understood  
 That you're kept together by resin and by glue,  
 Loosely assembled, though mangled and crude,  
-By the acquiescence of this trivial pursuit".  
+By the acquiescence of this trivial pursuit".

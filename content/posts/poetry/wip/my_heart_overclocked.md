@@ -12,4 +12,4 @@ Whenever I try to pull the blinds.
 And yes, it's nice, just useless,  
 It's got my heart rate in triple digits,  
 And my lungs in failed ventilation  
-Thinking about our ventuple digits.  
+Thinking about our ventuple digits.

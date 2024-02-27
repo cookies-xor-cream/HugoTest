@@ -12,4 +12,4 @@ Never uncovered, forever a denizen of the deep.
 But to swim is pescan, flight is more fitting of a bird,  
 I hope she's not cast to an afterlife wading through the dirt,  
 Through strife she'll fly on spiny and unfeathered wings,  
-Tethered not to earth, but to the anima she finds within.  
+Tethered not to earth, but to the anima she finds within.

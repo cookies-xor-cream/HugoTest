@@ -12,4 +12,4 @@ I held up my end of the deal?
 I have this toggle in my chest,  
 But I can't fucking reach that far,  
 Either it's been long suppressed,  
-Or we're one too many stars apart".  
+Or we're one too many stars apart".

@@ -30,4 +30,4 @@ Cooked well done, and into cinders,
 Marvellously fried, and seared inside.
 
 I would've burnt them hotter,  
-But I seemed to lack the time.  
+But I seemed to lack the time.

@@ -20,4 +20,4 @@ Evidence sunlight's bursting at the seams.
 
 Race backwards into dark,  
 Recursed infinitely to flee,  
-And then I will wake up to my dream.  
+And then I will wake up to my dream.

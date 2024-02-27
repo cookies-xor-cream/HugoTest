@@ -61,4 +61,4 @@ Solar rain'll wipe my vision from its place.
 I don't need eyes if you're not here,  
 They could never be of use,  
 When my field of view's constrained,  
-With this headstone obscuring me from you.  
+With this headstone obscuring me from you.

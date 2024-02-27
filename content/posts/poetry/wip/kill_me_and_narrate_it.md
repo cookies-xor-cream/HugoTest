@@ -30,4 +30,4 @@ It's where you hold it in your fist,
 And that tension won't persist.
 
 For you put the 'ease' in a 'cease and desist',  
-That marks an end: the finish to this tragic tryst.  
+That marks an end: the finish to this tragic tryst.

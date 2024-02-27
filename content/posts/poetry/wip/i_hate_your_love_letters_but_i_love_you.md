@@ -17,4 +17,4 @@ Please disregard my red and checkered jacket,
 Please ignore our tasteless matching flannel,  
 I'm an alien passed as the blood-curdling of a ghost,  
 Watching from a distant land, as you unravel and unfurl:  
-You're a sponge but dissolve and can't ever absorb.  
+You're a sponge but dissolve and can't ever absorb.

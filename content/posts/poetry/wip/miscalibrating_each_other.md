@@ -27,4 +27,4 @@ Somewhere far off, up on a shelf.
 Stephanie, just because you can't direct it,  
 Doesn't mean you succumb to being a vector,  
 I would've given more to take back less,  
-Next time could we try to barter this distress?  
+Next time could we try to barter this distress?

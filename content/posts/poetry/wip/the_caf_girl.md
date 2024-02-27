@@ -9,4 +9,4 @@ And weird side-eyed stares at her silver dolphin necklace
 I finally got my third fucking coffee,  
 You finally got fucking rid of me,  
 Now maybe either (or both) of us  
-Can be at some fucking peace.  
+Can be at some fucking peace.

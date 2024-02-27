@@ -12,4 +12,4 @@ Don't think that I'd forget.
 Her temple on my shoulder,  
 Was less an act of affection  
 And more like a demonstration  
-Of this herbivore's aggression.  
+Of this herbivore's aggression.

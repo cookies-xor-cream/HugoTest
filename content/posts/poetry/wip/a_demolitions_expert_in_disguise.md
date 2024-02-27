@@ -19,4 +19,4 @@ She forfeit my place with her son sat in her study at her desk,
 When you refuse to take the answer you're given there's no makeups for the test.  
 Just parallel smudges of makeup, tears running mascara down your face.
 
-Sic sempre, sempre ad infinitum, orthogonal to a long-lost and surgically fixtured grace.  
+Sic sempre, sempre ad infinitum, orthogonal to a long-lost and surgically fixtured grace.

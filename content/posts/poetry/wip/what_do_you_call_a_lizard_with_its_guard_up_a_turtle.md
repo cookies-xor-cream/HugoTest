@@ -13,4 +13,4 @@ And if I could read slower, or had a pen somewhere on my person,
 I would outline the discrepancies of our tension and our torsion.  
 But we both fled in wild retreat, leaving turtle shells at the crime scene,  
 And if you hold them up close to your ear then you wouldn't hear the ocean but our screams,  
-The dulled yet sharp and endless lull of our infinite interpersonal incompatibilities.  
+The dulled yet sharp and endless lull of our infinite interpersonal incompatibilities.

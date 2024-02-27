@@ -44,4 +44,4 @@ But ink won't stab at ballpoint through the pages,
 I need a stanza enscribed in something stronger than a pencil,  
 Something that can survive erasures.
 
-But I guess death is too good an eraser.  
+But I guess death is too good an eraser.

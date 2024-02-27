@@ -46,4 +46,4 @@ If she had read this prayer,
 That I wrote on her behalf,  
 She'd tell you:  
 "Euphie, read half the thing,  
-And Ignore the other half".  
+And Ignore the other half".

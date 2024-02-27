@@ -19,4 +19,4 @@ But it seems we'll never reach that day.
 This is a co-op game and it looks like  
 We're down by a single player today,  
 (The other one went on short notice,  
-On a permanent visit to a far too shallow grave).  
+On a permanent visit to a far too shallow grave).

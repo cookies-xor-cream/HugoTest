@@ -22,4 +22,4 @@ And the brushing of her fingers made it far too hard to think.
 I felt thinned out, diluted in my own existence,  
 Like I only seldomly and emergently existed,  
 Like my being is a function of her feathers and her wings,  
-Like reality's a space found only in contact with her wrists.  
+Like reality's a space found only in contact with her wrists.

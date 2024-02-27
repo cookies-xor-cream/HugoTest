@@ -22,4 +22,4 @@ Existence-addled.
 I'm missing the equipment,  
 Paraphernalia to meet her,  
 But I'll buy a rope and a
-Step-stool or a ladder later.  
+Step-stool or a ladder later.

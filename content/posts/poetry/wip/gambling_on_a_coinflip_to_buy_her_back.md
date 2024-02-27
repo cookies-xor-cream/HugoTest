@@ -28,4 +28,4 @@ Anyone who won't consider
 This infraction in exchange,  
 Of the pawn-obol of me,  
 Can't comprehend the  
-Remainders of change.  
+Remainders of change.

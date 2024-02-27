@@ -14,4 +14,4 @@ She's defiant in smiling, despite her little sleep, like a blaring alarm,
 Till she falls under the weather, back to the normal baseline level of calm.  
 But she's played over by rain, like a bomb in disguise as she quietly arms,  
 You can call her discordant like wind, you can call her barely intact,  
-But if she were a tempest, I would fucking love a barometric attack.  
+But if she were a tempest, I would fucking love a barometric attack.

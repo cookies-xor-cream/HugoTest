@@ -17,4 +17,4 @@ And you'd laugh as I tried to hold back tears.
 Medical school must be easier than it seems,  
 Or less useful than it claims to be,  
 Because they couldn't stop the jammer  
-From disconnecting my friend from me.  
+From disconnecting my friend from me.

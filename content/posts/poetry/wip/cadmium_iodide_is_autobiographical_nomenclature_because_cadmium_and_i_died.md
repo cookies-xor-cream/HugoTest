@@ -20,4 +20,4 @@ It made me wonder if it even hurt. Now that I'm acting as your nurse: I can see 
 I wish I never did find out the threshold to your numbness and your disregard to pain".
 
 So I replied "Steph. With you not stood over me right now: trust me I'd evaporate, or liquidate, then maybe even catch ablaze.  
-This injury's a call to arson on my pelt, and you're the only thing that makes me not autoimmolate.  
+This injury's a call to arson on my pelt, and you're the only thing that makes me not autoimmolate.

@@ -12,4 +12,4 @@ So I guess I should count the sheep as they pass, as they venture between each o
 Too dense-packed tribute-collage of my montaged highschool panic attacks.
 
 So I'll head back inside, run the washing machines, in avoidance of all of my anxiety.  
-Pretending away to squish and dismay the backbeat tremor of this heart with its pulse in decay.  
+Pretending away to squish and dismay the backbeat tremor of this heart with its pulse in decay.

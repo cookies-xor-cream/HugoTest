@@ -23,4 +23,4 @@ That's stuck on infinite repeat.
 And I'll compress it into words,  
 With the frequency dispersed  
 In the gnawing of the gadfly curse,  
-Delivered exactly as rehearsed.  
+Delivered exactly as rehearsed.

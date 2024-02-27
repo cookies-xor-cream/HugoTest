@@ -23,4 +23,4 @@ Arachnid glassware's eluding truth,
 As string slips out from under you,  
 A fragile network burning down,  
 And we're both wrapped up in cocoons  
-Entangled and fated to drown tonight.  
+Entangled and fated to drown tonight.

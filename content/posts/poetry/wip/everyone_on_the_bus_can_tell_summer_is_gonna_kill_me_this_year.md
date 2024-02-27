@@ -12,4 +12,4 @@ I'm a wasp breaking out a fruit-clad shell.
 They can tell by the way she twists her words,  
 Your tongue is wedlock to the dirt,  
 They can tell by the way I ration them,  
-I don't have a chance in hell with her.  
+I don't have a chance in hell with her.

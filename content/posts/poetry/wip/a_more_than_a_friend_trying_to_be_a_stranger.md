@@ -12,4 +12,4 @@ It's an orchestration, it's all her and in no part me.
 The evidence was planted, I'm red handed and branded,  
 It's scribbled in scarlet, our darling's left-handed,  
 But you know I declined, I washed her digits away,  
-Ten down the sink, the soap keeps her contact at bay.  
+Ten down the sink, the soap keeps her contact at bay.

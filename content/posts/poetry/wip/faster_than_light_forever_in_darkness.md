@@ -11,4 +11,4 @@ Once from her and once from the stop sign stood besides us.
 I told you that I wanted this,  
 You told me there's nothing you want that you could see.  
 But graced by matching eyelines, now you're stood here telling me:  
-You were stupid, FTL, employing breakneck haste with me.  
+You were stupid, FTL, employing breakneck haste with me.

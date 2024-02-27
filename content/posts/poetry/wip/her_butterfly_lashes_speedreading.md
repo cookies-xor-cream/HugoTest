@@ -15,4 +15,4 @@ She told me that she fell in love,
 Thought some time apart would calm her heart.
 
 There was something in the way your eyes fluttered around the space,  
-Only to find themselves in a nesting, sitting idly perched upon my face.  
+Only to find themselves in a nesting, sitting idly perched upon my face.

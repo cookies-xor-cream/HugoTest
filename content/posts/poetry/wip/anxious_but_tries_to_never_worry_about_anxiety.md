@@ -17,4 +17,4 @@ If all you do is think, you can only think about your thoughts,
 And if all you do is worry, then stress is all you're stressed about,  
 But by its design overthinking's not so eager to dismiss,  
 We think badly of our misery, but calm might lead to boredom,  
-And I'm living testament that boredom comes with risks.  
+And I'm living testament that boredom comes with risks.

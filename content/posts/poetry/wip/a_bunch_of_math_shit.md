@@ -11,4 +11,4 @@ I'm gonna triangulate myself between these feelings at 1, independent on x and y
 I fucked up got my bases muddles, premises puzzled, my conclusion is an accident at best.  
 And if you wanna see the worst I'll pick my axiom of choice, and we'll put the answer there, so it can try attest.  
 But either way, I swear to god, if life was fucking graded I would've got the working then failed on arithmetic:  
-Landing me a very solid fourty something: a final fucking failing on this final fucking jesting of a test.  
+Landing me a very solid fourty something: a final fucking failing on this final fucking jesting of a test.

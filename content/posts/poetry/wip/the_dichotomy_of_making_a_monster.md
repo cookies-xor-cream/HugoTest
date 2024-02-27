@@ -29,4 +29,4 @@ when half truths are in essence lies.
 What kind of truth is honesty?  
 What kind of lies comprise deceit?  
 If you require response from me,  
-then maybe you should just concede?  
+then maybe you should just concede?

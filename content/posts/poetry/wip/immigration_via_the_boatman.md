@@ -17,4 +17,4 @@ For it's in analogue, and I'm reading it all wrong.
 I swear where I am Elysium's an hour behind me,  
 And a rewind, heaven-sent, would set me free,  
 Don't tie me to the mast, I'll exit out to sea,  
-Where time would close the distance onto me.  
+Where time would close the distance onto me.

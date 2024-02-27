@@ -42,4 +42,4 @@ Rewrote and rerehearsed.
 But now I'm waking up too late,  
 With stupid questions on my mind,  
 Like did she even show?  
-And did I waste her time?  
+And did I waste her time?

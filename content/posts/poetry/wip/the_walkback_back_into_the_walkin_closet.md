@@ -66,4 +66,4 @@ Even dare compare?"
 
 ("Oh and by the way, a final footnote,  
 I love whatever it is you've been doing  
-With your hair")  
+With your hair")

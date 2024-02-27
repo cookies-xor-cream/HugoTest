@@ -17,4 +17,4 @@ Shower curtain screen.
 I guess we'll talk about this here,  
 With this parchment in between,  
 Your words have never been more clear,  
-Muffled by the shower curtain screen.  
+Muffled by the shower curtain screen.

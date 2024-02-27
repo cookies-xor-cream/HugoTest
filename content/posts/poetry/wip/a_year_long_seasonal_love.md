@@ -12,4 +12,4 @@ That you're the only one for me.
 Through winter wind on howling nights,  
 Through summer's cresting heat and light,  
 I know you're the only one for me,  
-That's how it was always meant to be.  
+That's how it was always meant to be.

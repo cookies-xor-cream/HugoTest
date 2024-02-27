@@ -42,4 +42,4 @@ Long after I am gone.
 And I'd miss you, I'd be buried,  
 Way too deep to hear your voice,  
 But I'd die happy fully knowing  
-That that problem isn't yours  
+That that problem isn't yours

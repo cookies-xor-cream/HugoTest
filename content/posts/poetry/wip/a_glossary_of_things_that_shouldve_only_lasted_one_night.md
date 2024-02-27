@@ -16,4 +16,4 @@ And if you die down here, here at the base of this flight of stairs, it ends ton
 
 You'll leave as quickly as you came, with the taste of blood stuck to your tongue and disdain quietly having found its place inside those empty eyes.
 
-I shouldn't have said hello, I don't want to say goodbye.  
+I shouldn't have said hello, I don't want to say goodbye.

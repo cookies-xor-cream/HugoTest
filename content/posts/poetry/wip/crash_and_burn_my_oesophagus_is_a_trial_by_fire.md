@@ -27,4 +27,4 @@ For a hydrochloric pH one egress.
 I'm a denizen of these ceramic tiles,  
 Ad infinitum, till forever comes to pass,  
 I'd trade a bullet for a swift departure,  
-I've got the burn, now I'm looking for a crash.  
+I've got the burn, now I'm looking for a crash.

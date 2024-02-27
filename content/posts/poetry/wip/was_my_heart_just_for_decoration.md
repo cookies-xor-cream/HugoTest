@@ -12,4 +12,4 @@ But fossilise to stay intact.
 If I could cull my thoughts, I would,  
 Not for the falsity that I think of you,  
 But to fabricate a bad excuse  
-For a heart that tried at what it could never do.  
+For a heart that tried at what it could never do.

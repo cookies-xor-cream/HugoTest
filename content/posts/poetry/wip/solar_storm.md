@@ -17,4 +17,4 @@ I realised all that's left to do was pray.
 You're like a blackhole for my memories,  
 When I'm with you history can't follow me,  
 I'm drawn to you, but lack the gravity,  
-And so it's *you* who has to summon *me*.  
+And so it's *you* who has to summon *me*.

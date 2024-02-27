@@ -101,4 +101,4 @@ And it's such a shame that ash forgets,
 A myth or distant memory is all the evidence  
 That your story now has left.
 
-And the ocean's come to take that all away again.  
+And the ocean's come to take that all away again.

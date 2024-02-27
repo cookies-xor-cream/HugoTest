@@ -22,4 +22,4 @@ And always understood.
 And respect makes  
 My 'no' turn right around  
 Into an answer that's  
-That's more 'yes'-bound.  
+That's more 'yes'-bound.

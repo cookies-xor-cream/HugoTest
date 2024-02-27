@@ -13,4 +13,4 @@ Fuck off. Fuck off. Fuck off. Fuck off.
 You don't sit on my fucking floor.  
 So... fucking please leave me alone?  
 What the fuck did I do to deserve  
-This disaster of a shitstorm?  
+This disaster of a shitstorm?

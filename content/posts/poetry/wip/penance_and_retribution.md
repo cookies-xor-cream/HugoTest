@@ -45,4 +45,4 @@ No penance payed, no time enough.
 
 Hell: short, or long, or forever,  
 Even death's nevermore can't tear this jury asunder.  
-One death, or a hundred, we're sorely short of penance or punishment.  
+One death, or a hundred, we're sorely short of penance or punishment.

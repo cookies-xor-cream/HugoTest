@@ -11,4 +11,4 @@ She found less freedom in agency than in solving the Navier-Stokes.
 With a needle through her brain, her thorax is all that's left intact,  
 The twitching isn't a sign of life, but a meticulous facade,  
 Her wings flap victim to the current, and not her illusion of choice,  
-Her autonomy has been excised in favour of a palatable voice.  
+Her autonomy has been excised in favour of a palatable voice.

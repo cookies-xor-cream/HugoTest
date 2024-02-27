@@ -66,4 +66,4 @@ Could we forget it, buddy, please?"
 
 And she agreed to fracture, separate,  
 Because resistance can be of use,  
-But can never a friendship make.  
+But can never a friendship make.

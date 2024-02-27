@@ -32,4 +32,4 @@ And I agree with that, I just don't think that it's so goddamn bad.
 I think 'love' is not so fitting for something known so fleeting.  
 For when day breaks open and sunshine starts to spill,  
 You will no longer catch me staring down your sleeping  
-From my favourite spot that I'd inherit upon your windowsill.  
+From my favourite spot that I'd inherit upon your windowsill.

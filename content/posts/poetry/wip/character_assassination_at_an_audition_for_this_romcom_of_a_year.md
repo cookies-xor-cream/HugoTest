@@ -27,4 +27,4 @@ Let's cut for break, we're overtime.
 I'm sorry for my rude decline,  
 But I trust that she'll hold up fine,  
 I cut the take and find my lines,  
-"This shot's done, thanks for your time".  
+"This shot's done, thanks for your time".

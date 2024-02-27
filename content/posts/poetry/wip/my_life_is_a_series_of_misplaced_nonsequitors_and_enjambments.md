@@ -32,4 +32,4 @@ There's a demon in slumber at the end,
 At the terminus of this silent pause.
 
 And I'm afraid that to tread him over,  
-Means that I will see his ire wake.  
+Means that I will see his ire wake.

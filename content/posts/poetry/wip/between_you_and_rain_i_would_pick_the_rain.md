@@ -28,4 +28,4 @@ In the fact that you
 SO  
 FUCKING  
 STUBBORNLY  
-PERSIST?  
+PERSIST?

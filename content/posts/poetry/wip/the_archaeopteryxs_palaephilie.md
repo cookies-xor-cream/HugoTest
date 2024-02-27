@@ -20,4 +20,4 @@ I got your number, but no data as to where we might stand.
 So my petra in ice, my quintuplet of spice,  
 My rock given wings, my osseous thing,  
 A culture shock of a time and a place far away,  
-Tell me, brittle-boned bird, should I dig up your grave?  
+Tell me, brittle-boned bird, should I dig up your grave?

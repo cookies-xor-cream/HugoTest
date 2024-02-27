@@ -19,4 +19,4 @@ Fuck Orpheus.
 
 Euphemia, if you're here, I know that you're still yelling.  
 Stop, please stop wasting all your little precious breath  
-(Although it's not like you've got use for it anyway).  
+(Although it's not like you've got use for it anyway).

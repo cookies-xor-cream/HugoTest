@@ -17,4 +17,4 @@ Please untether me with a four-week notice,
 Of all these mortal things and follies made.
 
 I resign my position as a thing of being,  
-I retract my life and give up my name.  
+I retract my life and give up my name.

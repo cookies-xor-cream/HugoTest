@@ -13,4 +13,4 @@ Try to understand, don't idly stare and stand.
 
 I was so fucking close to having a quiet normal day,  
 Why the fuck did you have to grace it with your lack of empathy,  
-Why did you have to inch me closer to 'jaded' and 'dismayed'?  
+Why did you have to inch me closer to 'jaded' and 'dismayed'?

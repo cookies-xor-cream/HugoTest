@@ -20,4 +20,4 @@ But I suppose that nightvision must be a birthrite, not a bloodrite,
 All this balancing of reactants got away from me.
 
 Guess we splashed the film with some heliocentric, solipsistic tendencies,  
-And now it can't quite see in the lighting that you'd find at the bottom of the sea.  
+And now it can't quite see in the lighting that you'd find at the bottom of the sea.

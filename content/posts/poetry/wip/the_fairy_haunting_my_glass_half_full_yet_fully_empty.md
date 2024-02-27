@@ -22,4 +22,4 @@ Coz as much as I want my words
 To coincide with your suicide,  
 My hands are tied, and not the noose,  
 And it's not because I haven't tried,  
-My battered soul, my jaded muse".  
+My battered soul, my jaded muse".

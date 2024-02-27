@@ -18,4 +18,4 @@ A rose called by another name,
 Is in its nature still a rose.
 
 So why is it when my name's transposed,  
-My stubborn ghosts must then erode?  
+My stubborn ghosts must then erode?

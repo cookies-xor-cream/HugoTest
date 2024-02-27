@@ -19,4 +19,4 @@ Some fabled bit of tragedy,
 A glimpse into your yesteryear for me.
 
 And if you took the time to really look, you'd see.  
-If you're living with the future, it'd be happier sans me.  
+If you're living with the future, it'd be happier sans me.

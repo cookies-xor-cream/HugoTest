@@ -27,4 +27,4 @@ To convey this void within.
 For I often feel as if  
 The opposite of full  
 Is the only remnant thing  
-That which I am at all.  
+That which I am at all.

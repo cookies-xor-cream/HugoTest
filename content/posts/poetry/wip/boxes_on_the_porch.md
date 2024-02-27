@@ -24,4 +24,4 @@ I read the triple, but will burn the cards,
 For every word has gone unheard.
 
 I'll write you over, I'll scribe a tale,  
-A fable of the dread been dealt.  
+A fable of the dread been dealt.

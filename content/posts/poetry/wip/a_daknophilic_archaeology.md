@@ -10,4 +10,4 @@ You could just cast the imprints
 I placed underneath her sleeves.
 
 The scars might last but every inch of every mark will come to pass,  
-They're all fading way too fast, I'm not sure if I'm okay with that.  
+They're all fading way too fast, I'm not sure if I'm okay with that.

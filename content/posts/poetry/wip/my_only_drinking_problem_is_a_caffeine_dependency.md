@@ -22,4 +22,4 @@ date: 2024-02-26
 *If she has ears, then I have eyes,*  
 *If she has teeth then I have hands,*  
 *It's an equivalent exchange,*  
-*Not for senses, but for demand."*  
+*Not for senses, but for demand."*

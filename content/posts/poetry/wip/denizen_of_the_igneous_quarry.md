@@ -9,4 +9,4 @@ Plastered to albanescing basalt, in the cracks,
 You're excorised of wisps of soulful embers,  
 Until your spirit's wrought and charred to black,  
 Monochrome with your pyroclastic temperament  
-And volcanic ashen temper.  
+And volcanic ashen temper.

@@ -32,4 +32,4 @@ Like an unlit neon sign.
 I thought that I had time.  
 I thought that it would turn out fine,  
 But the fuse burnt out inside of me  
-When she mustered "yeah, she died".  
+When she mustered "yeah, she died".

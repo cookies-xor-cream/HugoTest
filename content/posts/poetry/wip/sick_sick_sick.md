@@ -39,4 +39,4 @@ I think I found,
 A path out  
 On the wall.
 
-I can only hope,  
+I can only hope,

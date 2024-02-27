@@ -32,4 +32,4 @@ And so she can be bought.
 Her heart comes with  
 A gift-bag and receipt.  
 Her mind comes with  
-Doublethink and conceit.  
+Doublethink and conceit.

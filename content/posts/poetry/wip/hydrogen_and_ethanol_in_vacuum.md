@@ -28,4 +28,4 @@ So tell me dear, if you had sights set on the sky, would you bring popcorn and a
 
 Although technically, I suppose, the break of dusk in the graveyard is all that we foretold. The models of our chemistry have really got away from me,  
 Stating that togetherness is based on a proclivity for mutual reciprocated reactivity.  
-We're explaining things we shouldn't do, like this chemical clock that's comprised from me and you.  
+We're explaining things we shouldn't do, like this chemical clock that's comprised from me and you.

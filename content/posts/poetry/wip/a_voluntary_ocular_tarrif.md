@@ -38,4 +38,4 @@ Hollow, spilling.
 The sun is empty,  
 Just as you are,  
 Your eyes have drowned  
-In darkness well-sought.  
+In darkness well-sought.

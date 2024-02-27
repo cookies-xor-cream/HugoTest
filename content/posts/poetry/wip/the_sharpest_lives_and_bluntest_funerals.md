@@ -17,4 +17,4 @@ Let me be the start to your killing spree.
 The difference between me and your corpse  
 Is that your revenant has no use for its bones,  
 Despite your skeleton you're always lame,  
-Ablast, aghast, and abattered in the quiet subterrain.  
+Ablast, aghast, and abattered in the quiet subterrain.

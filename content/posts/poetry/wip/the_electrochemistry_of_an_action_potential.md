@@ -20,4 +20,4 @@ Stuck still in a calm eternity of a forever stuck in flux,
 We'll reduce ourselves to chemicals, turn it positive, call it redox.
 
 For when I brushed your hand I only felt the static crackle on the plastic of you skin,  
-I hope I was something more to you than an action, or an impulse, or an electron sink.  
+I hope I was something more to you than an action, or an impulse, or an electron sink.

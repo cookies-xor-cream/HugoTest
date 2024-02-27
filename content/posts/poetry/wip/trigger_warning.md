@@ -11,4 +11,4 @@ You really couldn't have picked means more akin to butchering that leave a mess 
 I think that it will never not fuck with me how, no matter the girl, you see them smiling an hour before their half-hearted attempt.
 
 But intent was besides the point.  
-And you know, the hardest part of all of this was trying this hard not to scream when the doctors let you out of bed so that we could finally meet.  
+And you know, the hardest part of all of this was trying this hard not to scream when the doctors let you out of bed so that we could finally meet.

@@ -13,4 +13,4 @@ A start, or a wait, well neither way
 Would I have ever let you stay.  
 There's everything that you have done,  
 So now there's nothing that you can say  
-To see the past undone.  
+To see the past undone.

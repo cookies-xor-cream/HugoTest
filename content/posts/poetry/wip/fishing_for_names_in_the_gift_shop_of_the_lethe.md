@@ -18,4 +18,4 @@ For resurrecting revenants,
 For these irreverent reveries.
 
 I never believed so much in you,  
-But I'm glad that you believed in me.  
+But I'm glad that you believed in me.

@@ -27,4 +27,4 @@ These kinks we find in space and time.
 If I could go back to a Thursday that has long since passed,  
 I'd assess my doctrine, doctored to match the task at hand,  
 A breakup with a friend I've never even acquainted, never met,  
-A folly made of her and of our dear and barrenly-laid kismet.  
+A folly made of her and of our dear and barrenly-laid kismet.

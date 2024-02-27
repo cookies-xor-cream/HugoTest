@@ -22,4 +22,4 @@ And a coffee at midnight, not nursed but beaten to death.
 She has the violence of a feeling I long since forgot,  
 Some festering suggestion of a terminal rot,  
 A gangrene, infection, a wound from a war,  
-A knife traced from dorsum, and then up to my arm.  
+A knife traced from dorsum, and then up to my arm.

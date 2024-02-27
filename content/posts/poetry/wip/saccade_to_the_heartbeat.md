@@ -24,4 +24,4 @@ Some abject terror you were worried would go unheard.
 But I can't meet this inelastic overflowed demand,  
 There's too little supply of my two lone hands,  
 It's such a shame that I jitter at the slightest touch,  
-Some eldritch twitch that wires both our jaws.  
+Some eldritch twitch that wires both our jaws.

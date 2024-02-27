@@ -22,4 +22,4 @@ As a side-eyed glaring from its face.
 The hands are drifting out of sync,  
 The small one, a fiftieth of the other's speed,  
 And I'm thinking on the implications,  
-Of how each hour sees a sixth of it concede.  
+Of how each hour sees a sixth of it concede.

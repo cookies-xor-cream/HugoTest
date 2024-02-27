@@ -20,4 +20,4 @@ I don't mind a drink so that we could maybe meet to mull it over once.
 But it'll be over after that.
 
 Over, because bar some twist of fate or intervention of divine intent,  
-Over is all I'll let it be come monday morning the coming week.  
+Over is all I'll let it be come monday morning the coming week.

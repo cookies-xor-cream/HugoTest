@@ -22,4 +22,4 @@ Burden off of me.
 Find me not so singly directed,  
 But pointed with my little purpose,  
 Sans agency, just barely light enough  
-To fall causal to an autumn breeze.  
+To fall causal to an autumn breeze.

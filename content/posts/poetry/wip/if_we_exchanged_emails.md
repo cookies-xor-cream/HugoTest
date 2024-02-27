@@ -15,4 +15,4 @@ But I know that you've got bigger fish to fry, and so I took it on myself to bur
 Sincerely,  
 Whatever I Was, And Everything I Will Never Be Next Time
 
-Sent from my iphone or whatever the fuck my email signoff is  
+Sent from my iphone or whatever the fuck my email signoff is

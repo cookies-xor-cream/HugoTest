@@ -29,4 +29,4 @@ Nothing is all that's left in me.
 Someone swiped a magnet on my chest,  
 My heart crashed but forgot to self-reset,  
 And I'm scrambling for the power switch,  
-It must've been left inside when I had the thing restitched.  
+It must've been left inside when I had the thing restitched.

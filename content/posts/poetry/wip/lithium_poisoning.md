@@ -37,4 +37,4 @@ To turn a profit around onto.
 But you tried to liquidate,  
 To cut the symptoms, not the roots.  
 Lucky the devil's not a botanist,  
-For the reaper's missed his cue.  
+For the reaper's missed his cue.

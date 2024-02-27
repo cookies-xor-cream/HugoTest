@@ -10,4 +10,4 @@ For justice isn't served.
 
 Time and fate make a cruel duet  
 To deal hands as they see fit  
-And not as we beget.  
+And not as we beget.

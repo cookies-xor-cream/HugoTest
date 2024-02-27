@@ -12,4 +12,4 @@ A placid corruption that poisons night.
 And tell me, my petra in the sky,  
 Does air thin out way up that high?  
 For it always knocks me out of flight,  
-Into a comet running from a tail inbound.  
+Into a comet running from a tail inbound.

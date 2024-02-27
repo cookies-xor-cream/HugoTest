@@ -27,4 +27,4 @@ With words like slugs, not stones or sticks.
 And we'll catapult this muraled wall,  
 If words wished to stick, they would adhese,  
 When we hose it down the remainder paints  
-Us a tapestry of our shared peace.  
+Us a tapestry of our shared peace.

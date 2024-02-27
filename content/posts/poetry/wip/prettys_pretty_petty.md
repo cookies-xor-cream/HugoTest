@@ -12,4 +12,4 @@ You are a bitterness conflating this headspin of a life with a habit of chaining
 If you want to smoke and fizzle out, if it's cancer that you're so dead set on chasing,  
 I haven't any right to stop you, that's a choice that you have a freedom in contracting,  
 But I'm infinitely afraid of being in a room alone with you which lacks the vacancy for air,  
-I'm scared of standing with my shoulder to your shoulder, closet-bound to a 7 minutes spent in hell.  
+I'm scared of standing with my shoulder to your shoulder, closet-bound to a 7 minutes spent in hell.

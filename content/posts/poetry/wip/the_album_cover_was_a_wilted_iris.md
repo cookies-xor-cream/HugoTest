@@ -13,4 +13,4 @@ If we were a flower, it would wither stood in place, blue turned grey, exemplar 
 I wish I would forget the bloom inside your eyes when I made our grave in the bedroom of your heart,  
 That dumbfound playful tone juxtaposed, underscoring the soundtrack of this sandwiched Sorority Noise.  
 I hate that all these blisters we inherited, wrestling the carpet down below all had to promptly go,  
-To find a grave to die benign as the B-side to the back-track of the death of a cassette in a crevice labelled 'life'.  
+To find a grave to die benign as the B-side to the back-track of the death of a cassette in a crevice labelled 'life'.

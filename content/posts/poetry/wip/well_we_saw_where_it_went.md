@@ -15,4 +15,4 @@ Edge you on the final inch of life.
 
 It would wipe the vestiges away,  
 Leaving nothing but a murder mystery  
-That a storm cloud wrote for me.  
+That a storm cloud wrote for me.
