@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'She Knows So Much About Where I'm From, But I Know Nothing About Japan'
+title: "She Knows So Much About Where I'm From, But I Know Nothing About Japan"
 date: 2024-02-26
 ---
 

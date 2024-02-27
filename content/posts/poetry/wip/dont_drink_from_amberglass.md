@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Don't Drink From Amber(glass)'
+title: "Don't Drink From Amber(glass)"
 date: 2024-02-26
 ---
 

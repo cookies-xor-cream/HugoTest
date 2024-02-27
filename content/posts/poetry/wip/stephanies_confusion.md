@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Stephanie's Confusion'
+title: "Stephanie's Confusion"
 date: 2024-02-26
 ---
 

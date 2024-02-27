@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Improvising Napkins Out Of Sanity Products In A Stranger's Purse'
+title: "Improvising Napkins Out Of Sanity Products In A Stranger's Purse"
 date: 2024-02-26
 ---
 

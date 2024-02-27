@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'A 'More Than A Friend?' Trying To Be A Stranger'
+title: "A 'More Than A Friend?' Trying To Be A Stranger"
 date: 2024-02-26
 ---
 

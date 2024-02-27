@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'RSVPing 'No''
+title: "RSVPing 'No'"
 date: 2024-02-26
 ---
 

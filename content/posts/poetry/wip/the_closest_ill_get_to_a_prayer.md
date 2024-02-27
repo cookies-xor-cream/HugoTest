@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'The Closest I'll Get To A Prayer'
+title: "The Closest I'll Get To A Prayer"
 date: 2024-02-26
 ---
 

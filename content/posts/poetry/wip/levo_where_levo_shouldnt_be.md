@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Levo Where Levo Shouldn't Be'
+title: "Levo Where Levo Shouldn't Be"
 date: 2024-02-26
 ---
 

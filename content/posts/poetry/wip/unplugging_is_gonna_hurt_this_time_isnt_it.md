@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Unplugging Is Gonna Hurt This Time, Isn't It?'
+title: "Unplugging Is Gonna Hurt This Time, Isn't It?"
 date: 2024-02-26
 ---
 

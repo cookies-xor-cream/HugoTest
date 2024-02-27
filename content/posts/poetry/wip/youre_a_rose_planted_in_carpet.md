@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'You're A Rose Planted In Carpet'
+title: "You're A Rose Planted In Carpet"
 date: 2024-02-26
 ---
 

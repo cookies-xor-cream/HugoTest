@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: '"There Weren't Sparks, There Was Lightning"'
+title: "“There Weren't Sparks, There Was Lightning”"
 date: 2024-02-26
 ---
 

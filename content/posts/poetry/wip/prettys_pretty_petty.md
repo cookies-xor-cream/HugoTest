@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Pretty's Pretty Petty'
+title: "Pretty's Pretty Petty"
 date: 2024-02-26
 ---
 

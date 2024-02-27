@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Steph's Journal'
+title: "Steph's Journal"
 date: 2024-02-26
 ---
 

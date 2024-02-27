@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Ironic How It's Hard To Stay Upbeat With Two On The Floor'
+title: "Ironic How It's Hard To Stay Upbeat With Two On The Floor"
 date: 2024-02-26
 ---
 

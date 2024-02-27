@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: '"If You Like Cadmium So Much Why Don't You Marry Her"'
+title: "“If You Like Cadmium So Much Why Don't You Marry Her”"
 date: 2024-02-26
 ---
 

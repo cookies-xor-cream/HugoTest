@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'I Wish My Job Was As Easy As Father Time's'
+title: "I Wish My Job Was As Easy As Father Time's"
 date: 2024-02-26
 ---
 

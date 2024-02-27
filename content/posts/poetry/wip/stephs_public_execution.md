@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Steph's Public Execution'
+title: "Steph's Public Execution"
 date: 2024-02-26
 ---
 

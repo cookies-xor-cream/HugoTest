@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Shame I'm Not A Perfectionist, Because This Would've Been Perfect'
+title: "Shame I'm Not A Perfectionist, Because This Would've Been Perfect"
 date: 2024-02-26
 ---
 

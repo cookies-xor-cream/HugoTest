@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'The Halting Problem I/O U: Don't Insert 50c To Continue'
+title: "The Halting Problem I/O U: Don't Insert 50c To Continue"
 date: 2024-02-26
 ---
 

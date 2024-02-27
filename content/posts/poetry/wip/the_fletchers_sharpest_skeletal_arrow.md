@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'The Fletcher's Sharpest Skeletal Arrow'
+title: "The Fletcher's Sharpest Skeletal Arrow"
 date: 2024-02-26
 ---
 

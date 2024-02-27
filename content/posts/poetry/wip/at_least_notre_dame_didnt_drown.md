@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'At Least Notre Dame Didn't Drown'
+title: "At Least Notre Dame Didn't Drown"
 date: 2024-02-26
 ---
 

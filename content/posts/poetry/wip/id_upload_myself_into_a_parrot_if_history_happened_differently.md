@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'I'd Upload Myself Into A Parrot If History Happened Differently'
+title: "I'd Upload Myself Into A Parrot If History Happened Differently"
 date: 2024-02-26
 ---
 

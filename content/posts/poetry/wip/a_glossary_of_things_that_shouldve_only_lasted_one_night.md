@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'A Glossary Of Things That Should've Only Lasted One Night'
+title: "A Glossary Of Things That Should've Only Lasted One Night"
 date: 2024-02-26
 ---
 

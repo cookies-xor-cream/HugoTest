@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'The Sender's Address Was A Recently Empty Apartment'
+title: "The Sender's Address Was A Recently Empty Apartment"
 date: 2024-02-26
 ---
 

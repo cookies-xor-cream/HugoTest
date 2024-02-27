@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'The Finale's Scripted'
+title: "The Finale's Scripted"
 date: 2024-02-26
 ---
 

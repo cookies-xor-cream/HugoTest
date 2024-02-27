@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: '"Cadmium Iodide" Is Autobiographical Nomenclature Because 'Cadmium And I' Died'
+title: "'Cadmium Iodide' Is Autobiographical Nomenclature Because 'Cadmium And I' Died"
 date: 2024-02-26
 ---
 

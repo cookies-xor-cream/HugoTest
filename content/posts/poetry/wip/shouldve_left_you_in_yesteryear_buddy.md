@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Should've Left You In Yesteryear Buddy'
+title: "Should've Left You In Yesteryear Buddy"
 date: 2024-02-26
 ---
 

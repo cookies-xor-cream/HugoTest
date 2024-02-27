@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'Captain, We're Sinking'
+title: "Captain, We're Sinking"
 date: 2024-02-26
 ---
 

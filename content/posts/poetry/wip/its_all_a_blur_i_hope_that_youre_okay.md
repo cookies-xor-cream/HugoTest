@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'It's All A Blur, I Hope That You're Okay'
+title: "It's All A Blur, I Hope That You're Okay"
 date: 2024-02-26
 ---
 

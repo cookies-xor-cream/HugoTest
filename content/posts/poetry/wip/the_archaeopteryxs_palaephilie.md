@@ -1,6 +1,6 @@
 ---
 tags: ['New']
-title: 'The Archaeopteryx's Palaephilie'
+title: "The Archaeopteryx's Palaephilie"
 date: 2024-02-26
 ---
 
